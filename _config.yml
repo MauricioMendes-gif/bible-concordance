@@ -1,5 +1,5 @@
 title: Concordância Bíblica Completa
-description: Busca inteligente por lemas, frequência e referências cruzadas.
+description: Busca inteligente por lemas, frequência e referências cruzadas. Texto em domínio público.
 url: "https://MauricioMendes-gif.github.io"
 baseurl: "/bible-concordance"
 markdown: kramdown
@@ -12,5 +12,8 @@ exclude:
   - .venv/
   - bible_*.json
   - README.md
+  - node_modules/
 keep_files:
   - assets/data/
+  - assets/css/
+  - assets/js/
