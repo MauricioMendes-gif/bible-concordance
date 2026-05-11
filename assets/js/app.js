@@ -26,6 +26,7 @@
   const statsPanel = document.getElementById('stats-panel');
   const modal = document.getElementById('verse-modal');
   const modalBody = document.getElementById('verse-modal-body');
+  const modalClose = document.querySelector('.modal-close');
   const installBanner = document.getElementById('install-banner');
   const installBtn = document.getElementById('install-btn');
   const dismissInstall = document.getElementById('dismiss-install');
@@ -51,13 +52,15 @@
   }
 
   async function loadStats() {
-    if (statsPanel.classList.contains('d-none')) statsPanel.classList.remove('d-none');
+    if (statsPanel?.classList.contains('d-none')) statsPanel.classList.remove('d-none');
     const fetchMeta = async (v) => { try { const r = await fetch(`${DATA_BASE}${v.toLowerCase()}/meta.json`); return r.ok ? await r.json() : null; } catch { return null; } };
     const acf = await fetchMeta('ACF'), arc = await fetchMeta('ARC');
-    document.getElementById('stat-acf-verses').textContent = acf?.total_verses?.toLocaleString('pt-BR') || '–';
-    document.getElementById('stat-acf-lemmas').textContent = acf?.unique_lemmas?.toLocaleString('pt-BR') || '–';
-    document.getElementById('stat-arc-verses').textContent = arc?.total_verses?.toLocaleString('pt-BR') || '–';
-    document.getElementById('stat-arc-lemmas').textContent = arc?.unique_lemmas?.toLocaleString('pt-BR') || '–';
+    if (document.getElementById('stat-acf-verses')) {
+      document.getElementById('stat-acf-verses').textContent = acf?.total_verses?.toLocaleString('pt-BR') || '–';
+      document.getElementById('stat-acf-lemmas').textContent = acf?.unique_lemmas?.toLocaleString('pt-BR') || '–';
+      document.getElementById('stat-arc-verses').textContent = arc?.total_verses?.toLocaleString('pt-BR') || '–';
+      document.getElementById('stat-arc-lemmas').textContent = arc?.unique_lemmas?.toLocaleString('pt-BR') || '–';
+    }
   }
 
   async function loadStrongs() {
@@ -75,16 +78,24 @@
     return versesCache[vPath][ref] || 'Texto não disponível.';
   }
 
+  // 📖 Modal (corrigido)
   function openModal(ref) {
     getVerseText(ref).then(text => {
       modalBody.innerHTML = `<h3 class="modal-title">${ref}</h3><p class="modal-text">${text}</p>`;
       modal.classList.add('active');
       document.body.style.overflow = 'hidden';
+      modalClose?.focus();
     });
   }
-  function closeModal() { modal.classList.remove('active'); document.body.style.overflow = ''; }
-  modal?.addEventListener('click', e => { if (e.target === modal || e.target.closest('.modal-close')) closeModal(); });
-  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+  function closeModal() {
+    modal.classList.remove('active');
+    document.body.style.overflow = '';
+    input?.focus();
+  }
+  // Handlers explícitos para fechar modal
+  modalClose?.addEventListener('click', (e) => { e.stopPropagation(); closeModal(); });
+  modal?.addEventListener('click', (e) => { if (e.target === modal) closeModal(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && modal.classList.contains('active')) { e.preventDefault(); closeModal(); } });
 
   // Delegação de Eventos (hover + click + copy + pagination)
   results.addEventListener('mouseover', async (e) => {
@@ -105,13 +116,15 @@
     if (!wrapper || !wrapper.contains(e.relatedTarget)) preview.style.display = 'none';
   });
   results.addEventListener('click', (e) => {
-    if (e.target.closest('.ref-link')) { e.preventDefault(); openModal(e.target.closest('.ref-link').dataset.ref); return; }
-    if (e.target.closest('.copy-btn')) {
+    const link = e.target.closest('.ref-link');
+    if (link) { e.preventDefault(); e.stopPropagation(); openModal(link.dataset.ref); return; }
+    const copyBtn = e.target.closest('.copy-btn');
+    if (copyBtn) {
       e.stopPropagation();
-      const ref = e.target.closest('.ref-wrapper').dataset.ref;
+      const ref = copyBtn.closest('.ref-wrapper').dataset.ref;
       navigator.clipboard.writeText(ref).then(() => {
-        e.target.closest('.copy-btn').textContent = '✅';
-        setTimeout(() => e.target.closest('.copy-btn').textContent = '📋', 1500);
+        copyBtn.textContent = '✅';
+        setTimeout(() => copyBtn.textContent = '📋', 1500);
       });
       return;
     }
@@ -170,13 +183,49 @@
     else btn.textContent = `Carregar mais (${currentSortedRefs.length - newShown})`;
   }
 
+  // ⌨️ Eventos de input
   let timer;
   input?.addEventListener('input', e => { clearTimeout(timer); clearBtn?.classList.toggle('d-none', !e.target.value.trim()); timer = setTimeout(() => search(e.target.value), 300); });
   clearBtn?.addEventListener('click', () => { input.value=''; clearBtn.classList.add('d-none'); results.innerHTML=''; status.textContent=''; input.focus(); });
   versionSelect?.addEventListener('change', e => { currentVersion = e.target.value; cache.clear(); search(input.value || 'amor'); });
-  window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredPrompt = e; if (!pwaDismissed) installBanner.classList.remove('d-none'); });
-  installBtn?.addEventListener('click', () => { if (deferredPrompt) { deferredPrompt.prompt(); deferredPrompt.userChoice.then(r => { if(r.outcome==='accepted') installBanner.classList.add('d-none'); deferredPrompt=null; }); } });
-  dismissInstall?.addEventListener('click', () => { installBanner.classList.add('d-none'); localStorage.setItem('pwa_install_dismissed', 'true'); });
 
-  document.addEventListener('DOMContentLoaded', () => { loadStats(); loadStrongs(); if ('serviceWorker' in navigator) navigator.serviceWorker.register('/bible-concordance/sw.js'); });
+  // 📱 PWA Install (corrigido + fallback)
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
+    deferredPrompt = e;
+    if (!pwaDismissed && installBanner) installBanner.classList.remove('d-none');
+  });
+  // Fallback: mostra banner se estiver em mobile + HTTPS + não instalado
+  window.addEventListener('load', () => {
+    const isMobile = /Android|iPhone|iPad/i.test(navigator.userAgent);
+    const isHTTPS = window.location.protocol === 'https:' || window.location.hostname === 'localhost';
+    const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
+    if (isMobile && isHTTPS && !isStandalone && !pwaDismissed && !deferredPrompt && installBanner) {
+      setTimeout(() => installBanner.classList.remove('d-none'), 3000);
+    }
+  });
+  installBtn?.addEventListener('click', async () => {
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      const { outcome } = await deferredPrompt.userChoice;
+      if (outcome === 'accepted') installBanner?.classList.add('d-none');
+      deferredPrompt = null;
+    } else {
+      // Fallback: instruções manuais
+      alert('📱 Para instalar: no menu do navegador, clique em "Adicionar à tela inicial" ou "Instalar aplicativo".');
+      installBanner?.classList.add('d-none');
+      localStorage.setItem('pwa_install_dismissed', 'true');
+    }
+  });
+  dismissInstall?.addEventListener('click', () => {
+    installBanner?.classList.add('d-none');
+    localStorage.setItem('pwa_install_dismissed', 'true');
+  });
+
+  // 🚀 Init
+  document.addEventListener('DOMContentLoaded', () => {
+    loadStats();
+    loadStrongs();
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('/bible-concordance/sw.js').catch(()=>{});
+  });
 })();

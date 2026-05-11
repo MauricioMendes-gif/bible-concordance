@@ -41,7 +41,7 @@ title: ""
 </footer>
 
 <!-- 📖 Modal de Versículo -->
-<div id="verse-modal" class="modal-overlay" role="dialog" aria-modal="true">
+<div id="verse-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-hidden="true">
   <div class="modal-content">
     <button class="modal-close" aria-label="Fechar modal">✕</button>
     <div id="verse-modal-body"></div>
@@ -52,10 +52,10 @@ title: ""
 <div id="verse-preview"></div>
 
 <!-- 📱 Banner PWA -->
-<div id="install-banner" class="install-banner d-none">
+<div id="install-banner" class="install-banner d-none" role="alert">
   <span>📱 Instale como app para uso offline</span>
   <button id="install-btn" class="btn btn-sm btn-primary ms-2">Instalar</button>
-  <button id="dismiss-install" class="btn btn-sm btn-link text-muted ms-1">✕</button>
+  <button id="dismiss-install" class="btn btn-sm btn-link text-muted ms-1" aria-label="Dispensar">✕</button>
 </div>
 
 <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
