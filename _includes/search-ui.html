@@ -1,0 +1,38 @@
+<div class="search-container mb-5">
+  <form class="search-form" role="search" onsubmit="return false;">
+    <label for="concordance-input" class="visually-hidden">Buscar palavra na Bíblia</label>
+    <div class="search-input-wrapper position-relative">
+      <span class="search-icon position-absolute top-50 start-0 translate-middle-y ps-3 text-muted">🔍</span>
+      <input 
+        type="search" 
+        id="concordance-input" 
+        class="form-control form-control-lg ps-5" 
+        placeholder="Digite uma palavra (ex: criar, fé, graça)..." 
+        autocomplete="off" 
+        autocorrect="off" 
+        autocapitalize="off" 
+        spellcheck="false"
+        aria-describedby="search-help"
+        minlength="3"
+      >
+      <button type="button" id="clear-search" class="btn btn-link position-absolute top-50 end-0 translate-middle-y pe-3 text-muted d-none" aria-label="Limpar busca">✕</button>
+    </div>
+    <small id="search-help" class="form-text text-muted d-block mt-2">
+      💡 Busca por <strong>lema</strong>: "criar" encontra "criou", "criação", "criando"...
+      <kbd class="ms-2 px-1 py-0 bg-light border rounded small">Ctrl</kbd>+<kbd class="ms-1 px-1 py-0 bg-light border rounded small">K</kbd> para focar
+    </small>
+  </form>
+  
+  <div id="status" class="status mt-3 min-vh-0" role="status" aria-live="polite"></div>
+  
+  <div id="suggestions" class="suggestions mt-2 d-none">
+    <small class="text-muted">Sugestões:</small>
+    <div class="d-flex flex-wrap gap-2 mt-1">
+      <button class="btn btn-sm btn-outline-secondary suggestion-chip" data-word="amor">amor</button>
+      <button class="btn btn-sm btn-outline-secondary suggestion-chip" data-word="fé">fé</button>
+      <button class="btn btn-sm btn-outline-secondary suggestion-chip" data-word="graça">graça</button>
+      <button class="btn btn-sm btn-outline-secondary suggestion-chip" data-word="esperança">esperança</button>
+      <button class="btn btn-sm btn-outline-secondary suggestion-chip" data-word="verdade">verdade</button>
+    </div>
+  </div>
+</div>

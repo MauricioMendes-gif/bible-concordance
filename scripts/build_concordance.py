@@ -2,22 +2,21 @@ import json, re
 from collections import defaultdict
 from pathlib import Path
 
-# Mapeamento de abreviações → nomes completos em português (ACF)
 ABBREV_TO_NAME = {
-    "gn": "Gênesis", "ex": "Êxodo", "lv": "Levítico", "nm": "Números", "dt": "Deuteronômio",
-    "js": "Josué", "jz": "Juízes", "rt": "Rute", "1sm": "1 Samuel", "2sm": "2 Samuel",
-    "1rs": "1 Reis", "2rs": "2 Reis", "1cr": "1 Crônicas", "2cr": "2 Crônicas", "ed": "Esdras",
-    "ne": "Neemias", "et": "Ester", "jó": "Jó", "sl": "Salmos", "pv": "Provérbios",
-    "ec": "Eclesiastes", "ct": "Cânticos", "is": "Isaías", "jr": "Jeremias", "lm": "Lamentações",
-    "ez": "Ezequiel", "dn": "Daniel", "os": "Oséias", "jl": "Joel", "am": "Amós",
-    "ob": "Obadias", "jn": "Jonas", "mq": "Miquéias", "na": "Naum", "hc": "Habacuque",
-    "sf": "Sofonias", "ag": "Ageu", "zc": "Zacarias", "ml": "Malaquias",
-    "mt": "Mateus", "mc": "Marcos", "lc": "Lucas", "jo": "João", "at": "Atos",
-    "rm": "Romanos", "1co": "1 Coríntios", "2co": "2 Coríntios", "gl": "Gálatas",
-    "ef": "Efésios", "fp": "Filipenses", "cl": "Colossenses", "1ts": "1 Tessalonicenses",
-    "2ts": "2 Tessalonicenses", "1tm": "1 Timóteo", "2tm": "2 Timóteo", "tt": "Tito",
-    "fm": "Filemom", "hb": "Hebreus", "tg": "Tiago", "1pe": "1 Pedro", "2pe": "2 Pedro",
-    "1jo": "1 João", "2jo": "2 João", "3jo": "3 João", "jd": "Judas", "ap": "Apocalipse"
+    "gn":"Gênesis","ex":"Êxodo","lv":"Levítico","nm":"Números","dt":"Deuteronômio",
+    "js":"Josué","jz":"Juízes","rt":"Rute","1sm":"1 Samuel","2sm":"2 Samuel",
+    "1rs":"1 Reis","2rs":"2 Reis","1cr":"1 Crônicas","2cr":"2 Crônicas","ed":"Esdras",
+    "ne":"Neemias","et":"Ester","jó":"Jó","sl":"Salmos","pv":"Provérbios",
+    "ec":"Eclesiastes","ct":"Cânticos","is":"Isaías","jr":"Jeremias","lm":"Lamentações",
+    "ez":"Ezequiel","dn":"Daniel","os":"Oséias","jl":"Joel","am":"Amós",
+    "ob":"Obadias","jn":"Jonas","mq":"Miquéias","na":"Naum","hc":"Habacuque",
+    "sf":"Sofonias","ag":"Ageu","zc":"Zacarias","ml":"Malaquias",
+    "mt":"Mateus","mc":"Marcos","lc":"Lucas","jo":"João","at":"Atos",
+    "rm":"Romanos","1co":"1 Coríntios","2co":"2 Coríntios","gl":"Gálatas",
+    "ef":"Efésios","fp":"Filipenses","cl":"Colossenses","1ts":"1 Tessalonicenses",
+    "2ts":"2 Tessalonicenses","1tm":"1 Timóteo","2tm":"2 Timóteo","tt":"Tito",
+    "fm":"Filemom","hb":"Hebreus","tg":"Tiago","1pe":"1 Pedro","2pe":"2 Pedro",
+    "1jo":"1 João","2jo":"2 João","3jo":"3 João","jd":"Judas","ap":"Apocalipse"
 }
 
 STOPWORDS = {"o","a","os","as","um","uma","de","do","da","em","no","na","e","que","se","para","por","com","não","mas","ou","pois","como"}
@@ -40,8 +39,8 @@ def build(input_file, output_dir, version="ACF"):
         books = json.load(f)
 
     index = defaultdict(lambda: {"refs": set(), "forms": set()})
+    verses_map = {}
     total_verses = 0
-    debug_count = 0
 
     for book in books:
         abbrev = book.get("abbrev", "").lower()
@@ -54,15 +53,12 @@ def build(input_file, output_dir, version="ACF"):
                 if not isinstance(text, str) or not text.strip(): continue
                 total_verses += 1
                 ref = f"{book_name} {chap_idx}:{verse_idx}"
+                verses_map[ref] = text.strip()
                 
-                # Tokenização robusta para português
                 words = re.findall(r"[\wÀ-ÿ]+", text)
                 for w in words:
                     w_clean = w.lower().strip()
                     if len(w_clean) < 3 or w_clean in STOPWORDS: continue
-                    if debug_count < 3:
-                        print(f"🔍 '{w_clean}' → '{get_lemma(w_clean)}'")
-                        debug_count += 1
                     lm = get_lemma(w_clean)
                     index[lm]["refs"].add(ref)
                     index[lm]["forms"].add(w_clean)
@@ -76,10 +72,13 @@ def build(input_file, output_dir, version="ACF"):
         if subset:
             (out / f"{letter}.json").write_text(json.dumps(subset, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Salva mapa de versículos para preview offline
+    (out / "verses.json").write_text(json.dumps(verses_map, ensure_ascii=False, indent=2), encoding="utf-8")
+    
     meta = {"version": version, "total_books": len(books), "total_verses": total_verses, "unique_lemmas": len(index)}
     (out / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"\n✅ Gerado em {output_dir}")
-    print(f"📊 {meta['unique_lemmas']} lemas únicos | {meta['total_verses']} versículos processados")
+    print(f"📊 {meta['unique_lemmas']} lemas | {total_verses} versículos | verses.json pronto")
 
 if __name__ == "__main__":
     build("bible_acf.json", "assets/data/concordance")

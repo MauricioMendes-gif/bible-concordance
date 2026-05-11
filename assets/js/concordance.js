@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  // 📚 Ordem canônica dos 66 livros da Bíblia (ACF)
+  // 📚 Ordem canônica dos 66 livros
   const BOOK_ORDER = {
     'Gênesis':1, 'Êxodo':2, 'Levítico':3, 'Números':4, 'Deuteronômio':5,
     'Josué':6, 'Juízes':7, 'Rute':8, '1 Samuel':9, '2 Samuel':10,
@@ -19,46 +19,88 @@
     '1 João':62, '2 João':63, '3 João':64, 'Judas':65, 'Apocalipse':66
   };
 
-  // 🔢 Ordena referências bíblicas cronologicamente
+  // 🔢 Ordenação bíblica robusta
   function sortBibleRefs(refs) {
     return refs.slice().sort((a, b) => {
-      // Regex robusto: captura "Livro Cap:Vers" com espaços opcionais
-      const matchA = a.match(/^(.+?)\s+(\d+):(\d+)$/);
-      const matchB = b.match(/^(.+?)\s+(\d+):(\d+)$/);
-      if (!matchA || !matchB) return 0; // fallback seguro
-
-      const [, bookA, chapA, versA] = matchA;
-      const [, bookB, chapB, versB] = matchB;
-
-      const orderA = BOOK_ORDER[bookA] || 99;
-      const orderB = BOOK_ORDER[bookB] || 99;
-      if (orderA !== orderB) return orderA - orderB;
-      if (parseInt(chapA) !== parseInt(chapB)) return parseInt(chapA) - parseInt(chapB);
-      return parseInt(versA) - parseInt(versB);
+      const mA = a.match(/^(.+?)\s+(\d+):(\d+)$/);
+      const mB = b.match(/^(.+?)\s+(\d+):(\d+)$/);
+      if (!mA || !mB) return 0;
+      const [, bA, cA, vA] = mA;
+      const [, bB, cB, vB] = mB;
+      const oA = BOOK_ORDER[bA] || 99, oB = BOOK_ORDER[bB] || 99;
+      if (oA !== oB) return oA - oB;
+      if (+cA !== +cB) return +cA - +cB;
+      return +vA - +vB;
     });
   }
 
-  // 🌐 Configuração
+  // 🌐 Config
   const DATA_URL = `${window.location.origin}/bible-concordance/assets/data/concordance/`;
   const cache = new Map();
   const input = document.getElementById('concordance-input');
   const results = document.getElementById('results');
   const status = document.getElementById('status');
+  const clearBtn = document.getElementById('clear-search');
+  const suggestions = document.getElementById('suggestions');
+  const statsContainer = document.getElementById('stats-container');
 
-  let debounceTimer;
-  input?.addEventListener('input', (e) => {
-    clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => search(e.target.value.trim().toLowerCase()), 300);
+  let debounceTimer, loadingStats = false;
+
+  // 🎯 Foco com Ctrl+K
+  document.addEventListener('keydown', (e) => {
+    if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+      e.preventDefault();
+      input?.focus();
+      input?.select();
+    }
+    if (e.key === 'Escape') {
+      input?.blur();
+      clearSearch();
+    }
   });
+
+  // 🔍 Handlers
+  input?.addEventListener('input', (e) => {
+    const val = e.target.value.trim();
+    clearBtn?.classList.toggle('d-none', !val);
+    suggestions?.classList.toggle('d-none', val.length >= 3);
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => search(val.toLowerCase()), 300);
+  });
+
+  clearBtn?.addEventListener('click', clearSearch);
+  document.querySelectorAll('.suggestion-chip')?.forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      input.value = e.target.dataset.word;
+      input.focus();
+      search(e.target.dataset.word);
+    });
+  });
+
+  function clearSearch() {
+    input.value = '';
+    results.innerHTML = '';
+    status.textContent = '';
+    clearBtn?.classList.add('d-none');
+    suggestions?.classList.remove('d-none');
+    input?.focus();
+  }
 
   async function search(word) {
     if (!input || !results || !status) return;
     results.innerHTML = '';
-    if (word.length < 3) { status.textContent = '💡 Digite pelo menos 3 letras.'; return; }
+    results.setAttribute('aria-busy', 'true');
+    
+    if (!word || word.length < 3) {
+      status.textContent = word ? '💡 Digite pelo menos 3 letras.' : '';
+      status.className = 'status mt-3';
+      results.setAttribute('aria-busy', 'false');
+      return;
+    }
 
     const letter = word[0];
     status.textContent = '🔍 Buscando...';
-    status.className = 'status mt-2 text-muted';
+    status.className = 'status mt-3 loading';
 
     try {
       if (!cache.has(letter)) {
@@ -69,37 +111,41 @@
 
       const data = cache.get(letter);
       const entry = data[word];
+      
       if (!entry) {
         status.textContent = `❌ Nenhum resultado para "${word}". Tente o lema base.`;
-        status.className = 'status mt-2 text-warning';
+        status.className = 'status mt-3 text-warning';
+        results.setAttribute('aria-busy', 'false');
         return;
       }
 
       status.textContent = '';
       renderResult(word, entry);
+      loadStats(); // Carrega estatísticas na primeira busca
     } catch (err) {
-      status.textContent = '⚠️ Erro ao carregar.';
-      status.className = 'status mt-2 text-danger';
+      status.textContent = '⚠️ Erro ao carregar. Verifique sua conexão.';
+      status.className = 'status mt-3 text-danger';
       console.error('Concordance error:', err);
+    } finally {
+      results.setAttribute('aria-busy', 'false');
     }
   }
 
   function renderResult(lemma, entry) {
     const maxShow = 20;
-    // ✅ Ordena + limita + formata as referências
-    const sortedRefs = sortBibleRefs(entry.refs);
-    const refsHtml = sortedRefs.slice(0, maxShow)
-      .map(r => `<a href="#${r.replace(/[^a-zA-Z0-9À-ÿ]/g,'-')}" class="ref-link">${r}</a>`)
+    const sorted = sortBibleRefs(entry.refs);
+    const refsHtml = sorted.slice(0, maxShow)
+      .map(r => `<a href="#${r.replace(/[^a-zA-Z0-9À-ÿ]/g,'-')}" class="ref-link" title="${r}">${r}</a>`)
       .join(', ');
-    const more = sortedRefs.length > maxShow 
-      ? `<button class="btn btn-sm btn-outline-primary mt-2 load-more" data-lemma="${lemma}">Carregar mais (${sortedRefs.length - maxShow})</button>` 
+    const more = sorted.length > maxShow 
+      ? `<button class="load-more" data-lemma="${lemma}" data-count="${sorted.length}">Carregar mais (${sorted.length - maxShow})</button>` 
       : '';
 
     results.innerHTML = `
-      <article class="result-card p-3 border rounded bg-light" aria-label="Resultado para ${lemma}">
+      <article class="result-card" aria-label="Resultados para ${lemma}">
         <h3 class="h4 mb-1">${lemma} <small class="text-muted fs-6">(${entry.freq}x)</small></h3>
-        <p class="mb-2 fst-italic text-muted">Formas: ${entry.forms.join(', ')}</p>
-        <div class="refs">${refsHtml}${more}</div>
+        <p class="mb-2 fst-italic text-muted">Formas encontradas: ${entry.forms.join(', ')}</p>
+        <div class="refs" role="list">${refsHtml}${more}</div>
       </article>
     `;
     document.querySelector('.load-more')?.addEventListener('click', loadMoreRefs);
@@ -107,18 +153,42 @@
 
   function loadMoreRefs(e) {
     const lemma = e.target.dataset.lemma;
+    const total = +e.target.dataset.count;
     const entry = cache.get(lemma[0])[lemma];
-    const currentCount = results.querySelectorAll('.ref-link').length;
-    const sortedRefs = sortBibleRefs(entry.refs);
-    const nextBatch = sortedRefs.slice(currentCount, currentCount + 20);
+    const current = results.querySelectorAll('.ref-link').length;
+    const sorted = sortBibleRefs(entry.refs);
+    const next = sorted.slice(current, current + 20);
     
-    const html = nextBatch.map(r => `<a href="#${r.replace(/[^a-zA-Z0-9À-ÿ]/g,'-')}" class="ref-link">${r}</a>`).join(', ');
+    const html = next.map(r => `<a href="#${r.replace(/[^a-zA-Z0-9À-ÿ]/g,'-')}" class="ref-link" title="${r}">${r}</a>`).join(', ');
     results.querySelector('.refs').insertAdjacentHTML('beforeend', `, ${html}`);
     
-    if (sortedRefs.length <= currentCount + 20) {
+    if (sorted.length <= current + 20) {
       e.target.remove();
     } else {
-      e.target.textContent = `Carregar mais (${sortedRefs.length - (currentCount + 20)})`;
+      e.target.textContent = `Carregar mais (${sorted.length - (current + 20)})`;
+      e.target.dataset.count = total;
     }
   }
+
+  // 📊 Carregar estatísticas do meta.json
+  async function loadStats() {
+    if (loadingStats || !statsContainer) return;
+    loadingStats = true;
+    try {
+      const res = await fetch(`${DATA_URL}meta.json`);
+      if (!res.ok) return;
+      const meta = await res.json();
+      document.getElementById('stat-verses').textContent = meta.total_verses?.toLocaleString('pt-BR') || '–';
+      document.getElementById('stat-lemmas').textContent = meta.unique_lemmas?.toLocaleString('pt-BR') || '–';
+    } catch (e) {
+      console.warn('Stats load failed:', e);
+    }
+  }
+
+  // 🚀 Inicialização
+  document.addEventListener('DOMContentLoaded', () => {
+    suggestions?.classList.remove('d-none');
+    input?.focus();
+    loadStats();
+  });
 })();
