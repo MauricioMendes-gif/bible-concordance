@@ -1,0 +1,10 @@
+body{font-family:system-ui,sans-serif;max-width:800px;margin:2rem auto;padding:0 1rem;line-height:1.6}
+.search-box{margin-bottom:2rem}
+#concordance-input{width:100%;padding:1rem;font-size:1.1rem;border:2px solid #dee2e6;border-radius:8px}
+#concordance-input:focus{outline:none;border-color:#0d6efd;box-shadow:0 0 0 3px rgba(13,110,253,.25)}
+.status{margin-top:.5rem;font-size:.95rem;min-height:1.5rem}
+.result-card{background:#fff;padding:1.5rem;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.08);margin-bottom:1rem}
+.ref-link{color:#0d6efd;text-decoration:none;border-bottom:1px dotted currentColor;margin-right:.4rem}
+.ref-link:hover{border-bottom-style:solid}
+.visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
+@media(prefers-color-scheme:dark){body{background:#121212;color:#e0e0e0}.result-card{background:#1e1e1e;box-shadow:0 2px 8px rgba(0,0,0,.4)}#concordance-input{background:#1e1e1e;color:#e0e0e0;border-color:#333}}

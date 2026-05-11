@@ -1,0 +1,17 @@
+title: Concordância Bíblica Completa
+description: Busca inteligente por lemas e referências bíblicas
+url: "https://MauricioMendes-gif.github.io"
+baseurl: "/bible-concordance"
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - scripts/
+  - .github/
+  - .venv/
+  - bible_acf.json
+  - README.md
+keep_files:
+  - assets/data/concordance
