@@ -4,37 +4,32 @@ on:
   push:
     paths:
       - 'scripts/build_concordance.py'
-      - 'bible_acf.json'
+      - 'bible_*.json'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # ✅ Permite push automático
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ Usa token com permissão
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Configurar Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
 
-      - name: Baixar Bíblia (se não existir)
+      - name: Baixar ARC se não existir
         run: |
           [ -f bible_acf.json ] || curl -L -o bible_acf.json https://raw.githubusercontent.com/thiagobodruk/biblia/master/json/acf.json
+          [ -f bible_arc.json ] || curl -L -o bible_arc.json https://raw.githubusercontent.com/thiagobodruk/biblia/master/json/arc.json
 
-      - name: Gerar índice da concordância
+      - name: Gerar índices (ACF + ARC)
         run: python scripts/build_concordance.py
 
-      - name: Commitar e push automático
+      - name: Commitar e push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/data/concordance/
-          if ! git diff --quiet; then
-            git commit -m "🤖 auto: atualizar índice da concordância"
-            git push
-          else
-            echo "✅ Sem alterações para commitar"
-          fi
+          git add assets/data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 auto: atualizar concordância (ACF+ARC)" && git push)

@@ -1,4 +1,4 @@
-import json, re
+import json, re, glob
 from collections import defaultdict
 from pathlib import Path
 
@@ -33,8 +33,8 @@ def get_lemma(w):
     if w.endswith("s") and len(w)>3: return w[:-1]
     return w
 
-def build(input_file, output_dir, version="ACF"):
-    print(f"📖 Lendo {input_file}...")
+def process_bible(input_file, output_dir, version="ACF"):
+    print(f"\n📖 Processando {input_file} ({version})...")
     with open(input_file, "r", encoding="utf-8-sig") as f:
         books = json.load(f)
 
@@ -55,15 +55,12 @@ def build(input_file, output_dir, version="ACF"):
                 ref = f"{book_name} {chap_idx}:{verse_idx}"
                 verses_map[ref] = text.strip()
                 
-                words = re.findall(r"[\wÀ-ÿ]+", text)
-                for w in words:
+                for w in re.findall(r"[\wÀ-ÿ]+", text):
                     w_clean = w.lower().strip()
                     if len(w_clean) < 3 or w_clean in STOPWORDS: continue
                     lm = get_lemma(w_clean)
                     index[lm]["refs"].add(ref)
                     index[lm]["forms"].add(w_clean)
-        
-        print(f"  📚 {book_name}: {sum(len(c) for c in chapters if isinstance(c, list))} versículos")
 
     out = Path(output_dir)
     out.mkdir(parents=True, exist_ok=True)
@@ -72,13 +69,19 @@ def build(input_file, output_dir, version="ACF"):
         if subset:
             (out / f"{letter}.json").write_text(json.dumps(subset, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Salva mapa de versículos para preview offline
     (out / "verses.json").write_text(json.dumps(verses_map, ensure_ascii=False, indent=2), encoding="utf-8")
-    
     meta = {"version": version, "total_books": len(books), "total_verses": total_verses, "unique_lemmas": len(index)}
     (out / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\n✅ Gerado em {output_dir}")
-    print(f"📊 {meta['unique_lemmas']} lemas | {total_verses} versículos | verses.json pronto")
+    print(f"✅ {version} gerado | {meta['unique_lemmas']} lemas | {total_verses} versículos")
 
 if __name__ == "__main__":
-    build("bible_acf.json", "assets/data/concordance")
+    bible_files = glob.glob("bible_*.json")
+    if not bible_files:
+        print("❌ Nenhum arquivo bible_*.json encontrado na raiz.")
+        exit(1)
+        
+    for bf in bible_files:
+        version = bf.replace("bible_", "").replace(".json", "").upper()
+        folder = f"assets/data/{version.lower()}"
+        process_bible(bf, folder, version)
+    print("\n🎉 Todas as versões processadas!")
