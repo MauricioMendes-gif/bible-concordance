@@ -33,10 +33,26 @@ def get_lemma(w):
     if w.endswith("s") and len(w)>3: return w[:-1]
     return w
 
+def load_json_robust(filepath):
+    """Carrega JSON tolerando BOM, dados extras ou múltiplos objetos concatenados."""
+    with open(filepath, "r", encoding="utf-8-sig") as f:
+        content = f.read().strip()
+    if content.startswith('\ufeff'): content = content[1:].strip()
+    try:
+        return json.loads(content)
+    except json.JSONDecodeError:
+        # Fallback: extrai o primeiro array [...] ou objeto {...}
+        for start_char, end_char in [('[', ']'), ['{', '}']]:
+            start = content.find(start_char)
+            end = content.rfind(end_char) + 1
+            if start != -1 and end > start:
+                return json.loads(content[start:end])
+        raise ValueError(f"Arquivo {filepath} não contém JSON válido.")
+
 def process_bible(input_file, output_dir, version="ACF"):
     print(f"\n📖 Processando {input_file} ({version})...")
-    with open(input_file, "r", encoding="utf-8-sig") as f:
-        books = json.load(f)
+    books = load_json_robust(input_file)
+    if not isinstance(books, list): raise ValueError(f"{version} não é uma lista de livros.")
 
     index = defaultdict(lambda: {"refs": set(), "forms": set()})
     verses_map = {}
@@ -83,5 +99,8 @@ if __name__ == "__main__":
     for bf in bible_files:
         version = bf.replace("bible_", "").replace(".json", "").upper()
         folder = f"assets/data/{version.lower()}"
-        process_bible(bf, folder, version)
-    print("\n🎉 Todas as versões processadas!")
+        try:
+            process_bible(bf, folder, version)
+        except Exception as e:
+            print(f"⚠️ Falha ao processar {bf}: {e}")
+    print("\n🎉 Processamento finalizado!")
