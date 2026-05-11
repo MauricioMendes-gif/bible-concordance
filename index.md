@@ -23,7 +23,22 @@ title: ""
     <div id="status" class="status mt-2"></div>
   </div>
 
+  <!-- 🎯 Botões de Ação (aparecem após busca) -->
+  <div id="action-buttons" class="action-buttons mb-4 d-none">
+    <button id="view-sequence-btn" class="btn btn-outline-primary btn-sm me-2">👁️ Visualizar em sequência</button>
+    <button id="export-pdf-btn" class="btn btn-outline-success btn-sm">📥 Exportar PDF</button>
+  </div>
+
   <section id="results" aria-live="polite"></section>
+
+  <!-- 📋 View Sequencial (oculta por padrão) -->
+  <section id="sequence-view" class="sequence-view d-none mt-4">
+    <div class="sequence-header d-flex justify-content-between align-items-center mb-3">
+      <h3 class="h5 mb-0">📜 Versículos em sequência</h3>
+      <button id="close-sequence" class="btn btn-sm btn-outline-secondary">✕ Fechar</button>
+    </div>
+    <div id="sequence-content" class="sequence-content"></div>
+  </section>
 
   <section id="stats-panel" class="stats-panel mt-5 p-3 border rounded bg-light d-none">
     <h2 class="h5 mb-3">📊 Comparativo de Versões</h2>
@@ -41,7 +56,7 @@ title: ""
 </footer>
 
 <!-- 📖 Modal de Versículo -->
-<div id="verse-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-hidden="true">
+<div id="verse-modal" class="modal-overlay" role="dialog" aria-modal="true">
   <div class="modal-content">
     <button class="modal-close" aria-label="Fechar modal">✕</button>
     <div id="verse-modal-body"></div>
@@ -52,10 +67,12 @@ title: ""
 <div id="verse-preview"></div>
 
 <!-- 📱 Banner PWA -->
-<div id="install-banner" class="install-banner d-none" role="alert">
+<div id="install-banner" class="install-banner d-none">
   <span>📱 Instale como app para uso offline</span>
   <button id="install-btn" class="btn btn-sm btn-primary ms-2">Instalar</button>
-  <button id="dismiss-install" class="btn btn-sm btn-link text-muted ms-1" aria-label="Dispensar">✕</button>
+  <button id="dismiss-install" class="btn btn-sm btn-link text-muted ms-1">✕</button>
 </div>
 
+<!-- 📄 jsPDF para exportação -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js" integrity="sha512-qZvVd8JZq+XvL6JYvZL8V7vH3vL0Jz0c8y9V0Z5vL0JZ5vL0JZ5vL0JZ5vL0JZ5vL0JZ5vL0JZ5vL0JZ5vL0JZ5" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="{{ '/assets/js/app.js' | relative_url }}"></script>
