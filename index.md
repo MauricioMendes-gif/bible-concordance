@@ -13,8 +13,7 @@ title: ""
     <label for="version-select" class="visually-hidden">Versão</label>
     <select id="version-select" class="form-select form-select-sm d-inline-block w-auto">
       <option value="ACF" selected>Almeida Corrigida Fiel (ACF)</option>
-      <option value="ARC" disabled>Almeida Revista e Corrigida (ARC) <small class="text-muted">(em breve)</small></option>
-      <option value="NVI" disabled>Nova Versão Internacional (NVI) <small class="text-muted">(em breve)</small></option>
+      <option value="ARC">Almeida Revista e Corrigida (ARC)</option>
     </select>
   </div>
 
@@ -25,11 +24,38 @@ title: ""
   </div>
 
   <section id="results" aria-live="polite"></section>
+
+  <section id="stats-panel" class="stats-panel mt-5 p-3 border rounded bg-light d-none">
+    <h2 class="h5 mb-3">📊 Comparativo de Versões</h2>
+    <div class="row g-3">
+      <div class="col-6 col-md-3 stat-box"><div class="stat-label">ACF Versículos</div><div class="stat-value" id="stat-acf-verses">–</div></div>
+      <div class="col-6 col-md-3 stat-box"><div class="stat-label">ACF Lemas</div><div class="stat-value" id="stat-acf-lemmas">–</div></div>
+      <div class="col-6 col-md-3 stat-box"><div class="stat-label">ARC Versículos</div><div class="stat-value" id="stat-arc-verses">–</div></div>
+      <div class="col-6 col-md-3 stat-box"><div class="stat-label">ARC Lemas</div><div class="stat-value" id="stat-arc-lemmas">–</div></div>
+    </div>
+  </section>
 </main>
 
 <footer class="mt-5 pt-3 border-top text-center text-muted small">
   <p>Texto em domínio público. <a href="https://github.com/MauricioMendes-gif/bible-concordance" target="_blank">Código aberto</a>.</p>
 </footer>
 
-<div id="verse-preview" class="d-none"></div>
+<!-- 📖 Modal de Versículo -->
+<div id="verse-modal" class="modal-overlay" role="dialog" aria-modal="true">
+  <div class="modal-content">
+    <button class="modal-close" aria-label="Fechar modal">✕</button>
+    <div id="verse-modal-body"></div>
+  </div>
+</div>
+
+<!-- 🎈 Tooltip Hover -->
+<div id="verse-preview"></div>
+
+<!-- 📱 Banner PWA -->
+<div id="install-banner" class="install-banner d-none">
+  <span>📱 Instale como app para uso offline</span>
+  <button id="install-btn" class="btn btn-sm btn-primary ms-2">Instalar</button>
+  <button id="dismiss-install" class="btn btn-sm btn-link text-muted ms-1">✕</button>
+</div>
+
 <script src="{{ '/assets/js/app.js' | relative_url }}"></script>

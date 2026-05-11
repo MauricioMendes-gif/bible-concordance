@@ -24,6 +24,8 @@
   const versionSelect = document.getElementById('version-select');
   const preview = document.getElementById('verse-preview');
   const statsPanel = document.getElementById('stats-panel');
+  const modal = document.getElementById('verse-modal');
+  const modalBody = document.getElementById('verse-modal-body');
   const installBanner = document.getElementById('install-banner');
   const installBtn = document.getElementById('install-btn');
   const dismissInstall = document.getElementById('dismiss-install');
@@ -64,47 +66,54 @@
   }
   function getStrongsInfo(lemma) { return strongsData?.[normalize(lemma)] || null; }
 
-  // 📥 Cache inteligente de versículos
   async function getVerseText(ref) {
     const vPath = currentVersion.toLowerCase();
     if (!versesCache[vPath]) {
-      try {
-        const res = await fetch(`${DATA_BASE}${vPath}/verses.json`);
-        versesCache[vPath] = res.ok ? await res.json() : {};
-      } catch { versesCache[vPath] = {}; }
+      try { const res = await fetch(`${DATA_BASE}${vPath}/verses.json`); versesCache[vPath] = res.ok ? await res.json() : {}; }
+      catch { versesCache[vPath] = {}; }
     }
-    return versesCache[vPath][ref] || 'Texto não disponível nesta versão.';
+    return versesCache[vPath][ref] || 'Texto não disponível.';
   }
 
-  // 🎯 Delegação de Eventos (funciona para elementos iniciais + dinâmicos)
+  function openModal(ref) {
+    getVerseText(ref).then(text => {
+      modalBody.innerHTML = `<h3 class="modal-title">${ref}</h3><p class="modal-text">${text}</p>`;
+      modal.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    });
+  }
+  function closeModal() { modal.classList.remove('active'); document.body.style.overflow = ''; }
+  modal?.addEventListener('click', e => { if (e.target === modal || e.target.closest('.modal-close')) closeModal(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+  // Delegação de Eventos (hover + click + copy + pagination)
   results.addEventListener('mouseover', async (e) => {
     const wrapper = e.target.closest('.ref-wrapper');
     if (!wrapper) return;
-    const ref = wrapper.dataset.ref;
-    const text = await getVerseText(ref);
-    preview.innerHTML = `<strong>${ref}</strong><br>${text}`;
+    const text = await getVerseText(wrapper.dataset.ref);
+    preview.innerHTML = `<strong>${wrapper.dataset.ref}</strong><br>${text}`;
     preview.style.display = 'block';
-    // Posicionamento inteligente
     const rect = wrapper.getBoundingClientRect();
     let top = rect.bottom + window.scrollY + 10;
     let left = rect.left + window.scrollX;
     if (left + 360 > window.innerWidth) left = window.innerWidth - 370 + window.scrollX;
     if (top + 150 > window.innerHeight + window.scrollY) top = rect.top + window.scrollY - 150;
-    preview.style.top = `${top}px`;
-    preview.style.left = `${left}px`;
+    preview.style.top = `${top}px`; preview.style.left = `${left}px`;
   });
   results.addEventListener('mouseout', (e) => {
     const wrapper = e.target.closest('.ref-wrapper');
     if (!wrapper || !wrapper.contains(e.relatedTarget)) preview.style.display = 'none';
   });
   results.addEventListener('click', (e) => {
-    const btn = e.target.closest('.copy-btn');
-    if (btn) {
+    if (e.target.closest('.ref-link')) { e.preventDefault(); openModal(e.target.closest('.ref-link').dataset.ref); return; }
+    if (e.target.closest('.copy-btn')) {
       e.stopPropagation();
-      const ref = btn.closest('.ref-wrapper').dataset.ref;
+      const ref = e.target.closest('.ref-wrapper').dataset.ref;
       navigator.clipboard.writeText(ref).then(() => {
-        btn.textContent = '✅'; setTimeout(() => btn.textContent = '📋', 1500);
+        e.target.closest('.copy-btn').textContent = '✅';
+        setTimeout(() => e.target.closest('.copy-btn').textContent = '📋', 1500);
       });
+      return;
     }
     if (e.target.matches('.load-more-btn')) loadMoreRefs(e);
   });
@@ -142,7 +151,7 @@
     const strongsBadge = strongs ? `<span class="strongs-badge ms-2" title="Strong's ${strongs.s}">📜 ${strongs.o} (${strongs.t})</span>` : '';
     const refsHtml = currentSortedRefs.slice(0, maxShow).map(r => `
       <span class="ref-wrapper" data-ref="${r}">
-        <a href="#${r.replace(/[^a-zA-Z0-9À-ÿ]/g,'-')}" class="ref-link">${r}</a>
+        <span class="ref-link" data-ref="${r}">${r}</span>
         <button class="copy-btn" title="Copiar">📋</button>
       </span>`).join(', ');
     const moreBtn = currentSortedRefs.length > maxShow ? `<button class="load-more-btn" data-shown="${maxShow}">Carregar mais (${currentSortedRefs.length - maxShow})</button>` : '';
@@ -153,7 +162,7 @@
     const btn = e.target;
     const shown = parseInt(btn.dataset.shown);
     const next = currentSortedRefs.slice(shown, shown + 20);
-    const html = next.map(r => `<span class="ref-wrapper" data-ref="${r}"><a href="#${r.replace(/[^a-zA-Z0-9À-ÿ]/g,'-')}" class="ref-link">${r}</a><button class="copy-btn" title="Copiar">📋</button></span>`).join(', ');
+    const html = next.map(r => `<span class="ref-wrapper" data-ref="${r}"><span class="ref-link" data-ref="${r}">${r}</span><button class="copy-btn" title="Copiar">📋</button></span>`).join(', ');
     results.querySelector('.refs').insertAdjacentHTML('beforeend', `, ${html}`);
     const newShown = shown + 20;
     btn.dataset.shown = newShown;
