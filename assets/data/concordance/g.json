@@ -1,0 +1,9518 @@
+{
+  "grande": {
+    "refs": [
+      "1 Coríntios 16:9",
+      "1 Coríntios 2:3",
+      "1 Crônicas 11:14",
+      "1 Crônicas 11:22",
+      "1 Crônicas 11:23",
+      "1 Crônicas 12:22",
+      "1 Crônicas 16:25",
+      "1 Crônicas 17:19",
+      "1 Crônicas 17:21",
+      "1 Crônicas 17:8",
+      "1 Crônicas 20:2",
+      "1 Crônicas 20:6",
+      "1 Crônicas 21:13",
+      "1 Crônicas 22:15",
+      "1 Crônicas 22:8",
+      "1 Crônicas 25:8",
+      "1 Crônicas 26:13",
+      "1 Crônicas 27:24",
+      "1 Crônicas 29:1",
+      "1 Crônicas 29:22",
+      "1 Crônicas 29:24",
+      "1 Crônicas 29:9",
+      "1 João 3:1",
+      "1 Pedro 1:3",
+      "1 Reis 10:18",
+      "1 Reis 10:2",
+      "1 Reis 11:19",
+      "1 Reis 18:45",
+      "1 Reis 19:11",
+      "1 Reis 1:40",
+      "1 Reis 20:13",
+      "1 Reis 20:21",
+      "1 Reis 20:28",
+      "1 Reis 21:26",
+      "1 Reis 22:31",
+      "1 Reis 3:6",
+      "1 Reis 3:8",
+      "1 Reis 3:9",
+      "1 Reis 4:13",
+      "1 Reis 5:17",
+      "1 Reis 5:7",
+      "1 Reis 7:10",
+      "1 Reis 7:11",
+      "1 Reis 7:9",
+      "1 Reis 8:42",
+      "1 Reis 8:65",
+      "1 Samuel 11:6",
+      "1 Samuel 12:16",
+      "1 Samuel 12:17",
+      "1 Samuel 12:22",
+      "1 Samuel 14:20",
+      "1 Samuel 14:30",
+      "1 Samuel 14:33",
+      "1 Samuel 14:45",
+      "1 Samuel 17:25",
+      "1 Samuel 19:22",
+      "1 Samuel 19:5",
+      "1 Samuel 19:8",
+      "1 Samuel 20:2",
+      "1 Samuel 23:5",
+      "1 Samuel 25:36",
+      "1 Samuel 26:13",
+      "1 Samuel 26:25",
+      "1 Samuel 2:17",
+      "1 Samuel 30:16",
+      "1 Samuel 30:2",
+      "1 Samuel 4:10",
+      "1 Samuel 4:17",
+      "1 Samuel 4:5",
+      "1 Samuel 4:6",
+      "1 Samuel 5:9",
+      "1 Samuel 6:14",
+      "1 Samuel 6:15",
+      "1 Samuel 6:18",
+      "1 Samuel 6:19",
+      "1 Samuel 6:9",
+      "1 Samuel 7:10",
+      "1 Tessalonicenses 2:17",
+      "1 Tessalonicenses 2:2",
+      "1 Tessalonicenses 5:13",
+      "1 Timóteo 3:16",
+      "1 Timóteo 6:6",
+      "2 Coríntios 1:10",
+      "2 Coríntios 7:12",
+      "2 Coríntios 7:4",
+      "2 Crônicas 13:17",
+      "2 Crônicas 13:8",
+      "2 Crônicas 14:13",
+      "2 Crônicas 16:14",
+      "2 Crônicas 16:8",
+      "2 Crônicas 18:30",
+      "2 Crônicas 19:10",
+      "2 Crônicas 19:2",
+      "2 Crônicas 1:10",
+      "2 Crônicas 1:8",
+      "2 Crônicas 20:12",
+      "2 Crônicas 20:15",
+      "2 Crônicas 20:2",
+      "2 Crônicas 21:14",
+      "2 Crônicas 21:15",
+      "2 Crônicas 24:18",
+      "2 Crônicas 25:13",
+      "2 Crônicas 26:15",
+      "2 Crônicas 28:13",
+      "2 Crônicas 28:5",
+      "2 Crônicas 28:8",
+      "2 Crônicas 29:8",
+      "2 Crônicas 2:12",
+      "2 Crônicas 2:13",
+      "2 Crônicas 2:5",
+      "2 Crônicas 2:9",
+      "2 Crônicas 30:13",
+      "2 Crônicas 30:21",
+      "2 Crônicas 30:24",
+      "2 Crônicas 30:26",
+      "2 Crônicas 31:15",
+      "2 Crônicas 32:25",
+      "2 Crônicas 32:26",
+      "2 Crônicas 32:27",
+      "2 Crônicas 34:21",
+      "2 Crônicas 36:18",
+      "2 Crônicas 3:5",
+      "2 Crônicas 4:18",
+      "2 Crônicas 4:9",
+      "2 Crônicas 6:32",
+      "2 Crônicas 7:8",
+      "2 Crônicas 9:1",
+      "2 Crônicas 9:17",
+      "2 Crônicas 9:9",
+      "2 Pedro 3:10",
+      "2 Reis 10:11",
+      "2 Reis 10:19",
+      "2 Reis 10:6",
+      "2 Reis 16:15",
+      "2 Reis 17:21",
+      "2 Reis 17:36",
+      "2 Reis 18:17",
+      "2 Reis 18:19",
+      "2 Reis 18:28",
+      "2 Reis 22:13",
+      "2 Reis 23:26",
+      "2 Reis 25:9",
+      "2 Reis 3:27",
+      "2 Reis 4:38",
+      "2 Reis 5:1",
+      "2 Reis 5:13",
+      "2 Reis 6:14",
+      "2 Reis 6:23",
+      "2 Reis 6:25",
+      "2 Reis 7:6",
+      "2 Reis 8:13",
+      "2 Reis 8:4",
+      "2 Samuel 12:30",
+      "2 Samuel 12:5",
+      "2 Samuel 13:15",
+      "2 Samuel 15:23",
+      "2 Samuel 18:17",
+      "2 Samuel 18:29",
+      "2 Samuel 18:7",
+      "2 Samuel 18:9",
+      "2 Samuel 19:32",
+      "2 Samuel 20:8",
+      "2 Samuel 23:10",
+      "2 Samuel 23:12",
+      "2 Samuel 23:20",
+      "2 Samuel 24:14",
+      "2 Samuel 3:22",
+      "2 Samuel 3:38",
+      "2 Samuel 7:23",
+      "2 Samuel 7:9",
+      "2 Samuel 8:8",
+      "2 Timóteo 2:20",
+      "ATOS 10:11",
+      "ATOS 11:21",
+      "ATOS 11:28",
+      "ATOS 11:5",
+      "ATOS 14:1",
+      "ATOS 14:27",
+      "ATOS 15:12",
+      "ATOS 15:3",
+      "ATOS 15:4",
+      "ATOS 15:7",
+      "ATOS 16:16",
+      "ATOS 16:26",
+      "ATOS 16:28",
+      "ATOS 17:4",
+      "ATOS 18:28",
+      "ATOS 19:26",
+      "ATOS 19:27",
+      "ATOS 19:28",
+      "ATOS 19:34",
+      "ATOS 19:35",
+      "ATOS 20:37",
+      "ATOS 21:30",
+      "ATOS 21:40",
+      "ATOS 22:28",
+      "ATOS 22:6",
+      "ATOS 23:10",
+      "ATOS 23:9",
+      "ATOS 24:7",
+      "ATOS 26:22",
+      "ATOS 28:2",
+      "ATOS 28:29",
+      "ATOS 2:20",
+      "ATOS 4:33",
+      "ATOS 5:11",
+      "ATOS 5:13",
+      "ATOS 5:5",
+      "ATOS 6:7",
+      "ATOS 6:8",
+      "ATOS 7:11",
+      "ATOS 7:57",
+      "ATOS 7:60",
+      "ATOS 8:1",
+      "ATOS 8:10",
+      "ATOS 8:13",
+      "ATOS 8:2",
+      "ATOS 8:8",
+      "ATOS 8:9",
+      "Amós 2:2",
+      "Amós 3:15",
+      "Amós 3:9",
+      "Amós 6:11",
+      "Amós 6:2",
+      "Amós 7:4",
+      "Amós 8:8",
+      "Apocalipse 10:3",
+      "Apocalipse 11:11",
+      "Apocalipse 11:12",
+      "Apocalipse 11:13",
+      "Apocalipse 11:15",
+      "Apocalipse 11:17",
+      "Apocalipse 11:18",
+      "Apocalipse 11:19",
+      "Apocalipse 11:8",
+      "Apocalipse 12:1",
+      "Apocalipse 12:10",
+      "Apocalipse 12:12",
+      "Apocalipse 12:14",
+      "Apocalipse 12:3",
+      "Apocalipse 12:9",
+      "Apocalipse 13:13",
+      "Apocalipse 13:16",
+      "Apocalipse 13:2",
+      "Apocalipse 13:5",
+      "Apocalipse 14:15",
+      "Apocalipse 14:18",
+      "Apocalipse 14:19",
+      "Apocalipse 14:2",
+      "Apocalipse 14:7",
+      "Apocalipse 14:8",
+      "Apocalipse 14:9",
+      "Apocalipse 15:1",
+      "Apocalipse 15:3",
+      "Apocalipse 16:1",
+      "Apocalipse 16:12",
+      "Apocalipse 16:14",
+      "Apocalipse 16:17",
+      "Apocalipse 16:18",
+      "Apocalipse 16:19",
+      "Apocalipse 16:21",
+      "Apocalipse 16:9",
+      "Apocalipse 17:1",
+      "Apocalipse 17:18",
+      "Apocalipse 17:5",
+      "Apocalipse 17:6",
+      "Apocalipse 18:1",
+      "Apocalipse 18:10",
+      "Apocalipse 18:16",
+      "Apocalipse 18:18",
+      "Apocalipse 18:19",
+      "Apocalipse 18:2",
+      "Apocalipse 18:21",
+      "Apocalipse 18:23",
+      "Apocalipse 19:1",
+      "Apocalipse 19:17",
+      "Apocalipse 19:18",
+      "Apocalipse 19:2",
+      "Apocalipse 19:5",
+      "Apocalipse 19:6",
+      "Apocalipse 1:10",
+      "Apocalipse 20:1",
+      "Apocalipse 20:11",
+      "Apocalipse 20:12",
+      "Apocalipse 21:10",
+      "Apocalipse 21:12",
+      "Apocalipse 21:3",
+      "Apocalipse 2:22",
+      "Apocalipse 5:12",
+      "Apocalipse 5:2",
+      "Apocalipse 6:10",
+      "Apocalipse 6:12",
+      "Apocalipse 6:15",
+      "Apocalipse 6:17",
+      "Apocalipse 6:4",
+      "Apocalipse 7:10",
+      "Apocalipse 7:14",
+      "Apocalipse 7:2",
+      "Apocalipse 8:10",
+      "Apocalipse 8:13",
+      "Apocalipse 8:8",
+      "Apocalipse 9:14",
+      "Apocalipse 9:2",
+      "Colossenses 2:1",
+      "Colossenses 4:13",
+      "Daniel 10:1",
+      "Daniel 10:4",
+      "Daniel 10:7",
+      "Daniel 10:8",
+      "Daniel 11:10",
+      "Daniel 11:11",
+      "Daniel 11:13",
+      "Daniel 11:2",
+      "Daniel 11:25",
+      "Daniel 11:3",
+      "Daniel 11:44",
+      "Daniel 11:45",
+      "Daniel 11:5",
+      "Daniel 12:1",
+      "Daniel 2:10",
+      "Daniel 2:31",
+      "Daniel 2:35",
+      "Daniel 2:45",
+      "Daniel 2:48",
+      "Daniel 2:6",
+      "Daniel 4:10",
+      "Daniel 4:3",
+      "Daniel 4:30",
+      "Daniel 5:1",
+      "Daniel 7:11",
+      "Daniel 7:17",
+      "Daniel 7:2",
+      "Daniel 7:20",
+      "Daniel 7:3",
+      "Daniel 7:7",
+      "Daniel 7:8",
+      "Daniel 8:21",
+      "Daniel 8:8",
+      "Daniel 9:12",
+      "Daniel 9:4",
+      "Deuteronômio 10:17",
+      "Deuteronômio 10:21",
+      "Deuteronômio 11:7",
+      "Deuteronômio 18:16",
+      "Deuteronômio 1:17",
+      "Deuteronômio 1:19",
+      "Deuteronômio 1:28",
+      "Deuteronômio 1:7",
+      "Deuteronômio 24:8",
+      "Deuteronômio 25:13",
+      "Deuteronômio 25:14",
+      "Deuteronômio 26:5",
+      "Deuteronômio 26:8",
+      "Deuteronômio 27:2",
+      "Deuteronômio 28:59",
+      "Deuteronômio 29:24",
+      "Deuteronômio 29:28",
+      "Deuteronômio 29:3",
+      "Deuteronômio 2:10",
+      "Deuteronômio 2:21",
+      "Deuteronômio 2:7",
+      "Deuteronômio 34:12",
+      "Deuteronômio 3:24",
+      "Deuteronômio 4:32",
+      "Deuteronômio 4:34",
+      "Deuteronômio 4:36",
+      "Deuteronômio 4:37",
+      "Deuteronômio 4:6",
+      "Deuteronômio 4:7",
+      "Deuteronômio 4:8",
+      "Deuteronômio 5:22",
+      "Deuteronômio 5:25",
+      "Deuteronômio 6:10",
+      "Deuteronômio 6:22",
+      "Deuteronômio 7:19",
+      "Deuteronômio 7:21",
+      "Deuteronômio 7:23",
+      "Deuteronômio 8:15",
+      "Deuteronômio 9:1",
+      "Deuteronômio 9:2",
+      "Deuteronômio 9:29",
+      "Eclesiastes 10:4",
+      "Eclesiastes 10:6",
+      "Eclesiastes 2:21",
+      "Eclesiastes 2:7",
+      "Eclesiastes 9:13",
+      "Eclesiastes 9:14",
+      "Efésios 5:32",
+      "Esdras 10:1",
+      "Esdras 10:13",
+      "Esdras 10:9",
+      "Esdras 4:10",
+      "Esdras 5:11",
+      "Esdras 5:8",
+      "Esdras 6:4",
+      "Esdras 7:23",
+      "Esdras 9:13",
+      "Esdras 9:7",
+      "Ester 10:3",
+      "Ester 1:20",
+      "Ester 2:18",
+      "Ester 4:1",
+      "Ester 4:3",
+      "Ester 8:15",
+      "Ester 9:4",
+      "Ezequiel 11:13",
+      "Ezequiel 13:11",
+      "Ezequiel 13:13",
+      "Ezequiel 16:26",
+      "Ezequiel 16:7",
+      "Ezequiel 17:17",
+      "Ezequiel 17:3",
+      "Ezequiel 17:7",
+      "Ezequiel 17:9",
+      "Ezequiel 1:4",
+      "Ezequiel 21:10",
+      "Ezequiel 21:14",
+      "Ezequiel 23:23",
+      "Ezequiel 24:9",
+      "Ezequiel 25:17",
+      "Ezequiel 26:21",
+      "Ezequiel 27:26",
+      "Ezequiel 27:36",
+      "Ezequiel 28:19",
+      "Ezequiel 29:18",
+      "Ezequiel 29:3",
+      "Ezequiel 30:16",
+      "Ezequiel 30:4",
+      "Ezequiel 30:9",
+      "Ezequiel 31:6",
+      "Ezequiel 36:23",
+      "Ezequiel 37:10",
+      "Ezequiel 38:13",
+      "Ezequiel 38:15",
+      "Ezequiel 38:19",
+      "Ezequiel 38:22",
+      "Ezequiel 38:4",
+      "Ezequiel 39:17",
+      "Ezequiel 3:12",
+      "Ezequiel 3:13",
+      "Ezequiel 41:8",
+      "Ezequiel 43:14",
+      "Ezequiel 47:10",
+      "Ezequiel 47:15",
+      "Ezequiel 47:19",
+      "Ezequiel 47:20",
+      "Ezequiel 47:7",
+      "Ezequiel 48:28",
+      "Ezequiel 6:11",
+      "Ezequiel 8:18",
+      "Ezequiel 8:6",
+      "Ezequiel 9:1",
+      "Filemom 1:7",
+      "Filemom 1:8",
+      "Gálatas 6:11",
+      "Gênesis 10:12",
+      "Gênesis 12:10",
+      "Gênesis 12:17",
+      "Gênesis 12:2",
+      "Gênesis 13:13",
+      "Gênesis 15:12",
+      "Gênesis 15:14",
+      "Gênesis 15:18",
+      "Gênesis 17:20",
+      "Gênesis 18:18",
+      "Gênesis 1:16",
+      "Gênesis 1:21",
+      "Gênesis 21:18",
+      "Gênesis 21:8",
+      "Gênesis 27:33",
+      "Gênesis 27:34",
+      "Gênesis 29:2",
+      "Gênesis 30:30",
+      "Gênesis 30:43",
+      "Gênesis 30:8",
+      "Gênesis 38:11",
+      "Gênesis 38:14",
+      "Gênesis 39:14",
+      "Gênesis 41:29",
+      "Gênesis 41:7",
+      "Gênesis 45:7",
+      "Gênesis 46:3",
+      "Gênesis 48:19",
+      "Gênesis 50:10",
+      "Gênesis 50:11",
+      "Gênesis 7:11",
+      "Habacuque 3:15",
+      "Hebreus 10:21",
+      "Hebreus 10:32",
+      "Hebreus 10:35",
+      "Hebreus 11:24",
+      "Hebreus 12:1",
+      "Hebreus 13:20",
+      "Hebreus 2:3",
+      "Hebreus 4:14",
+      "Hebreus 5:7",
+      "Hebreus 7:23",
+      "Hebreus 7:4",
+      "Isaías 12:6",
+      "Isaías 16:14",
+      "Isaías 17:12",
+      "Isaías 21:7",
+      "Isaías 27:1",
+      "Isaías 27:13",
+      "Isaías 28:19",
+      "Isaías 28:29",
+      "Isaías 29:6",
+      "Isaías 30:25",
+      "Isaías 32:2",
+      "Isaías 33:21",
+      "Isaías 34:6",
+      "Isaías 36:13",
+      "Isaías 36:2",
+      "Isaías 36:4",
+      "Isaías 38:17",
+      "Isaías 42:13",
+      "Isaías 47:9",
+      "Isaías 51:10",
+      "Isaías 54:7",
+      "Isaías 5:9",
+      "Isaías 63:1",
+      "Isaías 63:7",
+      "Isaías 66:6",
+      "Isaías 6:12",
+      "Isaías 8:1",
+      "Isaías 9:2",
+      "Jeremias 10:19",
+      "Jeremias 10:22",
+      "Jeremias 10:6",
+      "Jeremias 11:15",
+      "Jeremias 11:16",
+      "Jeremias 14:1",
+      "Jeremias 16:10",
+      "Jeremias 16:6",
+      "Jeremias 21:5",
+      "Jeremias 21:6",
+      "Jeremias 22:8",
+      "Jeremias 25:14",
+      "Jeremias 25:32",
+      "Jeremias 26:19",
+      "Jeremias 27:5",
+      "Jeremias 27:7",
+      "Jeremias 28:8",
+      "Jeremias 30:7",
+      "Jeremias 31:8",
+      "Jeremias 32:17",
+      "Jeremias 32:18",
+      "Jeremias 32:19",
+      "Jeremias 32:21",
+      "Jeremias 32:37",
+      "Jeremias 32:42",
+      "Jeremias 33:3",
+      "Jeremias 36:7",
+      "Jeremias 41:12",
+      "Jeremias 43:9",
+      "Jeremias 44:15",
+      "Jeremias 44:26",
+      "Jeremias 44:7",
+      "Jeremias 48:3",
+      "Jeremias 4:6",
+      "Jeremias 50:22",
+      "Jeremias 50:41",
+      "Jeremias 50:9",
+      "Jeremias 51:16",
+      "Jeremias 51:54",
+      "Jeremias 51:55",
+      "Jeremias 52:13",
+      "Jeremias 5:5",
+      "Jeremias 6:1",
+      "Jeremias 6:22",
+      "Joel 2:11",
+      "Joel 2:13",
+      "Joel 2:2",
+      "Joel 2:20",
+      "Joel 2:21",
+      "Joel 2:25",
+      "Joel 2:31",
+      "Joel 3:13",
+      "Jonas 1:10",
+      "Jonas 1:12",
+      "Jonas 1:16",
+      "Jonas 1:17",
+      "Jonas 1:2",
+      "Jonas 1:4",
+      "Jonas 3:2",
+      "Jonas 3:3",
+      "Jonas 3:7",
+      "Jonas 4:11",
+      "Jonas 4:2",
+      "Josué 10:10",
+      "Josué 10:11",
+      "Josué 10:18",
+      "Josué 10:2",
+      "Josué 10:20",
+      "Josué 10:27",
+      "Josué 11:8",
+      "Josué 14:12",
+      "Josué 15:12",
+      "Josué 15:47",
+      "Josué 17:14",
+      "Josué 17:15",
+      "Josué 17:17",
+      "Josué 19:28",
+      "Josué 19:9",
+      "Josué 1:4",
+      "Josué 22:10",
+      "Josué 22:8",
+      "Josué 23:4",
+      "Josué 23:9",
+      "Josué 24:17",
+      "Josué 24:26",
+      "Josué 6:20",
+      "Josué 6:5",
+      "Josué 7:26",
+      "Josué 7:9",
+      "Josué 8:29",
+      "Josué 9:1",
+      "Josué 9:20",
+      "João 11:43",
+      "João 12:12",
+      "João 19:31",
+      "João 21:11",
+      "João 5:13",
+      "João 5:3",
+      "João 6:18",
+      "João 6:2",
+      "João 6:5",
+      "João 7:12",
+      "João 7:37",
+      "Judas 1:6",
+      "Juízes 11:2",
+      "Juízes 11:33",
+      "Juízes 12:2",
+      "Juízes 15:18",
+      "Juízes 15:8",
+      "Juízes 16:23",
+      "Juízes 16:5",
+      "Juízes 16:6",
+      "Juízes 20:38",
+      "Juízes 21:2",
+      "Juízes 21:5",
+      "Juízes 2:15",
+      "Juízes 2:7",
+      "Juízes 5:15",
+      "Juízes 5:16",
+      "Juízes 6:5",
+      "Jó 1:19",
+      "Jó 22:5",
+      "Jó 2:13",
+      "Jó 30:14",
+      "Jó 31:34",
+      "Jó 32:9",
+      "Jó 35:9",
+      "Jó 36:26",
+      "Jó 36:5",
+      "Jó 37:23",
+      "Jó 37:5",
+      "Jó 38:21",
+      "Jó 39:11",
+      "Jó 3:19",
+      "Jó 41:12",
+      "Jó 41:20",
+      "Jó 5:9",
+      "Jó 9:10",
+      "Lamentações 1:1",
+      "Lamentações 1:3",
+      "Lamentações 2:13",
+      "Lamentações 3:23",
+      "Levítico 10:6",
+      "Lucas 10:2",
+      "Lucas 13:19",
+      "Lucas 14:16",
+      "Lucas 14:25",
+      "Lucas 15:14",
+      "Lucas 16:26",
+      "Lucas 1:15",
+      "Lucas 1:32",
+      "Lucas 1:42",
+      "Lucas 1:49",
+      "Lucas 1:58",
+      "Lucas 21:11",
+      "Lucas 21:23",
+      "Lucas 21:27",
+      "Lucas 22:12",
+      "Lucas 22:44",
+      "Lucas 23:10",
+      "Lucas 23:23",
+      "Lucas 23:27",
+      "Lucas 23:46",
+      "Lucas 24:52",
+      "Lucas 2:10",
+      "Lucas 2:9",
+      "Lucas 4:25",
+      "Lucas 5:29",
+      "Lucas 5:6",
+      "Lucas 6:17",
+      "Lucas 6:23",
+      "Lucas 6:35",
+      "Lucas 6:49",
+      "Lucas 7:11",
+      "Lucas 7:12",
+      "Lucas 7:16",
+      "Lucas 8:28",
+      "Lucas 8:37",
+      "Lucas 8:39",
+      "Lucas 8:4",
+      "Lucas 9:37",
+      "Lucas 9:48",
+      "Malaquias 1:11",
+      "Malaquias 1:14",
+      "Malaquias 4:5",
+      "Marcos 10:42",
+      "Marcos 10:43",
+      "Marcos 10:46",
+      "Marcos 12:37",
+      "Marcos 13:2",
+      "Marcos 13:26",
+      "Marcos 14:15",
+      "Marcos 14:43",
+      "Marcos 15:34",
+      "Marcos 15:37",
+      "Marcos 16:4",
+      "Marcos 1:26",
+      "Marcos 1:41",
+      "Marcos 3:7",
+      "Marcos 3:8",
+      "Marcos 4:1",
+      "Marcos 4:32",
+      "Marcos 4:37",
+      "Marcos 4:39",
+      "Marcos 4:41",
+      "Marcos 5:11",
+      "Marcos 5:19",
+      "Marcos 5:20",
+      "Marcos 5:21",
+      "Marcos 5:24",
+      "Marcos 5:42",
+      "Marcos 5:7",
+      "Marcos 6:21",
+      "Marcos 6:34",
+      "Marcos 6:49",
+      "Marcos 8:1",
+      "Marcos 9:14",
+      "Mateus 12:15",
+      "Mateus 13:46",
+      "Mateus 14:14",
+      "Mateus 15:28",
+      "Mateus 15:30",
+      "Mateus 17:6",
+      "Mateus 19:2",
+      "Mateus 20:25",
+      "Mateus 20:26",
+      "Mateus 20:29",
+      "Mateus 22:36",
+      "Mateus 22:38",
+      "Mateus 24:21",
+      "Mateus 24:24",
+      "Mateus 24:30",
+      "Mateus 26:47",
+      "Mateus 26:7",
+      "Mateus 26:9",
+      "Mateus 27:50",
+      "Mateus 27:54",
+      "Mateus 27:60",
+      "Mateus 28:2",
+      "Mateus 28:8",
+      "Mateus 2:10",
+      "Mateus 2:18",
+      "Mateus 4:16",
+      "Mateus 4:25",
+      "Mateus 5:12",
+      "Mateus 5:19",
+      "Mateus 5:35",
+      "Mateus 6:23",
+      "Mateus 7:27",
+      "Mateus 8:1",
+      "Mateus 8:18",
+      "Mateus 8:24",
+      "Mateus 8:26",
+      "Mateus 9:36",
+      "Mateus 9:37",
+      "Miquéias 4:9",
+      "Miquéias 7:3",
+      "Naum 1:3",
+      "Naum 3:10",
+      "Naum 3:17",
+      "Neemias 12:31",
+      "Neemias 12:43",
+      "Neemias 13:27",
+      "Neemias 13:5",
+      "Neemias 1:10",
+      "Neemias 1:3",
+      "Neemias 1:5",
+      "Neemias 3:20",
+      "Neemias 3:27",
+      "Neemias 4:14",
+      "Neemias 4:19",
+      "Neemias 5:1",
+      "Neemias 5:18",
+      "Neemias 5:7",
+      "Neemias 6:3",
+      "Neemias 7:4",
+      "Neemias 8:12",
+      "Neemias 8:17",
+      "Neemias 8:6",
+      "Neemias 9:17",
+      "Neemias 9:18",
+      "Neemias 9:25",
+      "Neemias 9:26",
+      "Neemias 9:27",
+      "Neemias 9:31",
+      "Neemias 9:32",
+      "Neemias 9:37",
+      "Números 11:33",
+      "Números 11:4",
+      "Números 13:28",
+      "Números 13:32",
+      "Números 14:18",
+      "Números 16:46",
+      "Números 22:18",
+      "Números 32:1",
+      "Números 34:6",
+      "Números 34:7",
+      "Oséias 10:14",
+      "Oséias 10:15",
+      "Oséias 12:8",
+      "Oséias 1:11",
+      "Oséias 9:7",
+      "Provérbios 14:29",
+      "Provérbios 15:16",
+      "Provérbios 15:6",
+      "Provérbios 18:16",
+      "Provérbios 19:19",
+      "Provérbios 23:2",
+      "Provérbios 25:6",
+      "Provérbios 27:15",
+      "Provérbios 28:12",
+      "Provérbios 28:16",
+      "Romanos 15:23",
+      "Romanos 9:2",
+      "Rute 1:13",
+      "Rute 1:20",
+      "Salmos 103:11",
+      "Salmos 103:8",
+      "Salmos 104:25",
+      "Salmos 105:24",
+      "Salmos 107:23",
+      "Salmos 10:5",
+      "Salmos 111:2",
+      "Salmos 112:1",
+      "Salmos 115:13",
+      "Salmos 117:2",
+      "Salmos 119:162",
+      "Salmos 119:53",
+      "Salmos 126:2",
+      "Salmos 126:3",
+      "Salmos 131:1",
+      "Salmos 135:5",
+      "Salmos 136:17",
+      "Salmos 136:7",
+      "Salmos 138:5",
+      "Salmos 139:17",
+      "Salmos 145:3",
+      "Salmos 145:7",
+      "Salmos 145:8",
+      "Salmos 147:5",
+      "Salmos 14:5",
+      "Salmos 19:11",
+      "Salmos 19:13",
+      "Salmos 21:5",
+      "Salmos 22:25",
+      "Salmos 25:11",
+      "Salmos 31:19",
+      "Salmos 33:17",
+      "Salmos 35:18",
+      "Salmos 36:6",
+      "Salmos 37:35",
+      "Salmos 40:10",
+      "Salmos 40:9",
+      "Salmos 43:4",
+      "Salmos 47:2",
+      "Salmos 48:1",
+      "Salmos 48:2",
+      "Salmos 50:3",
+      "Salmos 53:5",
+      "Salmos 57:10",
+      "Salmos 68:11",
+      "Salmos 71:19",
+      "Salmos 76:1",
+      "Salmos 77:13",
+      "Salmos 77:19",
+      "Salmos 78:15",
+      "Salmos 86:10",
+      "Salmos 86:13",
+      "Salmos 86:15",
+      "Salmos 92:5",
+      "Salmos 93:4",
+      "Salmos 95:3",
+      "Salmos 96:4",
+      "Salmos 99:2",
+      "Salmos 99:3",
+      "Sofonias 1:10",
+      "Sofonias 1:14",
+      "Tiago 1:2",
+      "Tiago 3:4",
+      "Tiago 3:5",
+      "Tito 2:13",
+      "Zacarias 12:11",
+      "Zacarias 14:13",
+      "Zacarias 14:14",
+      "Zacarias 14:4",
+      "Zacarias 1:14",
+      "Zacarias 1:15",
+      "Zacarias 4:7",
+      "Zacarias 7:12",
+      "Zacarias 8:2",
+      "Zacarias 9:17",
+      "Zacarias 9:5",
+      "Êxodo 11:3",
+      "Êxodo 11:6",
+      "Êxodo 12:30",
+      "Êxodo 12:38",
+      "Êxodo 14:31",
+      "Êxodo 2:10",
+      "Êxodo 32:10",
+      "Êxodo 32:11",
+      "Êxodo 32:30",
+      "Êxodo 32:31",
+      "Êxodo 34:6",
+      "Êxodo 3:3",
+      "Êxodo 6:6",
+      "Êxodo 7:4",
+      "Êxodo 8:24"
+    ],
+    "freq": 933,
+    "forms": [
+      "grande",
+      "grandes"
+    ]
+  },
+  "governar": {
+    "refs": [
+      "1 Timóteo 3:5",
+      "Gênesis 1:16",
+      "Gênesis 1:18",
+      "Salmos 136:8"
+    ],
+    "freq": 4,
+    "forms": [
+      "governar"
+    ]
+  },
+  "gar": {
+    "refs": [
+      "1 Coríntios 9:7",
+      "1 Crônicas 12:40",
+      "1 Crônicas 27:31",
+      "1 Crônicas 5:21",
+      "1 Crônicas 5:9",
+      "1 Samuel 30:20",
+      "2 Crônicas 14:15",
+      "2 Crônicas 17:11",
+      "2 Crônicas 26:10",
+      "2 Crônicas 35:8",
+      "2 Crônicas 35:9",
+      "2 Reis 3:17",
+      "2 Reis 3:4",
+      "2 Reis 3:9",
+      "Ageu 1:11",
+      "Apocalipse 18:13",
+      "Deuteronômio 17:1",
+      "Deuteronômio 18:3",
+      "Deuteronômio 2:35",
+      "Deuteronômio 3:19",
+      "Deuteronômio 3:7",
+      "Deuteronômio 7:13",
+      "Esdras 1:6",
+      "Ezequiel 38:12",
+      "Ezequiel 38:13",
+      "Gênesis 13:2",
+      "Gênesis 13:5",
+      "Gênesis 13:7",
+      "Gênesis 1:24",
+      "Gênesis 1:25",
+      "Gênesis 1:26",
+      "Gênesis 29:7",
+      "Gênesis 2:20",
+      "Gênesis 30:29",
+      "Gênesis 31:18",
+      "Gênesis 31:9",
+      "Gênesis 33:14",
+      "Gênesis 33:17",
+      "Gênesis 34:23",
+      "Gênesis 34:5",
+      "Gênesis 36:6",
+      "Gênesis 36:7",
+      "Gênesis 46:32",
+      "Gênesis 46:34",
+      "Gênesis 46:6",
+      "Gênesis 47:16",
+      "Gênesis 47:17",
+      "Gênesis 47:6",
+      "Gênesis 4:20",
+      "Gênesis 7:14",
+      "Gênesis 7:21",
+      "Gênesis 8:1",
+      "Gênesis 8:17",
+      "Gênesis 9:10",
+      "Habacuque 3:17",
+      "Isaías 30:23",
+      "Isaías 43:23",
+      "Jeremias 3:24",
+      "Jeremias 9:10",
+      "Josué 11:14",
+      "Josué 14:4",
+      "Josué 1:14",
+      "Josué 22:8",
+      "Josué 6:21",
+      "Josué 8:2",
+      "Josué 8:27",
+      "João 4:12",
+      "Juízes 18:21",
+      "Jó 1:10",
+      "Jó 1:3",
+      "Jó 36:33",
+      "Levítico 1:10",
+      "Levítico 1:2",
+      "Levítico 1:3",
+      "Levítico 22:23",
+      "Levítico 22:28",
+      "Levítico 25:7",
+      "Levítico 26:22",
+      "Levítico 27:26",
+      "Levítico 27:32",
+      "Levítico 3:1",
+      "Levítico 3:6",
+      "Levítico 5:6",
+      "Levítico 5:7",
+      "Levítico 7:21",
+      "Levítico 7:26",
+      "Lucas 17:7",
+      "Neemias 10:36",
+      "Neemias 12:39",
+      "Neemias 3:1",
+      "Neemias 3:32",
+      "Neemias 9:37",
+      "Números 15:3",
+      "Números 20:19",
+      "Números 31:9",
+      "Números 32:1",
+      "Números 32:16",
+      "Números 32:26",
+      "Números 32:4",
+      "Números 35:3",
+      "Oséias 12:12",
+      "Oséias 5:6",
+      "Salmos 104:14",
+      "Salmos 107:38",
+      "Salmos 50:10",
+      "Salmos 78:48",
+      "Zacarias 13:5",
+      "Êxodo 10:26",
+      "Êxodo 12:38",
+      "Êxodo 17:3",
+      "Êxodo 22:9",
+      "Êxodo 34:19",
+      "Êxodo 8:17",
+      "Êxodo 8:18",
+      "Êxodo 9:10",
+      "Êxodo 9:19",
+      "Êxodo 9:20",
+      "Êxodo 9:21",
+      "Êxodo 9:22",
+      "Êxodo 9:3",
+      "Êxodo 9:4",
+      "Êxodo 9:6",
+      "Êxodo 9:7",
+      "Êxodo 9:9"
+    ],
+    "freq": 124,
+    "forms": [
+      "gado"
+    ]
+  },
+  "giom": {
+    "refs": [
+      "1 Reis 1:33",
+      "1 Reis 1:38",
+      "1 Reis 1:45",
+      "2 Crônicas 32:30",
+      "2 Crônicas 33:14",
+      "Gênesis 2:13"
+    ],
+    "freq": 6,
+    "forms": [
+      "giom"
+    ]
+  },
+  "guardar": {
+    "refs": [
+      "1 Coríntios 7:37",
+      "1 Crônicas 10:13",
+      "1 Crônicas 22:12",
+      "1 Crônicas 29:19",
+      "1 Reis 11:38",
+      "1 Reis 3:14",
+      "1 Reis 8:58",
+      "1 Samuel 25:21",
+      "1 Timóteo 3:9",
+      "2 Crônicas 34:31",
+      "2 Samuel 23:5",
+      "2 Timóteo 1:12",
+      "2 Timóteo 4:18",
+      "ATOS 12:5",
+      "ATOS 15:24",
+      "ATOS 21:24",
+      "ATOS 25:4",
+      "ATOS 5:4",
+      "Apocalipse 2:26",
+      "Deuteronômio 17:19",
+      "Deuteronômio 28:1",
+      "Deuteronômio 28:13",
+      "Deuteronômio 28:58",
+      "Deuteronômio 30:10",
+      "Deuteronômio 32:34",
+      "Deuteronômio 6:24",
+      "Deuteronômio 7:8",
+      "Deuteronômio 8:11",
+      "Eclesiastes 3:6",
+      "Eclesiastes 8:5",
+      "Efésios 4:3",
+      "Ester 9:27",
+      "Ezequiel 17:14",
+      "Ezequiel 18:21",
+      "Ezequiel 18:9",
+      "Gálatas 5:3",
+      "Gênesis 19:19",
+      "Gênesis 28:20",
+      "Gênesis 2:15",
+      "Gênesis 30:31",
+      "Gênesis 3:24",
+      "Gênesis 45:7",
+      "Jeremias 15:20",
+      "Josué 22:3",
+      "Josué 22:5",
+      "João 15:10",
+      "João 17:12",
+      "João 8:51",
+      "João 8:52",
+      "Judas 1:24",
+      "Juízes 21:14",
+      "Juízes 2:22",
+      "Jó 22:15",
+      "Malaquias 2:7",
+      "Malaquias 3:14",
+      "Mateus 19:20",
+      "Mateus 27:64",
+      "Mateus 28:20",
+      "Neemias 13:22",
+      "Oséias 12:13",
+      "Provérbios 19:16",
+      "Provérbios 4:23",
+      "Romanos 2:26",
+      "Salmos 119:101",
+      "Salmos 119:112",
+      "Salmos 119:67",
+      "Salmos 127:1",
+      "Salmos 19:11",
+      "Tiago 1:27",
+      "Tiago 2:10",
+      "Zacarias 13:5",
+      "Êxodo 12:42",
+      "Êxodo 16:28",
+      "Êxodo 16:34",
+      "Êxodo 22:10",
+      "Êxodo 22:7"
+    ],
+    "freq": 76,
+    "forms": [
+      "guardado",
+      "guardando",
+      "guardar"
+    ]
+  },
+  "grandemente": {
+    "refs": [
+      "1 Pedro 1:6",
+      "1 Samuel 17:24",
+      "1 Samuel 28:20",
+      "2 Crônicas 11:12",
+      "2 Crônicas 17:12",
+      "2 Crônicas 28:19",
+      "Ester 2:21",
+      "Ezequiel 15:8",
+      "Ezequiel 20:13",
+      "Gênesis 3:16",
+      "Gênesis 7:18",
+      "Isaías 5:14",
+      "Jeremias 20:15",
+      "Jeremias 4:10",
+      "Josué 24:10",
+      "Jó 35:15",
+      "Levítico 10:16",
+      "Levítico 13:22",
+      "Levítico 13:27",
+      "Levítico 13:35",
+      "Levítico 13:7",
+      "Números 11:10",
+      "Números 22:17",
+      "Números 24:11",
+      "Números 31:14",
+      "Provérbios 23:24",
+      "Salmos 109:30",
+      "Salmos 119:51",
+      "Salmos 21:1",
+      "Salmos 62:2",
+      "Salmos 65:9",
+      "Êxodo 19:18",
+      "Êxodo 1:7"
+    ],
+    "freq": 33,
+    "forms": [
+      "grandemente"
+    ]
+  },
+  "gordura": {
+    "refs": [
+      "1 Reis 8:64",
+      "1 Samuel 15:22",
+      "1 Samuel 2:15",
+      "1 Samuel 2:16",
+      "2 Crônicas 29:35",
+      "2 Crônicas 35:14",
+      "2 Crônicas 7:7",
+      "2 Samuel 1:22",
+      "Deuteronômio 32:14",
+      "Deuteronômio 32:15",
+      "Deuteronômio 32:38",
+      "Ezequiel 34:3",
+      "Ezequiel 39:19",
+      "Ezequiel 44:15",
+      "Ezequiel 44:7",
+      "Gênesis 27:28",
+      "Gênesis 27:39",
+      "Gênesis 4:4",
+      "Isaías 17:4",
+      "Isaías 1:11",
+      "Isaías 34:6",
+      "Isaías 34:7",
+      "Isaías 43:24",
+      "Isaías 55:2",
+      "Jeremias 31:14",
+      "Juízes 3:22",
+      "Juízes 9:9",
+      "Jó 15:27",
+      "Jó 36:16",
+      "Levítico 10:15",
+      "Levítico 16:25",
+      "Levítico 17:6",
+      "Levítico 3:10",
+      "Levítico 3:14",
+      "Levítico 3:15",
+      "Levítico 3:16",
+      "Levítico 3:17",
+      "Levítico 3:3",
+      "Levítico 3:4",
+      "Levítico 3:9",
+      "Levítico 4:19",
+      "Levítico 4:26",
+      "Levítico 4:31",
+      "Levítico 4:35",
+      "Levítico 4:8",
+      "Levítico 4:9",
+      "Levítico 6:12",
+      "Levítico 7:23",
+      "Levítico 7:24",
+      "Levítico 7:25",
+      "Levítico 7:3",
+      "Levítico 7:30",
+      "Levítico 7:31",
+      "Levítico 7:33",
+      "Levítico 7:4",
+      "Levítico 8:16",
+      "Levítico 8:20",
+      "Levítico 8:25",
+      "Levítico 8:26",
+      "Levítico 9:10",
+      "Levítico 9:19",
+      "Levítico 9:20",
+      "Levítico 9:24",
+      "Neemias 8:10",
+      "Números 18:17",
+      "Salmos 119:70",
+      "Salmos 17:10",
+      "Salmos 36:8",
+      "Salmos 37:20",
+      "Salmos 63:5",
+      "Salmos 65:11",
+      "Salmos 73:7",
+      "Êxodo 23:18",
+      "Êxodo 29:13",
+      "Êxodo 29:22"
+    ],
+    "freq": 75,
+    "forms": [
+      "gordura",
+      "gorduras"
+    ]
+  },
+  "guardador": {
+    "refs": [
+      "Gênesis 4:9"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardador"
+    ]
+  },
+  "gerou": {
+    "refs": [
+      "1 Crônicas 14:3",
+      "1 Crônicas 1:10",
+      "1 Crônicas 1:11",
+      "1 Crônicas 1:13",
+      "1 Crônicas 1:18",
+      "1 Crônicas 1:20",
+      "1 Crônicas 1:34",
+      "1 Crônicas 2:10",
+      "1 Crônicas 2:11",
+      "1 Crônicas 2:12",
+      "1 Crônicas 2:13",
+      "1 Crônicas 2:18",
+      "1 Crônicas 2:20",
+      "1 Crônicas 2:22",
+      "1 Crônicas 2:36",
+      "1 Crônicas 2:37",
+      "1 Crônicas 2:38",
+      "1 Crônicas 2:39",
+      "1 Crônicas 2:40",
+      "1 Crônicas 2:41",
+      "1 Crônicas 2:44",
+      "1 Crônicas 2:46",
+      "1 Crônicas 2:48",
+      "1 Crônicas 4:11",
+      "1 Crônicas 4:12",
+      "1 Crônicas 4:14",
+      "1 Crônicas 4:2",
+      "1 Crônicas 4:8",
+      "1 Crônicas 6:10",
+      "1 Crônicas 6:11",
+      "1 Crônicas 6:12",
+      "1 Crônicas 6:13",
+      "1 Crônicas 6:14",
+      "1 Crônicas 6:4",
+      "1 Crônicas 6:5",
+      "1 Crônicas 6:6",
+      "1 Crônicas 6:7",
+      "1 Crônicas 6:8",
+      "1 Crônicas 6:9",
+      "1 Crônicas 7:32",
+      "1 Crônicas 8:1",
+      "1 Crônicas 8:11",
+      "1 Crônicas 8:32",
+      "1 Crônicas 8:33",
+      "1 Crônicas 8:34",
+      "1 Crônicas 8:36",
+      "1 Crônicas 8:37",
+      "1 Crônicas 8:7",
+      "1 Crônicas 8:8",
+      "1 Crônicas 8:9",
+      "1 Crônicas 9:38",
+      "1 Crônicas 9:39",
+      "1 Crônicas 9:40",
+      "1 Crônicas 9:42",
+      "1 Crônicas 9:43",
+      "1 João 5:1",
+      "1 Pedro 1:3",
+      "2 Crônicas 11:21",
+      "2 Crônicas 13:21",
+      "2 Crônicas 24:3",
+      "ATOS 7:29",
+      "ATOS 7:8",
+      "Cânticos 3:4",
+      "Deuteronômio 32:18",
+      "Gênesis 10:13",
+      "Gênesis 10:15",
+      "Gênesis 10:24",
+      "Gênesis 10:26",
+      "Gênesis 10:8",
+      "Gênesis 11:10",
+      "Gênesis 11:11",
+      "Gênesis 11:12",
+      "Gênesis 11:13",
+      "Gênesis 11:14",
+      "Gênesis 11:15",
+      "Gênesis 11:16",
+      "Gênesis 11:17",
+      "Gênesis 11:18",
+      "Gênesis 11:19",
+      "Gênesis 11:20",
+      "Gênesis 11:21",
+      "Gênesis 11:22",
+      "Gênesis 11:23",
+      "Gênesis 11:24",
+      "Gênesis 11:25",
+      "Gênesis 11:26",
+      "Gênesis 11:27",
+      "Gênesis 22:23",
+      "Gênesis 25:19",
+      "Gênesis 25:26",
+      "Gênesis 25:3",
+      "Gênesis 4:18",
+      "Gênesis 5:10",
+      "Gênesis 5:12",
+      "Gênesis 5:13",
+      "Gênesis 5:15",
+      "Gênesis 5:16",
+      "Gênesis 5:18",
+      "Gênesis 5:19",
+      "Gênesis 5:21",
+      "Gênesis 5:22",
+      "Gênesis 5:25",
+      "Gênesis 5:26",
+      "Gênesis 5:28",
+      "Gênesis 5:3",
+      "Gênesis 5:30",
+      "Gênesis 5:32",
+      "Gênesis 5:4",
+      "Gênesis 5:6",
+      "Gênesis 5:7",
+      "Gênesis 5:9",
+      "Gênesis 6:10",
+      "Isaías 49:21",
+      "Jó 38:28",
+      "Jó 38:29",
+      "Mateus 1:10",
+      "Mateus 1:11",
+      "Mateus 1:12",
+      "Mateus 1:13",
+      "Mateus 1:14",
+      "Mateus 1:15",
+      "Mateus 1:16",
+      "Mateus 1:2",
+      "Mateus 1:3",
+      "Mateus 1:4",
+      "Mateus 1:5",
+      "Mateus 1:6",
+      "Mateus 1:7",
+      "Mateus 1:8",
+      "Mateus 1:9",
+      "Neemias 12:10",
+      "Neemias 12:11",
+      "Números 26:29",
+      "Números 26:58",
+      "Provérbios 23:22",
+      "Provérbios 23:25",
+      "Rute 4:18",
+      "Rute 4:19",
+      "Rute 4:20",
+      "Rute 4:21",
+      "Rute 4:22",
+      "Tiago 1:18"
+    ],
+    "freq": 142,
+    "forms": [
+      "gerou"
+    ]
+  },
+  "geração": {
+    "refs": [
+      "1 Crônicas 16:15",
+      "1 Crônicas 1:29",
+      "1 Crônicas 26:31",
+      "1 Crônicas 7:2",
+      "1 Crônicas 7:4",
+      "1 Crônicas 7:9",
+      "1 Crônicas 8:28",
+      "1 Crônicas 9:34",
+      "1 Crônicas 9:9",
+      "1 Pedro 2:9",
+      "2 Reis 10:30",
+      "2 Reis 15:12",
+      "ATOS 13:26",
+      "ATOS 17:26",
+      "ATOS 17:28",
+      "ATOS 17:29",
+      "ATOS 2:40",
+      "ATOS 8:33",
+      "Apocalipse 22:16",
+      "Colossenses 1:26",
+      "Daniel 4:3",
+      "Daniel 4:34",
+      "Deuteronômio 1:35",
+      "Deuteronômio 23:2",
+      "Deuteronômio 23:3",
+      "Deuteronômio 23:8",
+      "Deuteronômio 29:22",
+      "Deuteronômio 2:14",
+      "Deuteronômio 32:20",
+      "Deuteronômio 32:5",
+      "Deuteronômio 32:7",
+      "Deuteronômio 5:9",
+      "Deuteronômio 7:9",
+      "Eclesiastes 1:4",
+      "Efésios 3:21",
+      "Ester 9:28",
+      "Filipenses 2:15",
+      "Gênesis 10:1",
+      "Gênesis 10:32",
+      "Gênesis 11:10",
+      "Gênesis 11:27",
+      "Gênesis 15:16",
+      "Gênesis 17:12",
+      "Gênesis 17:7",
+      "Gênesis 17:9",
+      "Gênesis 25:12",
+      "Gênesis 25:13",
+      "Gênesis 25:19",
+      "Gênesis 36:1",
+      "Gênesis 36:40",
+      "Gênesis 36:9",
+      "Gênesis 37:2",
+      "Gênesis 48:6",
+      "Gênesis 50:23",
+      "Gênesis 5:1",
+      "Gênesis 6:9",
+      "Gênesis 7:1",
+      "Gênesis 9:12",
+      "Hebreus 3:10",
+      "Isaías 13:20",
+      "Isaías 34:10",
+      "Isaías 34:17",
+      "Isaías 41:4",
+      "Isaías 51:8",
+      "Isaías 51:9",
+      "Isaías 58:12",
+      "Isaías 60:15",
+      "Isaías 61:4",
+      "Jeremias 10:25",
+      "Jeremias 22:28",
+      "Jeremias 22:30",
+      "Jeremias 23:8",
+      "Jeremias 2:31",
+      "Jeremias 33:24",
+      "Jeremias 50:39",
+      "Jeremias 7:15",
+      "Jeremias 7:29",
+      "Joel 1:3",
+      "Joel 2:2",
+      "Joel 3:20",
+      "Josué 22:27",
+      "Josué 22:28",
+      "Juízes 2:10",
+      "Juízes 3:2",
+      "Juízes 9:1",
+      "Jó 42:16",
+      "Jó 8:8",
+      "Lamentações 5:19",
+      "Levítico 10:9",
+      "Levítico 17:7",
+      "Levítico 21:17",
+      "Levítico 22:3",
+      "Levítico 23:14",
+      "Levítico 23:21",
+      "Levítico 23:31",
+      "Levítico 23:41",
+      "Levítico 23:43",
+      "Levítico 24:3",
+      "Levítico 25:30",
+      "Levítico 3:17",
+      "Levítico 6:18",
+      "Levítico 7:36",
+      "Lucas 11:29",
+      "Lucas 11:30",
+      "Lucas 11:31",
+      "Lucas 11:32",
+      "Lucas 11:50",
+      "Lucas 11:51",
+      "Lucas 16:8",
+      "Lucas 17:25",
+      "Lucas 1:48",
+      "Lucas 1:50",
+      "Lucas 21:32",
+      "Lucas 7:31",
+      "Lucas 9:41",
+      "Marcos 13:30",
+      "Marcos 8:12",
+      "Marcos 8:38",
+      "Marcos 9:19",
+      "Mateus 11:16",
+      "Mateus 12:39",
+      "Mateus 12:41",
+      "Mateus 12:42",
+      "Mateus 12:45",
+      "Mateus 16:4",
+      "Mateus 17:17",
+      "Mateus 1:1",
+      "Mateus 1:17",
+      "Mateus 23:36",
+      "Mateus 24:34",
+      "Números 10:8",
+      "Números 14:18",
+      "Números 15:14",
+      "Números 15:15",
+      "Números 15:21",
+      "Números 15:23",
+      "Números 15:38",
+      "Números 18:23",
+      "Números 1:20",
+      "Números 1:22",
+      "Números 1:24",
+      "Números 1:26",
+      "Números 1:28",
+      "Números 1:30",
+      "Números 1:32",
+      "Números 1:34",
+      "Números 1:36",
+      "Números 1:38",
+      "Números 1:40",
+      "Números 1:42",
+      "Números 26:15",
+      "Números 2:34",
+      "Números 32:13",
+      "Números 32:14",
+      "Números 35:29",
+      "Números 3:1",
+      "Números 9:10",
+      "Provérbios 27:24",
+      "Provérbios 30:11",
+      "Provérbios 30:12",
+      "Provérbios 30:13",
+      "Provérbios 30:14",
+      "Rute 4:18",
+      "Salmos 100:5",
+      "Salmos 102:12",
+      "Salmos 102:18",
+      "Salmos 102:24",
+      "Salmos 105:8",
+      "Salmos 106:31",
+      "Salmos 109:13",
+      "Salmos 112:2",
+      "Salmos 119:90",
+      "Salmos 12:7",
+      "Salmos 135:13",
+      "Salmos 145:13",
+      "Salmos 145:4",
+      "Salmos 146:10",
+      "Salmos 14:5",
+      "Salmos 22:30",
+      "Salmos 24:6",
+      "Salmos 33:11",
+      "Salmos 45:17",
+      "Salmos 48:13",
+      "Salmos 49:11",
+      "Salmos 49:19",
+      "Salmos 61:6",
+      "Salmos 71:18",
+      "Salmos 72:5",
+      "Salmos 73:15",
+      "Salmos 77:8",
+      "Salmos 78:4",
+      "Salmos 78:6",
+      "Salmos 78:8",
+      "Salmos 79:13",
+      "Salmos 85:5",
+      "Salmos 89:1",
+      "Salmos 89:4",
+      "Salmos 90:1",
+      "Salmos 95:10",
+      "Êxodo 12:14",
+      "Êxodo 12:17",
+      "Êxodo 12:42",
+      "Êxodo 16:32",
+      "Êxodo 16:33",
+      "Êxodo 17:16",
+      "Êxodo 1:6",
+      "Êxodo 20:5",
+      "Êxodo 27:21",
+      "Êxodo 28:10",
+      "Êxodo 29:42",
+      "Êxodo 30:10",
+      "Êxodo 30:21",
+      "Êxodo 30:31",
+      "Êxodo 30:8",
+      "Êxodo 31:13",
+      "Êxodo 31:16",
+      "Êxodo 34:7",
+      "Êxodo 3:15",
+      "Êxodo 40:15",
+      "Êxodo 6:16",
+      "Êxodo 6:19"
+    ],
+    "freq": 221,
+    "forms": [
+      "geração",
+      "gerações"
+    ]
+  },
+  "gigante": {
+    "refs": [
+      "1 Crônicas 20:4",
+      "1 Crônicas 20:6",
+      "1 Crônicas 20:8",
+      "2 Samuel 21:16",
+      "2 Samuel 21:18",
+      "2 Samuel 21:20",
+      "2 Samuel 21:22",
+      "Deuteronômio 1:28",
+      "Deuteronômio 2:10",
+      "Deuteronômio 2:11",
+      "Deuteronômio 2:20",
+      "Deuteronômio 2:21",
+      "Deuteronômio 3:11",
+      "Deuteronômio 3:13",
+      "Deuteronômio 9:2",
+      "Gênesis 6:4",
+      "Josué 12:4",
+      "Josué 13:12",
+      "Números 13:33"
+    ],
+    "freq": 19,
+    "forms": [
+      "gigante",
+      "gigantes"
+    ]
+  },
+  "geraram": {
+    "refs": [
+      "Ezequiel 23:37",
+      "Gênesis 6:4",
+      "Lucas 23:29",
+      "Oséias 5:7",
+      "Zacarias 13:3"
+    ],
+    "freq": 5,
+    "forms": [
+      "geraram"
+    ]
+  },
+  "graça": {
+    "refs": [
+      "1 Coríntios 10:30",
+      "1 Coríntios 11:24",
+      "1 Coríntios 14:16",
+      "1 Coríntios 14:17",
+      "1 Coríntios 14:18",
+      "1 Coríntios 15:10",
+      "1 Coríntios 15:57",
+      "1 Coríntios 16:23",
+      "1 Coríntios 1:14",
+      "1 Coríntios 1:3",
+      "1 Coríntios 1:4",
+      "1 Coríntios 3:10",
+      "1 Coríntios 9:18",
+      "1 Crônicas 25:3",
+      "1 Crônicas 29:13",
+      "1 Pedro 1:10",
+      "1 Pedro 1:13",
+      "1 Pedro 1:2",
+      "1 Pedro 3:7",
+      "1 Pedro 4:10",
+      "1 Pedro 5:10",
+      "1 Pedro 5:12",
+      "1 Pedro 5:5",
+      "1 Reis 11:19",
+      "1 Samuel 16:22",
+      "1 Samuel 1:18",
+      "1 Samuel 20:29",
+      "1 Samuel 20:3",
+      "1 Samuel 25:8",
+      "1 Samuel 27:5",
+      "1 Tessalonicenses 1:1",
+      "1 Tessalonicenses 1:2",
+      "1 Tessalonicenses 2:13",
+      "1 Tessalonicenses 3:9",
+      "1 Tessalonicenses 5:18",
+      "1 Tessalonicenses 5:28",
+      "1 Timóteo 1:12",
+      "1 Timóteo 1:14",
+      "1 Timóteo 1:2",
+      "1 Timóteo 2:1",
+      "1 Timóteo 4:3",
+      "1 Timóteo 4:4",
+      "1 Timóteo 6:21",
+      "2 Coríntios 11:7",
+      "2 Coríntios 12:9",
+      "2 Coríntios 13:14",
+      "2 Coríntios 1:11",
+      "2 Coríntios 1:12",
+      "2 Coríntios 1:15",
+      "2 Coríntios 1:2",
+      "2 Coríntios 2:14",
+      "2 Coríntios 4:15",
+      "2 Coríntios 6:1",
+      "2 Coríntios 8:1",
+      "2 Coríntios 8:16",
+      "2 Coríntios 8:19",
+      "2 Coríntios 8:4",
+      "2 Coríntios 8:6",
+      "2 Coríntios 8:7",
+      "2 Coríntios 8:9",
+      "2 Coríntios 9:11",
+      "2 Coríntios 9:12",
+      "2 Coríntios 9:14",
+      "2 Coríntios 9:15",
+      "2 Coríntios 9:8",
+      "2 João 1:3",
+      "2 Pedro 1:2",
+      "2 Pedro 3:18",
+      "2 Samuel 14:22",
+      "2 Samuel 15:25",
+      "2 Samuel 16:4",
+      "2 Tessalonicenses 1:12",
+      "2 Tessalonicenses 1:2",
+      "2 Tessalonicenses 1:3",
+      "2 Tessalonicenses 2:13",
+      "2 Tessalonicenses 2:16",
+      "2 Tessalonicenses 3:18",
+      "2 Tessalonicenses 3:8",
+      "2 Timóteo 1:2",
+      "2 Timóteo 1:3",
+      "2 Timóteo 1:9",
+      "2 Timóteo 2:1",
+      "2 Timóteo 4:22",
+      "ATOS 11:23",
+      "ATOS 13:43",
+      "ATOS 14:26",
+      "ATOS 14:3",
+      "ATOS 15:11",
+      "ATOS 15:40",
+      "ATOS 18:27",
+      "ATOS 20:24",
+      "ATOS 20:32",
+      "ATOS 27:35",
+      "ATOS 28:15",
+      "ATOS 2:47",
+      "ATOS 4:33",
+      "ATOS 7:10",
+      "ATOS 7:46",
+      "Apocalipse 11:17",
+      "Apocalipse 1:4",
+      "Apocalipse 21:6",
+      "Apocalipse 22:17",
+      "Apocalipse 22:21",
+      "Apocalipse 4:9",
+      "Apocalipse 5:12",
+      "Apocalipse 5:13",
+      "Apocalipse 7:12",
+      "Colossenses 1:12",
+      "Colossenses 1:2",
+      "Colossenses 1:3",
+      "Colossenses 1:6",
+      "Colossenses 2:7",
+      "Colossenses 3:16",
+      "Colossenses 3:17",
+      "Colossenses 4:18",
+      "Colossenses 4:2",
+      "Daniel 1:9",
+      "Daniel 2:23",
+      "Daniel 6:10",
+      "Deuteronômio 24:1",
+      "Deuteronômio 3:23",
+      "Efésios 1:16",
+      "Efésios 1:2",
+      "Efésios 1:6",
+      "Efésios 1:7",
+      "Efésios 2:5",
+      "Efésios 2:7",
+      "Efésios 2:8",
+      "Efésios 3:2",
+      "Efésios 3:7",
+      "Efésios 3:8",
+      "Efésios 4:29",
+      "Efésios 4:7",
+      "Efésios 5:20",
+      "Efésios 5:4",
+      "Efésios 6:24",
+      "Esdras 3:11",
+      "Esdras 9:8",
+      "Ester 2:15",
+      "Ester 2:17",
+      "Ester 2:9",
+      "Ester 5:2",
+      "Ester 5:8",
+      "Ester 7:3",
+      "Ester 8:5",
+      "Filemom 1:25",
+      "Filemom 1:3",
+      "Filemom 1:4",
+      "Filipenses 1:2",
+      "Filipenses 1:3",
+      "Filipenses 1:7",
+      "Filipenses 4:23",
+      "Filipenses 4:6",
+      "Gálatas 1:15",
+      "Gálatas 1:3",
+      "Gálatas 1:6",
+      "Gálatas 2:21",
+      "Gálatas 2:9",
+      "Gálatas 5:4",
+      "Gálatas 6:18",
+      "Gênesis 18:3",
+      "Gênesis 19:19",
+      "Gênesis 20:13",
+      "Gênesis 29:15",
+      "Gênesis 30:27",
+      "Gênesis 32:5",
+      "Gênesis 33:10",
+      "Gênesis 33:15",
+      "Gênesis 33:8",
+      "Gênesis 34:11",
+      "Gênesis 39:21",
+      "Gênesis 39:4",
+      "Gênesis 43:29",
+      "Gênesis 47:25",
+      "Gênesis 47:29",
+      "Gênesis 50:4",
+      "Gênesis 6:8",
+      "Hebreus 10:29",
+      "Hebreus 12:15",
+      "Hebreus 12:28",
+      "Hebreus 13:25",
+      "Hebreus 13:9",
+      "Hebreus 2:9",
+      "Hebreus 4:16",
+      "Isaías 12:1",
+      "Isaías 12:4",
+      "Isaías 51:3",
+      "Jeremias 31:2",
+      "Jeremias 33:11",
+      "João 11:41",
+      "João 1:14",
+      "João 1:16",
+      "João 1:17",
+      "João 6:11",
+      "João 6:23",
+      "Judas 1:4",
+      "Juízes 6:17",
+      "Jó 41:12",
+      "Levítico 7:12",
+      "Levítico 7:13",
+      "Levítico 7:15",
+      "Lucas 10:21",
+      "Lucas 17:16",
+      "Lucas 17:9",
+      "Lucas 18:11",
+      "Lucas 1:30",
+      "Lucas 22:17",
+      "Lucas 22:19",
+      "Lucas 2:38",
+      "Lucas 2:40",
+      "Lucas 2:52",
+      "Lucas 4:22",
+      "Marcos 14:23",
+      "Marcos 8:6",
+      "Marcos 8:7",
+      "Mateus 10:8",
+      "Mateus 11:25",
+      "Mateus 15:36",
+      "Mateus 26:27",
+      "Neemias 11:17",
+      "Neemias 12:24",
+      "Neemias 12:46",
+      "Neemias 1:11",
+      "Números 11:11",
+      "Números 11:15",
+      "Números 11:5",
+      "Números 32:5",
+      "Provérbios 3:34",
+      "Provérbios 3:4",
+      "Provérbios 4:9",
+      "Romanos 11:5",
+      "Romanos 11:6",
+      "Romanos 12:3",
+      "Romanos 12:6",
+      "Romanos 14:6",
+      "Romanos 15:15",
+      "Romanos 16:20",
+      "Romanos 16:24",
+      "Romanos 1:21",
+      "Romanos 1:5",
+      "Romanos 1:7",
+      "Romanos 1:8",
+      "Romanos 3:24",
+      "Romanos 4:16",
+      "Romanos 4:4",
+      "Romanos 5:15",
+      "Romanos 5:17",
+      "Romanos 5:18",
+      "Romanos 5:2",
+      "Romanos 5:20",
+      "Romanos 5:21",
+      "Romanos 6:1",
+      "Romanos 6:14",
+      "Romanos 6:15",
+      "Romanos 6:17",
+      "Romanos 7:25",
+      "Rute 2:10",
+      "Rute 2:13",
+      "Rute 2:2",
+      "Salmos 122:4",
+      "Salmos 147:7",
+      "Salmos 45:2",
+      "Salmos 56:12",
+      "Salmos 69:30",
+      "Salmos 84:11",
+      "Tiago 4:6",
+      "Tito 1:4",
+      "Tito 2:11",
+      "Tito 3:15",
+      "Tito 3:7",
+      "Zacarias 11:10",
+      "Zacarias 11:7",
+      "Zacarias 12:10",
+      "Zacarias 4:7",
+      "Êxodo 11:3",
+      "Êxodo 12:36",
+      "Êxodo 21:11",
+      "Êxodo 21:2",
+      "Êxodo 33:12",
+      "Êxodo 33:13",
+      "Êxodo 33:16",
+      "Êxodo 33:17",
+      "Êxodo 34:9",
+      "Êxodo 3:21"
+    ],
+    "freq": 284,
+    "forms": [
+      "graça",
+      "graças"
+    ]
+  },
+  "gofer": {
+    "refs": [
+      "Gênesis 6:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gofer"
+    ]
+  },
+  "gomer": {
+    "refs": [
+      "1 Crônicas 1:5",
+      "1 Crônicas 1:6",
+      "Gênesis 10:2",
+      "Gênesis 10:3"
+    ],
+    "freq": 4,
+    "forms": [
+      "gomer"
+    ]
+  },
+  "gentio": {
+    "refs": [
+      "1 Coríntios 10:20",
+      "1 Coríntios 12:2",
+      "1 Coríntios 5:1",
+      "1 Pedro 2:12",
+      "1 Pedro 4:3",
+      "1 Tessalonicenses 2:16",
+      "1 Tessalonicenses 4:5",
+      "1 Timóteo 2:7",
+      "1 Timóteo 3:16",
+      "2 Coríntios 11:26",
+      "2 Crônicas 28:3",
+      "2 Crônicas 33:2",
+      "2 Crônicas 36:14",
+      "2 Reis 16:3",
+      "2 Reis 21:2",
+      "2 Samuel 22:50",
+      "2 Timóteo 1:11",
+      "2 Timóteo 4:17",
+      "3 João 1:7",
+      "ATOS 10:45",
+      "ATOS 11:1",
+      "ATOS 11:18",
+      "ATOS 13:42",
+      "ATOS 13:46",
+      "ATOS 13:47",
+      "ATOS 13:48",
+      "ATOS 14:2",
+      "ATOS 14:27",
+      "ATOS 14:5",
+      "ATOS 15:12",
+      "ATOS 15:14",
+      "ATOS 15:17",
+      "ATOS 15:19",
+      "ATOS 15:23",
+      "ATOS 15:3",
+      "ATOS 15:7",
+      "ATOS 18:6",
+      "ATOS 21:11",
+      "ATOS 21:19",
+      "ATOS 21:21",
+      "ATOS 21:25",
+      "ATOS 22:21",
+      "ATOS 26:17",
+      "ATOS 26:20",
+      "ATOS 26:23",
+      "ATOS 28:28",
+      "ATOS 4:25",
+      "ATOS 4:27",
+      "ATOS 9:15",
+      "Ageu 2:22",
+      "Amós 9:12",
+      "Colossenses 1:27",
+      "Efésios 2:11",
+      "Efésios 3:1",
+      "Efésios 3:6",
+      "Efésios 3:8",
+      "Efésios 4:17",
+      "Esdras 6:21",
+      "Ezequiel 11:12",
+      "Ezequiel 11:16",
+      "Ezequiel 16:14",
+      "Ezequiel 20:14",
+      "Ezequiel 20:22",
+      "Ezequiel 20:23",
+      "Ezequiel 20:32",
+      "Ezequiel 20:41",
+      "Ezequiel 20:9",
+      "Ezequiel 22:16",
+      "Ezequiel 23:30",
+      "Ezequiel 25:7",
+      "Ezequiel 25:8",
+      "Ezequiel 28:25",
+      "Ezequiel 30:3",
+      "Ezequiel 31:11",
+      "Ezequiel 31:17",
+      "Ezequiel 34:28",
+      "Ezequiel 34:29",
+      "Ezequiel 36:15",
+      "Ezequiel 36:19",
+      "Ezequiel 36:20",
+      "Ezequiel 36:21",
+      "Ezequiel 36:23",
+      "Ezequiel 36:24",
+      "Ezequiel 36:3",
+      "Ezequiel 36:30",
+      "Ezequiel 36:36",
+      "Ezequiel 36:4",
+      "Ezequiel 36:5",
+      "Ezequiel 36:6",
+      "Ezequiel 36:7",
+      "Ezequiel 37:21",
+      "Ezequiel 37:28",
+      "Ezequiel 38:16",
+      "Ezequiel 39:21",
+      "Ezequiel 39:23",
+      "Ezequiel 39:28",
+      "Ezequiel 39:7",
+      "Ezequiel 4:13",
+      "Ezequiel 7:24",
+      "Gálatas 1:16",
+      "Gálatas 2:12",
+      "Gálatas 2:14",
+      "Gálatas 2:15",
+      "Gálatas 2:2",
+      "Gálatas 2:8",
+      "Gálatas 2:9",
+      "Gálatas 3:14",
+      "Gálatas 3:8",
+      "Gênesis 10:5",
+      "Habacuque 1:5",
+      "Habacuque 3:12",
+      "Isaías 11:10",
+      "Isaías 16:8",
+      "Isaías 42:1",
+      "Isaías 42:6",
+      "Isaías 49:22",
+      "Isaías 49:6",
+      "Isaías 54:3",
+      "Isaías 60:11",
+      "Isaías 60:16",
+      "Isaías 60:3",
+      "Isaías 60:5",
+      "Isaías 61:6",
+      "Isaías 61:9",
+      "Isaías 62:2",
+      "Isaías 66:12",
+      "Isaías 66:19",
+      "Jeremias 10:2",
+      "Jeremias 10:25",
+      "Jeremias 14:22",
+      "Jeremias 16:19",
+      "Jeremias 18:13",
+      "Jeremias 46:1",
+      "Jeremias 49:14",
+      "Jeremias 49:15",
+      "Jeremias 4:7",
+      "Jeremias 9:16",
+      "Joel 2:17",
+      "Joel 2:19",
+      "Joel 3:11",
+      "Joel 3:12",
+      "Joel 3:9",
+      "Juízes 4:13",
+      "Juízes 4:16",
+      "Juízes 4:2",
+      "Lamentações 1:10",
+      "Lamentações 1:3",
+      "Lamentações 2:9",
+      "Lamentações 4:15",
+      "Lamentações 4:20",
+      "Levítico 26:45",
+      "Lucas 18:32",
+      "Lucas 21:24",
+      "Lucas 22:25",
+      "Malaquias 1:11",
+      "Malaquias 1:14",
+      "Marcos 10:33",
+      "Marcos 10:42",
+      "Mateus 10:18",
+      "Mateus 10:5",
+      "Mateus 12:18",
+      "Mateus 12:21",
+      "Mateus 18:17",
+      "Mateus 20:19",
+      "Mateus 20:25",
+      "Mateus 6:32",
+      "Mateus 6:7",
+      "Miquéias 5:15",
+      "Miquéias 5:8",
+      "Neemias 6:6",
+      "Obadias 1:1",
+      "Obadias 1:15",
+      "Obadias 1:16",
+      "Obadias 1:2",
+      "Oséias 8:8",
+      "Romanos 11:11",
+      "Romanos 11:12",
+      "Romanos 11:13",
+      "Romanos 11:25",
+      "Romanos 15:10",
+      "Romanos 15:11",
+      "Romanos 15:12",
+      "Romanos 15:16",
+      "Romanos 15:18",
+      "Romanos 15:27",
+      "Romanos 15:9",
+      "Romanos 16:4",
+      "Romanos 1:13",
+      "Romanos 2:14",
+      "Romanos 2:24",
+      "Romanos 3:29",
+      "Romanos 9:24",
+      "Romanos 9:30",
+      "Salmos 102:15",
+      "Salmos 105:44",
+      "Salmos 106:35",
+      "Salmos 106:41",
+      "Salmos 106:47",
+      "Salmos 10:16",
+      "Salmos 110:6",
+      "Salmos 111:6",
+      "Salmos 115:2",
+      "Salmos 126:2",
+      "Salmos 135:15",
+      "Salmos 149:7",
+      "Salmos 18:43",
+      "Salmos 18:49",
+      "Salmos 2:1",
+      "Salmos 2:8",
+      "Salmos 33:10",
+      "Salmos 44:11",
+      "Salmos 44:14",
+      "Salmos 44:2",
+      "Salmos 46:10",
+      "Salmos 46:6",
+      "Salmos 47:8",
+      "Salmos 59:5",
+      "Salmos 59:8",
+      "Salmos 78:55",
+      "Salmos 79:1",
+      "Salmos 79:10",
+      "Salmos 79:6",
+      "Salmos 80:8",
+      "Salmos 94:10",
+      "Salmos 96:10",
+      "Salmos 98:2",
+      "Salmos 9:15",
+      "Salmos 9:19",
+      "Sofonias 2:11",
+      "Zacarias 14:14",
+      "Zacarias 14:18",
+      "Zacarias 1:15",
+      "Zacarias 1:21",
+      "Zacarias 8:13",
+      "Zacarias 9:10"
+    ],
+    "freq": 235,
+    "forms": [
+      "gentio",
+      "gentios"
+    ]
+  },
+  "girgaseu": {
+    "refs": [
+      "1 Crônicas 1:14",
+      "Deuteronômio 7:1",
+      "Gênesis 10:16",
+      "Gênesis 15:21",
+      "Josué 24:11",
+      "Josué 3:10",
+      "Neemias 9:8"
+    ],
+    "freq": 7,
+    "forms": [
+      "girgaseu",
+      "girgaseus"
+    ]
+  },
+  "gerar": {
+    "refs": [
+      "1 João 5:18",
+      "2 Crônicas 14:13",
+      "2 Crônicas 14:14",
+      "Eclesiastes 6:3",
+      "Ezequiel 16:20",
+      "Ezequiel 18:10",
+      "Ezequiel 18:14",
+      "Gálatas 4:24",
+      "Gálatas 4:29",
+      "Gênesis 10:19",
+      "Gênesis 20:1",
+      "Gênesis 20:2",
+      "Gênesis 26:1",
+      "Gênesis 26:17",
+      "Gênesis 26:20",
+      "Gênesis 26:26",
+      "Gênesis 26:6",
+      "Levítico 25:45",
+      "Mateus 1:20",
+      "Provérbios 23:24"
+    ],
+    "freq": 20,
+    "forms": [
+      "gerado",
+      "gerando",
+      "gerar"
+    ]
+  },
+  "gaza": {
+    "refs": [
+      "1 Crônicas 7:28",
+      "1 Reis 4:24",
+      "1 Samuel 6:17",
+      "2 Reis 18:8",
+      "ATOS 8:26",
+      "Amós 1:6",
+      "Amós 1:7",
+      "Deuteronômio 2:23",
+      "Gênesis 10:19",
+      "Jeremias 25:20",
+      "Jeremias 47:1",
+      "Jeremias 47:5",
+      "Josué 10:41",
+      "Josué 11:22",
+      "Josué 15:47",
+      "Juízes 16:1",
+      "Juízes 16:21",
+      "Juízes 1:18",
+      "Juízes 6:4",
+      "Sofonias 2:4",
+      "Zacarias 9:5"
+    ],
+    "freq": 21,
+    "forms": [
+      "gaza"
+    ]
+  },
+  "gomorra": {
+    "refs": [
+      "2 Pedro 2:6",
+      "Amós 4:11",
+      "Deuteronômio 29:23",
+      "Deuteronômio 32:32",
+      "Gênesis 10:19",
+      "Gênesis 13:10",
+      "Gênesis 14:10",
+      "Gênesis 14:11",
+      "Gênesis 14:2",
+      "Gênesis 14:8",
+      "Gênesis 18:20",
+      "Gênesis 19:24",
+      "Gênesis 19:28",
+      "Isaías 13:19",
+      "Isaías 1:10",
+      "Isaías 1:9",
+      "Jeremias 23:14",
+      "Jeremias 49:18",
+      "Jeremias 50:40",
+      "Judas 1:7",
+      "Marcos 6:11",
+      "Mateus 10:15",
+      "Romanos 9:29",
+      "Sofonias 2:9"
+    ],
+    "freq": 24,
+    "forms": [
+      "gomorra"
+    ]
+  },
+  "geter": {
+    "refs": [
+      "1 Crônicas 1:17",
+      "Gênesis 10:23"
+    ],
+    "freq": 2,
+    "forms": [
+      "geter"
+    ]
+  },
+  "guardarão": {
+    "refs": [
+      "Ezequiel 37:24",
+      "Ezequiel 44:16",
+      "Ezequiel 44:24",
+      "Gênesis 12:12",
+      "João 15:20",
+      "Levítico 22:9",
+      "Êxodo 31:16"
+    ],
+    "freq": 7,
+    "forms": [
+      "guardarão"
+    ]
+  },
+  "gabaram": {
+    "refs": [
+      "Gênesis 12:15"
+    ],
+    "freq": 1,
+    "forms": [
+      "gabaram"
+    ]
+  },
+  "goim": {
+    "refs": [
+      "Gênesis 14:1",
+      "Gênesis 14:9",
+      "Josué 12:23"
+    ],
+    "freq": 3,
+    "forms": [
+      "goim"
+    ]
+  },
+  "guerra": {
+    "refs": [
+      "1 Crônicas 12:1",
+      "1 Crônicas 12:33",
+      "1 Crônicas 12:37",
+      "1 Crônicas 12:38",
+      "1 Crônicas 12:8",
+      "1 Crônicas 18:10",
+      "1 Crônicas 19:7",
+      "1 Crônicas 20:1",
+      "1 Crônicas 20:4",
+      "1 Crônicas 20:5",
+      "1 Crônicas 20:6",
+      "1 Crônicas 22:8",
+      "1 Crônicas 26:27",
+      "1 Crônicas 28:3",
+      "1 Crônicas 5:10",
+      "1 Crônicas 5:18",
+      "1 Crônicas 5:19",
+      "1 Crônicas 7:4",
+      "1 Crônicas 7:40",
+      "1 Reis 12:21",
+      "1 Reis 14:30",
+      "1 Reis 15:16",
+      "1 Reis 15:32",
+      "1 Reis 15:6",
+      "1 Reis 15:7",
+      "1 Reis 22:1",
+      "1 Reis 2:5",
+      "1 Reis 5:3",
+      "1 Reis 8:44",
+      "1 Reis 9:22",
+      "1 Samuel 14:52",
+      "1 Samuel 16:18",
+      "1 Samuel 17:1",
+      "1 Samuel 17:13",
+      "1 Samuel 17:33",
+      "1 Samuel 17:47",
+      "1 Samuel 18:17",
+      "1 Samuel 18:5",
+      "1 Samuel 19:8",
+      "1 Samuel 25:28",
+      "1 Samuel 28:1",
+      "1 Samuel 8:12",
+      "1 Samuel 8:20",
+      "2 Crônicas 11:1",
+      "2 Crônicas 12:15",
+      "2 Crônicas 13:2",
+      "2 Crônicas 14:6",
+      "2 Crônicas 15:19",
+      "2 Crônicas 16:9",
+      "2 Crônicas 17:13",
+      "2 Crônicas 17:18",
+      "2 Crônicas 18:14",
+      "2 Crônicas 18:3",
+      "2 Crônicas 18:5",
+      "2 Crônicas 25:5",
+      "2 Crônicas 26:11",
+      "2 Crônicas 26:13",
+      "2 Crônicas 27:7",
+      "2 Crônicas 32:6",
+      "2 Crônicas 33:14",
+      "2 Crônicas 35:21",
+      "2 Crônicas 6:34",
+      "2 Crônicas 8:9",
+      "2 Reis 13:25",
+      "2 Reis 14:7",
+      "2 Reis 18:20",
+      "2 Reis 19:9",
+      "2 Reis 24:16",
+      "2 Reis 25:19",
+      "2 Reis 25:4",
+      "2 Reis 3:7",
+      "2 Reis 6:8",
+      "2 Samuel 11:1",
+      "2 Samuel 11:7",
+      "2 Samuel 17:8",
+      "2 Samuel 1:27",
+      "2 Samuel 24:9",
+      "2 Samuel 3:1",
+      "2 Samuel 3:6",
+      "2 Samuel 8:10",
+      "2 Timóteo 2:4",
+      "Apocalipse 11:7",
+      "Apocalipse 12:17",
+      "Apocalipse 13:7",
+      "Apocalipse 19:19",
+      "Apocalipse 9:7",
+      "Cânticos 3:8",
+      "Daniel 11:10",
+      "Daniel 11:25",
+      "Daniel 7:21",
+      "Daniel 9:26",
+      "Deuteronômio 1:41",
+      "Deuteronômio 20:12",
+      "Deuteronômio 24:5",
+      "Deuteronômio 2:14",
+      "Deuteronômio 2:16",
+      "Eclesiastes 3:8",
+      "Eclesiastes 9:18",
+      "Ezequiel 17:17",
+      "Ezequiel 32:27",
+      "Ezequiel 39:20",
+      "Gênesis 14:2",
+      "Isaías 13:4",
+      "Isaías 21:15",
+      "Isaías 22:2",
+      "Isaías 27:4",
+      "Isaías 36:5",
+      "Isaías 37:9",
+      "Isaías 3:2",
+      "Isaías 42:13",
+      "Isaías 42:25",
+      "Jeremias 21:4",
+      "Jeremias 28:8",
+      "Jeremias 38:4",
+      "Jeremias 39:4",
+      "Jeremias 41:16",
+      "Jeremias 41:3",
+      "Jeremias 42:14",
+      "Jeremias 48:14",
+      "Jeremias 49:14",
+      "Jeremias 49:2",
+      "Jeremias 49:26",
+      "Jeremias 4:19",
+      "Jeremias 50:30",
+      "Jeremias 51:20",
+      "Jeremias 51:32",
+      "Jeremias 52:25",
+      "Jeremias 52:7",
+      "Jeremias 6:23",
+      "Jeremias 6:4",
+      "Joel 2:7",
+      "Joel 3:9",
+      "Josué 10:24",
+      "Josué 10:7",
+      "Josué 11:18",
+      "Josué 11:19",
+      "Josué 11:20",
+      "Josué 11:23",
+      "Josué 11:7",
+      "Josué 14:11",
+      "Josué 14:15",
+      "Josué 17:1",
+      "Josué 22:12",
+      "Josué 22:33",
+      "Josué 4:13",
+      "Josué 5:4",
+      "Josué 5:6",
+      "Josué 6:3",
+      "Josué 8:1",
+      "Josué 8:11",
+      "Josué 8:3",
+      "Juízes 18:11",
+      "Juízes 18:16",
+      "Juízes 18:17",
+      "Juízes 20:17",
+      "Juízes 21:22",
+      "Juízes 3:1",
+      "Juízes 3:2",
+      "Juízes 5:8",
+      "Jó 38:23",
+      "Jó 39:25",
+      "Jó 5:20",
+      "Jó 7:1",
+      "Lucas 14:31",
+      "Lucas 21:9",
+      "Marcos 13:7",
+      "Mateus 24:6",
+      "Miquéias 2:8",
+      "Miquéias 3:5",
+      "Miquéias 4:3",
+      "Números 1:20",
+      "Números 1:22",
+      "Números 1:24",
+      "Números 1:26",
+      "Números 1:28",
+      "Números 1:3",
+      "Números 1:30",
+      "Números 1:32",
+      "Números 1:34",
+      "Números 1:36",
+      "Números 1:38",
+      "Números 1:40",
+      "Números 1:42",
+      "Números 1:45",
+      "Números 21:14",
+      "Números 26:2",
+      "Números 31:14",
+      "Números 31:21",
+      "Números 31:27",
+      "Números 31:28",
+      "Números 31:3",
+      "Números 31:32",
+      "Números 31:36",
+      "Números 31:4",
+      "Números 31:49",
+      "Números 31:53",
+      "Números 31:6",
+      "Números 32:20",
+      "Números 32:27",
+      "Números 32:29",
+      "Obadias 1:1",
+      "Oséias 10:14",
+      "Oséias 1:7",
+      "Oséias 2:18",
+      "Provérbios 20:18",
+      "Provérbios 24:6",
+      "Salmos 120:7",
+      "Salmos 140:2",
+      "Salmos 144:1",
+      "Salmos 18:34",
+      "Salmos 24:8",
+      "Salmos 27:3",
+      "Salmos 46:9",
+      "Salmos 55:21",
+      "Salmos 68:30",
+      "Salmos 76:3",
+      "Tiago 4:1",
+      "Zacarias 10:4",
+      "Zacarias 9:10",
+      "Êxodo 13:17",
+      "Êxodo 15:3",
+      "Êxodo 17:16",
+      "Êxodo 1:10",
+      "Êxodo 32:17"
+    ],
+    "freq": 224,
+    "forms": [
+      "guerra",
+      "guerras"
+    ]
+  },
+  "grandíssimo": {
+    "refs": [
+      "Gênesis 15:1",
+      "Gênesis 50:9"
+    ],
+    "freq": 2,
+    "forms": [
+      "grandíssimo"
+    ]
+  },
+  "galardão": {
+    "refs": [
+      "1 Coríntios 3:14",
+      "1 Coríntios 3:8",
+      "2 João 1:8",
+      "2 Pedro 2:13",
+      "ATOS 1:18",
+      "Apocalipse 11:18",
+      "Apocalipse 22:12",
+      "Colossenses 3:24",
+      "Gênesis 15:1",
+      "Gênesis 30:18",
+      "Hebreus 10:35",
+      "Isaías 40:10",
+      "Isaías 49:4",
+      "Isaías 62:11",
+      "Jeremias 31:16",
+      "João 4:36",
+      "Lucas 6:23",
+      "Lucas 6:35",
+      "Marcos 9:41",
+      "Mateus 10:41",
+      "Mateus 10:42",
+      "Mateus 5:12",
+      "Mateus 5:46",
+      "Mateus 6:1",
+      "Mateus 6:16",
+      "Mateus 6:2",
+      "Mateus 6:5",
+      "Números 18:31",
+      "Provérbios 11:18",
+      "Provérbios 22:4",
+      "Provérbios 24:14",
+      "Provérbios 24:20",
+      "Romanos 4:4",
+      "Rute 2:12",
+      "Salmos 109:20",
+      "Salmos 127:3"
+    ],
+    "freq": 36,
+    "forms": [
+      "galardão"
+    ]
+  },
+  "grandissimamente": {
+    "refs": [
+      "1 Crônicas 29:25",
+      "1 Samuel 26:21",
+      "Gênesis 17:2",
+      "Gênesis 17:20",
+      "Gênesis 17:6",
+      "Gênesis 22:17"
+    ],
+    "freq": 6,
+    "forms": [
+      "grandissimamente"
+    ]
+  },
+  "guardará": {
+    "refs": [
+      "1 Samuel 2:9",
+      "2 Tessalonicenses 3:3",
+      "Amós 5:13",
+      "Deuteronômio 11:1",
+      "Deuteronômio 16:12",
+      "Deuteronômio 23:23",
+      "Deuteronômio 23:9",
+      "Deuteronômio 26:17",
+      "Deuteronômio 26:18",
+      "Deuteronômio 4:40",
+      "Deuteronômio 7:12",
+      "Filipenses 4:7",
+      "Gênesis 17:9",
+      "Jeremias 31:10",
+      "Jeremias 3:5",
+      "João 14:23",
+      "Juízes 13:13",
+      "Juízes 13:14",
+      "Levítico 19:18",
+      "Levítico 19:19",
+      "Levítico 19:3",
+      "Provérbios 19:16",
+      "Provérbios 2:11",
+      "Provérbios 3:26",
+      "Provérbios 4:6",
+      "Provérbios 6:22",
+      "Salmos 121:7",
+      "Salmos 121:8",
+      "Salmos 12:7",
+      "Zacarias 3:7",
+      "Êxodo 12:42",
+      "Êxodo 13:10",
+      "Êxodo 13:5",
+      "Êxodo 23:15",
+      "Êxodo 34:18",
+      "Êxodo 34:22"
+    ],
+    "freq": 36,
+    "forms": [
+      "guardará",
+      "guardarás"
+    ]
+  },
+  "guardaral": {
+    "refs": [
+      "Deuteronômio 13:4",
+      "Deuteronômio 6:17",
+      "Deuteronômio 8:1",
+      "Ezequiel 13:18",
+      "Gênesis 17:10",
+      "Levítico 18:26",
+      "Levítico 18:30",
+      "Levítico 18:4",
+      "Levítico 18:5",
+      "Levítico 19:30",
+      "Levítico 19:37",
+      "Levítico 22:31",
+      "Levítico 25:18",
+      "Levítico 26:2",
+      "Levítico 8:35",
+      "Neemias 1:9",
+      "Êxodo 12:17",
+      "Êxodo 12:25",
+      "Êxodo 12:6",
+      "Êxodo 1:22",
+      "Êxodo 31:13",
+      "Êxodo 31:14"
+    ],
+    "freq": 22,
+    "forms": [
+      "guardareis"
+    ]
+  },
+  "gerará": {
+    "refs": [
+      "Deuteronômio 28:41",
+      "Gênesis 17:20",
+      "Gênesis 48:6"
+    ],
+    "freq": 3,
+    "forms": [
+      "gerará",
+      "gerarás"
+    ]
+  },
+  "guardem": {
+    "refs": [
+      "1 Reis 8:25",
+      "2 Crônicas 6:16",
+      "ATOS 21:25",
+      "Ezequiel 11:20",
+      "Ezequiel 43:11",
+      "Gênesis 18:19",
+      "Gênesis 41:35",
+      "Josué 10:18",
+      "Lucas 4:10",
+      "Números 3:10",
+      "Provérbios 2:8",
+      "Provérbios 7:5",
+      "Salmos 25:21",
+      "Salmos 40:11"
+    ],
+    "freq": 14,
+    "forms": [
+      "guardem"
+    ]
+  },
+  "genro": {
+    "refs": [
+      "1 Samuel 18:18",
+      "1 Samuel 18:21",
+      "1 Samuel 18:22",
+      "1 Samuel 18:23",
+      "1 Samuel 18:26",
+      "1 Samuel 18:27",
+      "1 Samuel 22:14",
+      "2 Reis 8:27",
+      "Gênesis 19:12",
+      "Gênesis 19:14",
+      "Juízes 15:6",
+      "Juízes 19:5",
+      "Neemias 13:28",
+      "Neemias 6:18"
+    ],
+    "freq": 14,
+    "forms": [
+      "genro",
+      "genros"
+    ]
+  },
+  "gaã": {
+    "refs": [
+      "Gênesis 22:24"
+    ],
+    "freq": 1,
+    "forms": [
+      "gaã"
+    ]
+  },
+  "governo": {
+    "refs": [
+      "1 Coríntios 12:28",
+      "Daniel 5:29",
+      "Gênesis 24:2",
+      "Jó 34:13",
+      "Salmos 2:2"
+    ],
+    "freq": 5,
+    "forms": [
+      "governo",
+      "governos"
+    ]
+  },
+  "guarda": {
+    "refs": [
+      "1 Crônicas 11:25",
+      "1 Crônicas 23:32",
+      "1 Crônicas 25:8",
+      "1 Crônicas 26:12",
+      "1 Crônicas 26:16",
+      "1 Crônicas 9:18",
+      "1 Crônicas 9:19",
+      "1 Crônicas 9:22",
+      "1 Crônicas 9:23",
+      "1 Crônicas 9:27",
+      "1 João 2:4",
+      "1 João 2:5",
+      "1 João 3:24",
+      "1 Reis 14:27",
+      "1 Reis 14:28",
+      "1 Reis 20:39",
+      "1 Reis 2:3",
+      "1 Reis 8:23",
+      "1 Reis 8:25",
+      "1 Samuel 17:20",
+      "1 Samuel 17:22",
+      "1 Samuel 19:2",
+      "1 Samuel 22:17",
+      "1 Samuel 28:2",
+      "1 Timóteo 6:20",
+      "2 Coríntios 11:32",
+      "2 Crônicas 12:10",
+      "2 Crônicas 12:11",
+      "2 Crônicas 23:4",
+      "2 Crônicas 23:6",
+      "2 Crônicas 31:16",
+      "2 Crônicas 31:17",
+      "2 Crônicas 34:22",
+      "2 Crônicas 35:21",
+      "2 Crônicas 6:14",
+      "2 Crônicas 6:16",
+      "2 Reis 10:25",
+      "2 Reis 11:11",
+      "2 Reis 11:13",
+      "2 Reis 11:19",
+      "2 Reis 11:4",
+      "2 Reis 11:5",
+      "2 Reis 11:6",
+      "2 Reis 11:7",
+      "2 Reis 22:14",
+      "2 Reis 22:4",
+      "2 Reis 23:4",
+      "2 Reis 25:10",
+      "2 Reis 25:11",
+      "2 Reis 25:12",
+      "2 Reis 25:15",
+      "2 Reis 25:18",
+      "2 Reis 25:20",
+      "2 Reis 25:8",
+      "2 Reis 6:9",
+      "2 Samuel 13:34",
+      "2 Samuel 20:3",
+      "2 Samuel 23:17",
+      "2 Samuel 23:23",
+      "2 Timóteo 1:14",
+      "2 Timóteo 4:15",
+      "ATOS 12:10",
+      "ATOS 12:19",
+      "ATOS 12:6",
+      "ATOS 28:16",
+      "ATOS 5:23",
+      "Apocalipse 16:15",
+      "Apocalipse 22:7",
+      "Apocalipse 3:11",
+      "Apocalipse 3:3",
+      "Cânticos 1:6",
+      "Cânticos 3:3",
+      "Cânticos 5:7",
+      "Cânticos 8:11",
+      "Daniel 2:14",
+      "Daniel 9:4",
+      "Deuteronômio 12:13",
+      "Deuteronômio 12:19",
+      "Deuteronômio 12:28",
+      "Deuteronômio 12:30",
+      "Deuteronômio 15:9",
+      "Deuteronômio 16:1",
+      "Deuteronômio 24:8",
+      "Deuteronômio 26:16",
+      "Deuteronômio 27:9",
+      "Deuteronômio 4:9",
+      "Deuteronômio 5:12",
+      "Deuteronômio 6:12",
+      "Deuteronômio 7:11",
+      "Deuteronômio 7:9",
+      "Deuteronômio 8:11",
+      "Deuteronômio 8:6",
+      "Eclesiastes 12:13",
+      "Eclesiastes 12:3",
+      "Eclesiastes 5:1",
+      "Ester 2:14",
+      "Ester 2:15",
+      "Ester 2:21",
+      "Ester 2:3",
+      "Ester 2:8",
+      "Ester 6:2",
+      "Ezequiel 38:7",
+      "Ezequiel 40:45",
+      "Ezequiel 40:46",
+      "Ezequiel 44:14",
+      "Ezequiel 44:8",
+      "Filipenses 1:13",
+      "Gênesis 24:6",
+      "Gênesis 31:24",
+      "Gênesis 31:29",
+      "Gênesis 37:36",
+      "Gênesis 39:1",
+      "Gênesis 40:3",
+      "Gênesis 40:4",
+      "Gênesis 41:10",
+      "Gênesis 41:12",
+      "Habacuque 2:1",
+      "Isaías 21:11",
+      "Isaías 21:12",
+      "Isaías 21:8",
+      "Isaías 42:20",
+      "Isaías 56:2",
+      "Isaías 62:6",
+      "Jeremias 32:12",
+      "Jeremias 32:2",
+      "Jeremias 32:8",
+      "Jeremias 33:1",
+      "Jeremias 35:4",
+      "Jeremias 37:13",
+      "Jeremias 37:21",
+      "Jeremias 38:13",
+      "Jeremias 38:28",
+      "Jeremias 38:6",
+      "Jeremias 39:10",
+      "Jeremias 39:11",
+      "Jeremias 39:13",
+      "Jeremias 39:14",
+      "Jeremias 39:15",
+      "Jeremias 39:9",
+      "Jeremias 40:1",
+      "Jeremias 40:2",
+      "Jeremias 40:5",
+      "Jeremias 41:10",
+      "Jeremias 43:6",
+      "Jeremias 4:17",
+      "Jeremias 51:12",
+      "Jeremias 52:12",
+      "Jeremias 52:14",
+      "Jeremias 52:15",
+      "Jeremias 52:16",
+      "Jeremias 52:19",
+      "Jeremias 52:24",
+      "Jeremias 52:26",
+      "Jeremias 52:30",
+      "Jeremias 6:27",
+      "João 14:21",
+      "João 14:24",
+      "João 17:11",
+      "João 9:16",
+      "Juízes 13:4",
+      "Juízes 7:19",
+      "Jó 21:19",
+      "Jó 27:18",
+      "Jó 2:6",
+      "Jó 36:18",
+      "Jó 36:21",
+      "Jó 7:12",
+      "Jó 7:20",
+      "Levítico 6:2",
+      "Levítico 6:4",
+      "Lucas 11:21",
+      "Mateus 19:17",
+      "Mateus 27:65",
+      "Mateus 27:66",
+      "Mateus 28:11",
+      "Mateus 28:4",
+      "Miquéias 7:5",
+      "Naum 1:2",
+      "Naum 2:1",
+      "Neemias 11:19",
+      "Neemias 12:24",
+      "Neemias 12:25",
+      "Neemias 12:9",
+      "Neemias 1:5",
+      "Neemias 2:8",
+      "Neemias 3:29",
+      "Neemias 4:13",
+      "Neemias 4:22",
+      "Neemias 4:23",
+      "Neemias 4:9",
+      "Neemias 7:3",
+      "Neemias 9:32",
+      "Neemias 9:6",
+      "Números 15:34",
+      "Números 18:8",
+      "Números 1:53",
+      "Números 31:30",
+      "Números 31:47",
+      "Números 3:28",
+      "Números 3:31",
+      "Números 3:32",
+      "Números 3:38",
+      "Números 3:7",
+      "Números 3:8",
+      "Números 4:28",
+      "Números 8:26",
+      "Oséias 12:6",
+      "Provérbios 10:17",
+      "Provérbios 11:16",
+      "Provérbios 13:18",
+      "Provérbios 13:3",
+      "Provérbios 13:6",
+      "Provérbios 16:17",
+      "Provérbios 17:27",
+      "Provérbios 21:23",
+      "Provérbios 22:5",
+      "Provérbios 28:7",
+      "Provérbios 29:11",
+      "Provérbios 29:18",
+      "Provérbios 3:21",
+      "Provérbios 4:13",
+      "Provérbios 4:21",
+      "Provérbios 4:23",
+      "Provérbios 4:4",
+      "Provérbios 6:20",
+      "Provérbios 6:7",
+      "Provérbios 7:1",
+      "Provérbios 7:2",
+      "Salmos 116:6",
+      "Salmos 119:129",
+      "Salmos 121:3",
+      "Salmos 121:4",
+      "Salmos 121:5",
+      "Salmos 130:6",
+      "Salmos 140:1",
+      "Salmos 140:4",
+      "Salmos 141:3",
+      "Salmos 141:9",
+      "Salmos 145:20",
+      "Salmos 146:6",
+      "Salmos 146:9",
+      "Salmos 16:1",
+      "Salmos 17:8",
+      "Salmos 19:13",
+      "Salmos 25:20",
+      "Salmos 31:23",
+      "Salmos 34:13",
+      "Salmos 34:20",
+      "Salmos 37:34",
+      "Salmos 64:1",
+      "Salmos 80:18",
+      "Salmos 86:2",
+      "Salmos 97:10",
+      "Êxodo 10:28",
+      "Êxodo 23:21",
+      "Êxodo 34:11",
+      "Êxodo 34:12",
+      "Êxodo 34:7"
+    ],
+    "freq": 258,
+    "forms": [
+      "guarda",
+      "guardas"
+    ]
+  },
+  "guiou": {
+    "refs": [
+      "1 Samuel 30:16",
+      "2 Crônicas 32:22",
+      "2 Reis 6:19",
+      "Deuteronômio 32:12",
+      "Deuteronômio 8:15",
+      "Deuteronômio 8:2",
+      "Gênesis 24:27",
+      "Isaías 40:13",
+      "Isaías 63:13",
+      "Jeremias 2:6",
+      "Lamentações 3:2",
+      "Salmos 136:16",
+      "Salmos 78:14",
+      "Salmos 78:52",
+      "Salmos 78:53",
+      "Salmos 78:72"
+    ],
+    "freq": 16,
+    "forms": [
+      "guiou"
+    ]
+  },
+  "gêmeo": {
+    "refs": [
+      "Cânticos 4:2",
+      "Cânticos 4:5",
+      "Cânticos 6:6",
+      "Cânticos 7:3",
+      "Gênesis 25:24",
+      "Gênesis 38:27"
+    ],
+    "freq": 6,
+    "forms": [
+      "gêmeos"
+    ]
+  },
+  "gosto": {
+    "refs": [
+      "2 Samuel 19:35",
+      "Gênesis 25:28",
+      "Gênesis 27:4",
+      "Jó 6:6",
+      "Salmos 105:22"
+    ],
+    "freq": 5,
+    "forms": [
+      "gosto"
+    ]
+  },
+  "guisar": {
+    "refs": [
+      "Ageu 2:12",
+      "Gênesis 25:29",
+      "Gênesis 25:30",
+      "Gênesis 25:34",
+      "Gênesis 27:14",
+      "Gênesis 27:17",
+      "Gênesis 27:31",
+      "Gênesis 27:4",
+      "Gênesis 27:7",
+      "Gênesis 27:9"
+    ],
+    "freq": 10,
+    "forms": [
+      "guisado"
+    ]
+  },
+  "guardou": {
+    "refs": [
+      "1 Reis 11:10",
+      "1 Reis 11:34",
+      "1 Reis 14:8",
+      "1 Samuel 30:23",
+      "1 Samuel 9:24",
+      "2 Pedro 2:5",
+      "2 Reis 17:19",
+      "2 Reis 18:6",
+      "2 Reis 6:10",
+      "2 Samuel 8:6",
+      "Deuteronômio 32:10",
+      "Ezequiel 18:19",
+      "Gênesis 26:5",
+      "Gênesis 41:48",
+      "Josué 24:17",
+      "João 12:7",
+      "Jó 10:12",
+      "Oséias 12:12",
+      "Êxodo 21:29",
+      "Êxodo 21:36"
+    ],
+    "freq": 20,
+    "forms": [
+      "guardou"
+    ]
+  },
+  "gente": {
+    "refs": [
+      "1 Coríntios 14:21",
+      "1 Crônicas 17:21",
+      "1 Reis 5:13",
+      "1 Reis 5:14",
+      "2 Reis 17:24",
+      "2 Reis 17:26",
+      "2 Reis 6:18",
+      "2 Samuel 7:23",
+      "ATOS 11:24",
+      "ATOS 11:26",
+      "ATOS 5:16",
+      "Daniel 11:23",
+      "Deuteronômio 26:5",
+      "Deuteronômio 32:28",
+      "Ezequiel 17:15",
+      "Ezequiel 17:9",
+      "Ezequiel 30:5",
+      "Ezequiel 36:15",
+      "Gênesis 26:14",
+      "Gênesis 33:15",
+      "Gênesis 50:20",
+      "Gênesis 50:9",
+      "Josué 10:7",
+      "Josué 8:1",
+      "Josué 8:3",
+      "João 12:19",
+      "João 12:9",
+      "Juízes 18:23",
+      "Juízes 3:18",
+      "Juízes 4:6",
+      "Juízes 9:36",
+      "Juízes 9:37",
+      "Jó 30:8",
+      "Jó 31:31",
+      "Lucas 5:15",
+      "Mateus 13:2",
+      "Mateus 21:8",
+      "Números 20:20",
+      "Números 21:6",
+      "Romanos 10:19",
+      "Romanos 1:5",
+      "Êxodo 12:38"
+    ],
+    "freq": 42,
+    "forms": [
+      "gente",
+      "gentes"
+    ]
+  },
+  "gosta": {
+    "refs": [
+      "Gênesis 27:9",
+      "Oséias 10:11"
+    ],
+    "freq": 2,
+    "forms": [
+      "gosta"
+    ]
+  },
+  "gostava": {
+    "refs": [
+      "Gênesis 27:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gostava"
+    ]
+  },
+  "gala": {
+    "refs": [
+      "Gênesis 27:15"
+    ],
+    "freq": 1,
+    "forms": [
+      "gala"
+    ]
+  },
+  "guardarei": {
+    "refs": [
+      "2 Coríntios 11:9",
+      "Apocalipse 3:10",
+      "Gênesis 28:15",
+      "Isaías 27:3",
+      "Isaías 42:6",
+      "Isaías 49:8",
+      "Jeremias 49:11",
+      "Provérbios 24:32",
+      "Salmos 119:106",
+      "Salmos 119:115",
+      "Salmos 119:134",
+      "Salmos 119:145",
+      "Salmos 119:146",
+      "Salmos 119:34",
+      "Salmos 119:69",
+      "Salmos 119:88",
+      "Salmos 39:1"
+    ],
+    "freq": 17,
+    "forms": [
+      "guardarei"
+    ]
+  },
+  "gade": {
+    "refs": [
+      "1 Crônicas 12:14",
+      "1 Crônicas 21:11",
+      "1 Crônicas 21:13",
+      "1 Crônicas 21:18",
+      "1 Crônicas 21:19",
+      "1 Crônicas 21:9",
+      "1 Crônicas 29:29",
+      "1 Crônicas 2:2",
+      "1 Crônicas 5:11",
+      "1 Crônicas 6:63",
+      "1 Crônicas 6:80",
+      "1 Samuel 13:7",
+      "1 Samuel 22:5",
+      "2 Crônicas 29:25",
+      "2 Samuel 24:11",
+      "2 Samuel 24:13",
+      "2 Samuel 24:14",
+      "2 Samuel 24:18",
+      "2 Samuel 24:19",
+      "2 Samuel 24:5",
+      "Apocalipse 7:5",
+      "Deuteronômio 27:13",
+      "Deuteronômio 33:20",
+      "Ezequiel 48:27",
+      "Ezequiel 48:28",
+      "Ezequiel 48:34",
+      "Gênesis 30:11",
+      "Gênesis 35:26",
+      "Gênesis 46:16",
+      "Gênesis 49:19",
+      "Jeremias 49:1",
+      "Josué 11:17",
+      "Josué 12:7",
+      "Josué 13:24",
+      "Josué 13:28",
+      "Josué 13:5",
+      "Josué 15:37",
+      "Josué 18:7",
+      "Josué 20:8",
+      "Josué 21:38",
+      "Josué 21:7",
+      "Josué 22:10",
+      "Josué 22:11",
+      "Josué 22:13",
+      "Josué 22:15",
+      "Josué 22:21",
+      "Josué 22:25",
+      "Josué 22:30",
+      "Josué 22:31",
+      "Josué 22:32",
+      "Josué 22:33",
+      "Josué 22:34",
+      "Josué 22:9",
+      "Josué 4:12",
+      "Números 10:20",
+      "Números 13:15",
+      "Números 1:14",
+      "Números 1:24",
+      "Números 1:25",
+      "Números 26:15",
+      "Números 26:18",
+      "Números 2:14",
+      "Números 32:1",
+      "Números 32:2",
+      "Números 32:25",
+      "Números 32:29",
+      "Números 32:31",
+      "Números 32:33",
+      "Números 32:34",
+      "Números 32:6",
+      "Números 33:45",
+      "Números 33:46",
+      "Números 7:42",
+      "Êxodo 1:4"
+    ],
+    "freq": 74,
+    "forms": [
+      "gade"
+    ]
+  },
+  "glória": {
+    "refs": [
+      "1 Coríntios 10:31",
+      "1 Coríntios 11:7",
+      "1 Coríntios 15:40",
+      "1 Coríntios 15:41",
+      "1 Coríntios 15:43",
+      "1 Coríntios 2:7",
+      "1 Coríntios 2:8",
+      "1 Coríntios 9:15",
+      "1 Crônicas 16:24",
+      "1 Crônicas 16:28",
+      "1 Crônicas 16:29",
+      "1 Crônicas 22:5",
+      "1 Crônicas 29:12",
+      "1 Crônicas 29:13",
+      "1 Crônicas 29:28",
+      "1 Pedro 1:11",
+      "1 Pedro 1:21",
+      "1 Pedro 1:24",
+      "1 Pedro 1:7",
+      "1 Pedro 2:20",
+      "1 Pedro 4:11",
+      "1 Pedro 4:13",
+      "1 Pedro 4:14",
+      "1 Pedro 5:1",
+      "1 Pedro 5:10",
+      "1 Pedro 5:11",
+      "1 Pedro 5:4",
+      "1 Reis 3:13",
+      "1 Reis 8:11",
+      "1 Samuel 2:8",
+      "1 Samuel 4:21",
+      "1 Samuel 4:22",
+      "1 Samuel 6:5",
+      "1 Tessalonicenses 2:12",
+      "1 Tessalonicenses 2:19",
+      "1 Tessalonicenses 2:20",
+      "1 Tessalonicenses 2:6",
+      "1 Timóteo 1:11",
+      "1 Timóteo 1:17",
+      "1 Timóteo 3:16",
+      "2 Coríntios 11:10",
+      "2 Coríntios 1:12",
+      "2 Coríntios 1:14",
+      "2 Coríntios 1:20",
+      "2 Coríntios 3:10",
+      "2 Coríntios 3:11",
+      "2 Coríntios 3:18",
+      "2 Coríntios 3:7",
+      "2 Coríntios 3:8",
+      "2 Coríntios 3:9",
+      "2 Coríntios 4:15",
+      "2 Coríntios 4:17",
+      "2 Coríntios 4:4",
+      "2 Coríntios 4:6",
+      "2 Coríntios 7:14",
+      "2 Coríntios 8:19",
+      "2 Coríntios 8:23",
+      "2 Coríntios 8:24",
+      "2 Coríntios 9:3",
+      "2 Coríntios 9:4",
+      "2 Crônicas 17:5",
+      "2 Crônicas 18:1",
+      "2 Crônicas 32:27",
+      "2 Crônicas 5:14",
+      "2 Crônicas 7:1",
+      "2 Crônicas 7:2",
+      "2 Crônicas 7:3",
+      "2 Pedro 1:17",
+      "2 Pedro 1:3",
+      "2 Pedro 3:18",
+      "2 Tessalonicenses 1:9",
+      "2 Tessalonicenses 2:14",
+      "2 Timóteo 2:10",
+      "2 Timóteo 4:18",
+      "ATOS 12:23",
+      "ATOS 7:2",
+      "ATOS 7:55",
+      "Ageu 2:3",
+      "Ageu 2:7",
+      "Ageu 2:9",
+      "Amós 8:7",
+      "Apocalipse 11:13",
+      "Apocalipse 14:7",
+      "Apocalipse 15:8",
+      "Apocalipse 16:9",
+      "Apocalipse 18:1",
+      "Apocalipse 19:1",
+      "Apocalipse 19:7",
+      "Apocalipse 1:6",
+      "Apocalipse 21:11",
+      "Apocalipse 21:23",
+      "Apocalipse 21:24",
+      "Apocalipse 21:26",
+      "Apocalipse 4:11",
+      "Apocalipse 4:9",
+      "Apocalipse 5:12",
+      "Apocalipse 5:13",
+      "Apocalipse 7:12",
+      "Colossenses 1:11",
+      "Colossenses 1:27",
+      "Colossenses 3:4",
+      "Daniel 11:20",
+      "Daniel 2:37",
+      "Daniel 4:30",
+      "Daniel 4:36",
+      "Daniel 5:18",
+      "Daniel 5:20",
+      "Deuteronômio 26:19",
+      "Deuteronômio 33:17",
+      "Deuteronômio 5:24",
+      "Efésios 1:12",
+      "Efésios 1:14",
+      "Efésios 1:17",
+      "Efésios 1:18",
+      "Efésios 1:6",
+      "Efésios 3:13",
+      "Efésios 3:16",
+      "Efésios 3:21",
+      "Ester 1:4",
+      "Ester 5:11",
+      "Ezequiel 10:18",
+      "Ezequiel 10:19",
+      "Ezequiel 10:4",
+      "Ezequiel 11:22",
+      "Ezequiel 11:23",
+      "Ezequiel 16:12",
+      "Ezequiel 16:14",
+      "Ezequiel 1:28",
+      "Ezequiel 20:15",
+      "Ezequiel 20:6",
+      "Ezequiel 24:21",
+      "Ezequiel 24:25",
+      "Ezequiel 25:9",
+      "Ezequiel 26:20",
+      "Ezequiel 31:18",
+      "Ezequiel 39:21",
+      "Ezequiel 3:12",
+      "Ezequiel 3:23",
+      "Ezequiel 43:2",
+      "Ezequiel 43:4",
+      "Ezequiel 43:5",
+      "Ezequiel 44:4",
+      "Ezequiel 7:20",
+      "Ezequiel 8:4",
+      "Ezequiel 9:3",
+      "Filipenses 1:11",
+      "Filipenses 1:26",
+      "Filipenses 2:11",
+      "Filipenses 3:19",
+      "Filipenses 4:19",
+      "Filipenses 4:20",
+      "Gálatas 1:5",
+      "Gálatas 6:4",
+      "Gênesis 31:1",
+      "Gênesis 45:13",
+      "Gênesis 49:6",
+      "Habacuque 2:14",
+      "Habacuque 2:16",
+      "Habacuque 3:3",
+      "Hebreus 13:21",
+      "Hebreus 1:3",
+      "Hebreus 2:10",
+      "Hebreus 2:7",
+      "Hebreus 2:9",
+      "Hebreus 3:3",
+      "Hebreus 3:6",
+      "Hebreus 9:5",
+      "Isaías 10:16",
+      "Isaías 10:18",
+      "Isaías 10:3",
+      "Isaías 13:19",
+      "Isaías 16:14",
+      "Isaías 17:3",
+      "Isaías 17:4",
+      "Isaías 20:5",
+      "Isaías 21:16",
+      "Isaías 22:18",
+      "Isaías 23:9",
+      "Isaías 24:14",
+      "Isaías 24:16",
+      "Isaías 2:10",
+      "Isaías 2:19",
+      "Isaías 2:21",
+      "Isaías 35:2",
+      "Isaías 3:8",
+      "Isaías 40:5",
+      "Isaías 42:12",
+      "Isaías 42:8",
+      "Isaías 43:7",
+      "Isaías 46:13",
+      "Isaías 48:11",
+      "Isaías 4:2",
+      "Isaías 4:5",
+      "Isaías 58:8",
+      "Isaías 59:19",
+      "Isaías 60:1",
+      "Isaías 60:13",
+      "Isaías 60:19",
+      "Isaías 60:2",
+      "Isaías 60:7",
+      "Isaías 61:3",
+      "Isaías 61:6",
+      "Isaías 62:2",
+      "Isaías 62:3",
+      "Isaías 66:11",
+      "Isaías 66:12",
+      "Isaías 66:18",
+      "Isaías 66:19",
+      "Isaías 6:3",
+      "Isaías 8:7",
+      "Jeremias 13:11",
+      "Jeremias 13:16",
+      "Jeremias 13:18",
+      "Jeremias 13:20",
+      "Jeremias 14:21",
+      "Jeremias 17:12",
+      "Jeremias 22:18",
+      "Jeremias 2:11",
+      "Jeremias 33:9",
+      "Jeremias 48:18",
+      "Jeremias 48:2",
+      "Jeremias 51:41",
+      "Josué 7:19",
+      "João 11:4",
+      "João 11:40",
+      "João 12:41",
+      "João 12:43",
+      "João 17:22",
+      "João 17:24",
+      "João 17:5",
+      "João 1:14",
+      "João 2:11",
+      "João 5:41",
+      "João 7:18",
+      "João 8:50",
+      "João 8:54",
+      "João 9:24",
+      "Judas 1:24",
+      "Judas 1:25",
+      "Jó 40:10",
+      "Lamentações 2:1",
+      "Levítico 9:23",
+      "Levítico 9:6",
+      "Lucas 12:27",
+      "Lucas 17:18",
+      "Lucas 19:38",
+      "Lucas 21:27",
+      "Lucas 23:47",
+      "Lucas 24:26",
+      "Lucas 2:14",
+      "Lucas 2:32",
+      "Lucas 2:9",
+      "Lucas 4:6",
+      "Lucas 9:26",
+      "Lucas 9:31",
+      "Lucas 9:32",
+      "Marcos 10:37",
+      "Marcos 13:26",
+      "Marcos 8:38",
+      "Mateus 16:27",
+      "Mateus 19:28",
+      "Mateus 24:30",
+      "Mateus 25:31",
+      "Mateus 4:8",
+      "Mateus 6:13",
+      "Mateus 6:29",
+      "Miquéias 1:15",
+      "Miquéias 2:9",
+      "Números 14:10",
+      "Números 14:21",
+      "Números 14:22",
+      "Números 16:19",
+      "Números 16:42",
+      "Números 20:6",
+      "Números 27:20",
+      "Oséias 10:5",
+      "Oséias 14:6",
+      "Oséias 9:11",
+      "Provérbios 14:28",
+      "Provérbios 17:6",
+      "Provérbios 19:11",
+      "Provérbios 20:29",
+      "Provérbios 25:2",
+      "Provérbios 25:27",
+      "Provérbios 28:12",
+      "Provérbios 4:9",
+      "Romanos 11:36",
+      "Romanos 15:17",
+      "Romanos 15:7",
+      "Romanos 16:27",
+      "Romanos 1:23",
+      "Romanos 2:10",
+      "Romanos 2:7",
+      "Romanos 3:23",
+      "Romanos 3:7",
+      "Romanos 4:20",
+      "Romanos 5:2",
+      "Romanos 6:4",
+      "Romanos 8:18",
+      "Romanos 8:21",
+      "Romanos 9:23",
+      "Romanos 9:4",
+      "Salmos 102:15",
+      "Salmos 102:16",
+      "Salmos 104:1",
+      "Salmos 104:31",
+      "Salmos 106:20",
+      "Salmos 108:1",
+      "Salmos 108:5",
+      "Salmos 111:3",
+      "Salmos 112:9",
+      "Salmos 113:4",
+      "Salmos 115:1",
+      "Salmos 138:5",
+      "Salmos 145:11",
+      "Salmos 145:12",
+      "Salmos 148:13",
+      "Salmos 149:5",
+      "Salmos 16:9",
+      "Salmos 19:1",
+      "Salmos 21:5",
+      "Salmos 24:10",
+      "Salmos 24:7",
+      "Salmos 24:8",
+      "Salmos 24:9",
+      "Salmos 26:8",
+      "Salmos 29:1",
+      "Salmos 29:2",
+      "Salmos 29:3",
+      "Salmos 29:9",
+      "Salmos 30:12",
+      "Salmos 3:3",
+      "Salmos 45:3",
+      "Salmos 47:4",
+      "Salmos 49:16",
+      "Salmos 49:17",
+      "Salmos 4:2",
+      "Salmos 57:11",
+      "Salmos 57:5",
+      "Salmos 57:8",
+      "Salmos 62:7",
+      "Salmos 63:2",
+      "Salmos 66:2",
+      "Salmos 71:8",
+      "Salmos 72:19",
+      "Salmos 73:24",
+      "Salmos 78:61",
+      "Salmos 79:9",
+      "Salmos 7:5",
+      "Salmos 84:11",
+      "Salmos 85:9",
+      "Salmos 89:17",
+      "Salmos 89:44",
+      "Salmos 8:1",
+      "Salmos 8:5",
+      "Salmos 90:16",
+      "Salmos 96:3",
+      "Salmos 96:6",
+      "Salmos 96:7",
+      "Salmos 96:8",
+      "Salmos 97:6",
+      "Tiago 2:1",
+      "Tiago 4:16",
+      "Tito 2:13",
+      "Zacarias 11:3",
+      "Zacarias 12:7",
+      "Zacarias 2:5",
+      "Zacarias 2:8",
+      "Zacarias 6:13",
+      "Êxodo 16:10",
+      "Êxodo 16:7",
+      "Êxodo 24:16",
+      "Êxodo 24:17",
+      "Êxodo 28:2",
+      "Êxodo 28:40",
+      "Êxodo 29:43",
+      "Êxodo 33:18",
+      "Êxodo 33:22",
+      "Êxodo 40:34",
+      "Êxodo 40:35"
+    ],
+    "freq": 380,
+    "forms": [
+      "glória"
+    ]
+  },
+  "gileade": {
+    "refs": [
+      "1 Crônicas 10:11",
+      "1 Crônicas 11:31",
+      "1 Crônicas 26:31",
+      "1 Crônicas 27:21",
+      "1 Crônicas 2:21",
+      "1 Crônicas 2:22",
+      "1 Crônicas 2:23",
+      "1 Crônicas 5:10",
+      "1 Crônicas 5:14",
+      "1 Crônicas 5:16",
+      "1 Crônicas 5:9",
+      "1 Crônicas 6:80",
+      "1 Crônicas 7:14",
+      "1 Crônicas 7:17",
+      "1 Reis 17:1",
+      "1 Reis 22:12",
+      "1 Reis 22:15",
+      "1 Reis 22:20",
+      "1 Reis 22:29",
+      "1 Reis 22:3",
+      "1 Reis 22:4",
+      "1 Reis 22:6",
+      "1 Reis 4:13",
+      "1 Reis 4:19",
+      "1 Samuel 11:1",
+      "1 Samuel 11:9",
+      "1 Samuel 13:7",
+      "1 Samuel 31:11",
+      "2 Crônicas 18:11",
+      "2 Crônicas 18:14",
+      "2 Crônicas 18:19",
+      "2 Crônicas 18:2",
+      "2 Crônicas 18:28",
+      "2 Crônicas 18:3",
+      "2 Crônicas 18:5",
+      "2 Crônicas 22:5",
+      "2 Reis 10:33",
+      "2 Reis 15:29",
+      "2 Reis 8:28",
+      "2 Reis 9:1",
+      "2 Reis 9:14",
+      "2 Reis 9:4",
+      "2 Samuel 17:26",
+      "2 Samuel 21:12",
+      "2 Samuel 24:6",
+      "2 Samuel 2:4",
+      "2 Samuel 2:5",
+      "2 Samuel 2:9",
+      "Amós 1:13",
+      "Amós 1:3",
+      "Cânticos 4:1",
+      "Cânticos 6:5",
+      "Deuteronômio 2:36",
+      "Deuteronômio 34:1",
+      "Deuteronômio 3:10",
+      "Deuteronômio 3:12",
+      "Deuteronômio 3:13",
+      "Deuteronômio 3:15",
+      "Deuteronômio 3:16",
+      "Deuteronômio 4:43",
+      "Ezequiel 47:18",
+      "Gênesis 31:21",
+      "Gênesis 31:23",
+      "Gênesis 31:25",
+      "Gênesis 37:25",
+      "Jeremias 22:6",
+      "Jeremias 46:11",
+      "Jeremias 50:19",
+      "Jeremias 8:22",
+      "Josué 12:2",
+      "Josué 12:5",
+      "Josué 13:11",
+      "Josué 13:25",
+      "Josué 13:31",
+      "Josué 17:1",
+      "Josué 17:3",
+      "Josué 17:5",
+      "Josué 17:6",
+      "Josué 20:8",
+      "Josué 21:38",
+      "Josué 22:13",
+      "Josué 22:15",
+      "Josué 22:32",
+      "Josué 22:9",
+      "Juízes 10:17",
+      "Juízes 10:18",
+      "Juízes 10:4",
+      "Juízes 10:8",
+      "Juízes 11:1",
+      "Juízes 11:10",
+      "Juízes 11:11",
+      "Juízes 11:2",
+      "Juízes 11:29",
+      "Juízes 11:5",
+      "Juízes 11:7",
+      "Juízes 11:8",
+      "Juízes 11:9",
+      "Juízes 12:4",
+      "Juízes 12:7",
+      "Juízes 20:1",
+      "Juízes 21:10",
+      "Juízes 21:12",
+      "Juízes 21:14",
+      "Juízes 21:8",
+      "Juízes 21:9",
+      "Juízes 5:17",
+      "Juízes 7:3",
+      "Miquéias 7:14",
+      "Números 26:29",
+      "Números 26:30",
+      "Números 27:1",
+      "Números 32:1",
+      "Números 32:26",
+      "Números 32:29",
+      "Números 32:39",
+      "Números 32:40",
+      "Números 36:1",
+      "Obadias 1:19",
+      "Oséias 12:11",
+      "Oséias 6:8",
+      "Salmos 108:8",
+      "Salmos 60:7",
+      "Zacarias 10:10"
+    ],
+    "freq": 123,
+    "forms": [
+      "gileade"
+    ]
+  },
+  "geada": {
+    "refs": [
+      "Gênesis 31:40",
+      "Jeremias 36:30",
+      "Jó 37:10",
+      "Jó 38:29",
+      "Jó 6:16",
+      "Salmos 147:16",
+      "Êxodo 16:14"
+    ],
+    "freq": 7,
+    "forms": [
+      "geada"
+    ]
+  },
+  "galeede": {
+    "refs": [
+      "Gênesis 31:47",
+      "Gênesis 31:48"
+    ],
+    "freq": 2,
+    "forms": [
+      "galeede"
+    ]
+  },
+  "graciosamente": {
+    "refs": [
+      "Gênesis 33:11",
+      "Gênesis 33:5"
+    ],
+    "freq": 2,
+    "forms": [
+      "graciosamente"
+    ]
+  },
+  "guia": {
+    "refs": [
+      "1 Reis 1:35",
+      "2 Reis 4:24",
+      "ATOS 1:16",
+      "Apocalipse 7:17",
+      "Gênesis 33:14",
+      "Isaías 48:17",
+      "Isaías 9:16",
+      "Jeremias 3:4",
+      "Juízes 16:26",
+      "Jó 31:18",
+      "Mateus 2:6",
+      "Miquéias 7:5",
+      "Números 10:31",
+      "Provérbios 2:17",
+      "Romanos 2:19",
+      "Salmos 139:24",
+      "Salmos 23:2",
+      "Salmos 23:3",
+      "Salmos 25:5",
+      "Salmos 27:11",
+      "Salmos 31:3",
+      "Salmos 48:14",
+      "Salmos 55:13",
+      "Salmos 5:8",
+      "Salmos 80:1"
+    ],
+    "freq": 25,
+    "forms": [
+      "guia",
+      "guias"
+    ]
+  },
+  "gaetã": {
+    "refs": [
+      "1 Crônicas 1:36",
+      "Gênesis 36:11",
+      "Gênesis 36:16"
+    ],
+    "freq": 3,
+    "forms": [
+      "gaetã"
+    ]
+  },
+  "guardava": {
+    "refs": [
+      "1 Crônicas 18:13",
+      "1 Crônicas 18:6",
+      "ATOS 22:20",
+      "ATOS 28:16",
+      "Gênesis 37:11",
+      "João 17:12",
+      "Jó 29:2",
+      "Lucas 2:19",
+      "Lucas 2:51",
+      "Marcos 6:20",
+      "Mateus 26:63"
+    ],
+    "freq": 11,
+    "forms": [
+      "guardava"
+    ]
+  },
+  "grávar": {
+    "refs": [
+      "1 Samuel 4:19",
+      "1 Tessalonicenses 5:3",
+      "2 Samuel 11:5",
+      "Apocalipse 12:2",
+      "Eclesiastes 11:5",
+      "Gênesis 38:24",
+      "Isaías 26:17",
+      "Jeremias 20:17",
+      "Lucas 2:5",
+      "Êxodo 21:22"
+    ],
+    "freq": 10,
+    "forms": [
+      "grávida"
+    ]
+  },
+  "gritei": {
+    "refs": [
+      "Gênesis 39:14",
+      "Jonas 2:2"
+    ],
+    "freq": 2,
+    "forms": [
+      "gritei"
+    ]
+  },
+  "gritava": {
+    "refs": [
+      "2 Samuel 19:4",
+      "Apocalipse 12:2",
+      "Ezequiel 10:13",
+      "Gênesis 39:15"
+    ],
+    "freq": 4,
+    "forms": [
+      "gritava"
+    ]
+  },
+  "gritar": {
+    "refs": [
+      "1 Samuel 20:38",
+      "2 Crônicas 13:15",
+      "Gênesis 39:18",
+      "Habacuque 1:2",
+      "Isaías 15:3",
+      "Isaías 15:4",
+      "Juízes 7:21",
+      "Mateus 15:23",
+      "Provérbios 8:3"
+    ],
+    "freq": 9,
+    "forms": [
+      "gritando",
+      "gritar"
+    ]
+  },
+  "gorda": {
+    "refs": [
+      "Ezequiel 34:16",
+      "Ezequiel 34:20",
+      "Gênesis 41:18",
+      "Gênesis 41:2",
+      "Gênesis 41:20",
+      "Gênesis 41:4",
+      "Zacarias 11:16"
+    ],
+    "freq": 7,
+    "forms": [
+      "gorda",
+      "gordas"
+    ]
+  },
+  "gravíssima": {
+    "refs": [
+      "Gênesis 41:31",
+      "Gênesis 43:1",
+      "Êxodo 9:3"
+    ],
+    "freq": 3,
+    "forms": [
+      "gravíssima"
+    ]
+  },
+  "governadore": {
+    "refs": [
+      "1 Crônicas 24:5",
+      "1 Pedro 2:14",
+      "1 Reis 10:15",
+      "2 Crônicas 1:2",
+      "2 Crônicas 9:14",
+      "Daniel 2:48",
+      "Daniel 3:2",
+      "Daniel 3:27",
+      "Daniel 3:3",
+      "Daniel 6:7",
+      "Deuteronômio 1:15",
+      "Esdras 8:36",
+      "Ester 3:12",
+      "Ester 8:9",
+      "Ester 9:3",
+      "Gênesis 41:34",
+      "Isaías 22:3",
+      "Mateus 10:18",
+      "Neemias 2:7",
+      "Neemias 2:9",
+      "Neemias 5:15",
+      "Oséias 4:18",
+      "Zacarias 12:5",
+      "Zacarias 12:6"
+    ],
+    "freq": 24,
+    "forms": [
+      "governadores"
+    ]
+  },
+  "governará": {
+    "refs": [
+      "Gênesis 41:40",
+      "Miquéias 5:2",
+      "Salmos 67:4"
+    ],
+    "freq": 3,
+    "forms": [
+      "governará",
+      "governarás"
+    ]
+  },
+  "governador": {
+    "refs": [
+      "1 Reis 22:26",
+      "2 Crônicas 18:25",
+      "2 Crônicas 34:8",
+      "2 Reis 23:8",
+      "2 Reis 25:22",
+      "2 Reis 25:23",
+      "ATOS 7:10",
+      "Ageu 1:1",
+      "Ageu 1:14",
+      "Ageu 2:2",
+      "Ageu 2:21",
+      "Daniel 2:48",
+      "Eclesiastes 10:4",
+      "Eclesiastes 10:5",
+      "Esdras 2:63",
+      "Esdras 5:14",
+      "Esdras 5:3",
+      "Esdras 5:6",
+      "Esdras 6:13",
+      "Esdras 6:6",
+      "Esdras 6:7",
+      "Gênesis 42:6",
+      "Isaías 16:1",
+      "Isaías 3:6",
+      "Isaías 3:7",
+      "Isaías 55:4",
+      "Jeremias 30:21",
+      "Jeremias 40:7",
+      "Jeremias 41:18",
+      "Jeremias 41:2",
+      "Malaquias 1:8",
+      "Neemias 10:1",
+      "Neemias 12:26",
+      "Neemias 3:7",
+      "Neemias 5:14",
+      "Neemias 5:18",
+      "Neemias 7:65",
+      "Neemias 7:70",
+      "Neemias 8:9",
+      "Provérbios 23:1",
+      "Provérbios 29:12",
+      "Salmos 105:20",
+      "Salmos 105:21",
+      "Zacarias 9:7"
+    ],
+    "freq": 44,
+    "forms": [
+      "governador"
+    ]
+  },
+  "gósen": {
+    "refs": [
+      "Gênesis 45:10",
+      "Gênesis 46:28",
+      "Gênesis 46:29",
+      "Gênesis 46:34",
+      "Gênesis 47:1",
+      "Gênesis 47:27",
+      "Gênesis 47:4",
+      "Gênesis 47:6",
+      "Gênesis 50:8",
+      "Josué 10:41",
+      "Josué 11:16",
+      "Josué 15:51",
+      "Êxodo 8:22",
+      "Êxodo 9:26"
+    ],
+    "freq": 14,
+    "forms": [
+      "gósen"
+    ]
+  },
+  "gérson": {
+    "refs": [
+      "1 Crônicas 15:7",
+      "1 Crônicas 23:15",
+      "1 Crônicas 23:16",
+      "1 Crônicas 23:6",
+      "1 Crônicas 26:24",
+      "1 Crônicas 6:1",
+      "1 Crônicas 6:16",
+      "1 Crônicas 6:17",
+      "1 Crônicas 6:20",
+      "1 Crônicas 6:43",
+      "1 Crônicas 6:62",
+      "1 Crônicas 6:71",
+      "Esdras 8:2",
+      "Gênesis 46:11",
+      "Josué 21:27",
+      "Josué 21:6",
+      "Juízes 18:30",
+      "Números 10:17",
+      "Números 26:57",
+      "Números 3:17",
+      "Números 3:18",
+      "Números 3:21",
+      "Números 3:25",
+      "Números 4:22",
+      "Números 4:38",
+      "Números 4:41",
+      "Números 7:7",
+      "Êxodo 18:3",
+      "Êxodo 2:22",
+      "Êxodo 6:16",
+      "Êxodo 6:17"
+    ],
+    "freq": 31,
+    "forms": [
+      "gérson"
+    ]
+  },
+  "gera": {
+    "refs": [
+      "1 Crônicas 8:3",
+      "1 Crônicas 8:5",
+      "1 Crônicas 8:7",
+      "1 Reis 2:8",
+      "2 Samuel 16:5",
+      "2 Samuel 19:16",
+      "2 Samuel 19:18",
+      "Ezequiel 45:12",
+      "Gênesis 46:21",
+      "Isaías 45:10",
+      "Juízes 3:15",
+      "Jó 21:10",
+      "Levítico 27:25",
+      "Números 18:16",
+      "Números 3:47",
+      "Provérbios 17:21",
+      "Tiago 1:15",
+      "Êxodo 30:13"
+    ],
+    "freq": 18,
+    "forms": [
+      "gera",
+      "geras"
+    ]
+  },
+  "guni": {
+    "refs": [
+      "1 Crônicas 5:15",
+      "1 Crônicas 7:13",
+      "Gênesis 46:24",
+      "Números 26:48"
+    ],
+    "freq": 4,
+    "forms": [
+      "guni"
+    ]
+  },
+  "grave": {
+    "refs": [
+      "2 Coríntios 10:10",
+      "2 Crônicas 16:12",
+      "2 Crônicas 21:19",
+      "ATOS 25:7",
+      "Amós 5:12",
+      "Eclesiastes 5:13",
+      "Eclesiastes 5:16",
+      "Gênesis 47:13",
+      "Gênesis 47:4",
+      "Marcos 12:40",
+      "Tito 2:2",
+      "Êxodo 18:22",
+      "Êxodo 9:18",
+      "Êxodo 9:24"
+    ],
+    "freq": 14,
+    "forms": [
+      "grave",
+      "graves"
+    ]
+  },
+  "gordo": {
+    "refs": [
+      "Amós 5:22",
+      "Daniel 1:15",
+      "Ezequiel 34:14",
+      "Gênesis 49:20",
+      "Isaías 10:16",
+      "Isaías 25:6",
+      "Isaías 5:17",
+      "Juízes 3:17",
+      "Salmos 22:29"
+    ],
+    "freq": 9,
+    "forms": [
+      "gordo",
+      "gordos"
+    ]
+  },
+  "gazela": {
+    "refs": [
+      "2 Samuel 2:18",
+      "Cânticos 2:7",
+      "Cânticos 3:5",
+      "Cânticos 4:5",
+      "Cânticos 7:3",
+      "Gênesis 49:21",
+      "Provérbios 5:19",
+      "Provérbios 6:5"
+    ],
+    "freq": 8,
+    "forms": [
+      "gazela",
+      "gazelas"
+    ]
+  },
+  "gemir": {
+    "refs": [
+      "Isaías 21:2",
+      "Isaías 35:10",
+      "Isaías 51:11",
+      "Jeremias 45:3",
+      "Juízes 2:18",
+      "Jó 23:2",
+      "Salmos 102:20",
+      "Salmos 102:5",
+      "Salmos 12:5",
+      "Salmos 38:9",
+      "Salmos 6:6",
+      "Salmos 79:11",
+      "Êxodo 2:24",
+      "Êxodo 6:5"
+    ],
+    "freq": 14,
+    "forms": [
+      "gemido"
+    ]
+  },
+  "gafanhoto": {
+    "refs": [
+      "1 Reis 8:37",
+      "2 Crônicas 6:28",
+      "2 Crônicas 7:13",
+      "Amós 7:1",
+      "Apocalipse 9:3",
+      "Apocalipse 9:7",
+      "Deuteronômio 28:38",
+      "Eclesiastes 12:5",
+      "Isaías 33:4",
+      "Isaías 40:22",
+      "Jeremias 46:23",
+      "Joel 1:4",
+      "Joel 2:25",
+      "Juízes 6:5",
+      "Juízes 7:12",
+      "Jó 39:20",
+      "Levítico 11:22",
+      "Marcos 1:6",
+      "Mateus 3:4",
+      "Naum 3:15",
+      "Naum 3:17",
+      "Números 13:33",
+      "Provérbios 30:27",
+      "Salmos 105:34",
+      "Salmos 109:23",
+      "Salmos 78:46",
+      "Êxodo 10:12",
+      "Êxodo 10:13",
+      "Êxodo 10:14",
+      "Êxodo 10:19",
+      "Êxodo 10:4"
+    ],
+    "freq": 31,
+    "forms": [
+      "gafanhoto",
+      "gafanhotos"
+    ]
+  },
+  "guardai": {
+    "refs": [
+      "1 Crônicas 28:8",
+      "1 João 5:21",
+      "2 Crônicas 19:7",
+      "2 Pedro 3:17",
+      "2 Reis 17:13",
+      "2 Samuel 18:12",
+      "Deuteronômio 11:16",
+      "Deuteronômio 11:8",
+      "Deuteronômio 27:1",
+      "Deuteronômio 29:9",
+      "Deuteronômio 2:4",
+      "Deuteronômio 4:15",
+      "Deuteronômio 4:23",
+      "Deuteronômio 4:6",
+      "Esdras 4:22",
+      "Esdras 8:29",
+      "Ezequiel 20:19",
+      "Filipenses 3:2",
+      "Isaías 56:1",
+      "Jeremias 17:21",
+      "Jeremias 9:4",
+      "Josué 23:11",
+      "Josué 6:18",
+      "João 14:15",
+      "Levítico 20:22",
+      "Levítico 20:8",
+      "Lucas 12:15",
+      "Lucas 20:46",
+      "Malaquias 2:15",
+      "Malaquias 2:16",
+      "Marcos 12:38",
+      "Marcos 8:15",
+      "Mateus 27:65",
+      "Mateus 6:1",
+      "Êxodo 12:17",
+      "Êxodo 12:24",
+      "Êxodo 16:23",
+      "Êxodo 19:12",
+      "Êxodo 23:13"
+    ],
+    "freq": 39,
+    "forms": [
+      "guardai"
+    ]
+  },
+  "guiar": {
+    "refs": [
+      "1 Samuel 30:15",
+      "2 Coríntios 1:16",
+      "2 Reis 6:19",
+      "ATOS 9:8",
+      "Jó 38:32",
+      "Lucas 6:39",
+      "Mateus 15:14",
+      "Neemias 9:19",
+      "Salmos 32:8",
+      "Salmos 73:24",
+      "Êxodo 13:21"
+    ],
+    "freq": 11,
+    "forms": [
+      "guiado",
+      "guiando",
+      "guiar"
+    ]
+  },
+  "glorificar": {
+    "refs": [
+      "1 Pedro 4:11",
+      "1 Pedro 4:14",
+      "2 Coríntios 3:10",
+      "2 Tessalonicenses 1:10",
+      "2 Tessalonicenses 1:12",
+      "Ageu 1:8",
+      "Ezequiel 28:22",
+      "Ezequiel 39:13",
+      "Isaías 49:3",
+      "Isaías 49:5",
+      "Isaías 60:21",
+      "Isaías 61:3",
+      "Isaías 66:5",
+      "João 11:4",
+      "João 12:16",
+      "João 12:23",
+      "João 12:28",
+      "João 13:31",
+      "João 13:32",
+      "João 14:13",
+      "João 15:8",
+      "João 17:10",
+      "João 21:19",
+      "João 7:39",
+      "Levítico 10:3",
+      "Lucas 17:15",
+      "Lucas 18:43",
+      "Lucas 2:20",
+      "Lucas 5:25",
+      "Êxodo 14:17",
+      "Êxodo 14:18",
+      "Êxodo 14:4",
+      "Êxodo 15:11",
+      "Êxodo 15:6"
+    ],
+    "freq": 34,
+    "forms": [
+      "glorificado",
+      "glorificando",
+      "glorificar"
+    ]
+  },
+  "governavam": {
+    "refs": [
+      "Êxodo 14:25"
+    ],
+    "freq": 1,
+    "forms": [
+      "governavam"
+    ]
+  },
+  "gloriosamente": {
+    "refs": [
+      "Isaías 24:23",
+      "Êxodo 15:1",
+      "Êxodo 15:21"
+    ],
+    "freq": 3,
+    "forms": [
+      "gloriosamente"
+    ]
+  },
+  "grandeza": {
+    "refs": [
+      "1 Crônicas 17:19",
+      "1 Samuel 16:7",
+      "2 Crônicas 24:27",
+      "2 Crônicas 9:6",
+      "2 Samuel 7:21",
+      "ATOS 2:11",
+      "Daniel 4:22",
+      "Daniel 5:18",
+      "Daniel 5:19",
+      "Deuteronômio 11:2",
+      "Deuteronômio 3:24",
+      "Deuteronômio 5:24",
+      "Deuteronômio 9:26",
+      "Efésios 1:19",
+      "Ester 10:2",
+      "Ester 1:4",
+      "Ezequiel 31:18",
+      "Ezequiel 31:2",
+      "Ezequiel 31:7",
+      "Isaías 10:12",
+      "Isaías 40:26",
+      "Jeremias 30:14",
+      "Jeremias 30:15",
+      "Jeremias 45:5",
+      "Jó 23:6",
+      "Jó 30:18",
+      "Jó 31:23",
+      "Jó 37:23",
+      "Lamentações 3:32",
+      "Números 14:19",
+      "Oséias 8:12",
+      "Salmos 106:21",
+      "Salmos 145:3",
+      "Salmos 145:6",
+      "Salmos 150:2",
+      "Salmos 33:16",
+      "Salmos 5:7",
+      "Salmos 66:3",
+      "Salmos 69:13",
+      "Salmos 71:21",
+      "Salmos 79:11",
+      "Êxodo 15:16",
+      "Êxodo 15:7"
+    ],
+    "freq": 43,
+    "forms": [
+      "grandeza",
+      "grandezas"
+    ]
+  },
+  "guiaste": {
+    "refs": [
+      "Isaías 63:14",
+      "Neemias 9:12",
+      "Salmos 77:20",
+      "Êxodo 15:13"
+    ],
+    "freq": 4,
+    "forms": [
+      "guiaste"
+    ]
+  },
+  "guardare": {
+    "refs": [
+      "1 Reis 2:3",
+      "1 Reis 6:12",
+      "1 Reis 9:4",
+      "2 Crônicas 7:17",
+      "Deuteronômio 13:18",
+      "Deuteronômio 19:9",
+      "Deuteronômio 28:45",
+      "Deuteronômio 28:9",
+      "Deuteronômio 6:3",
+      "Provérbios 22:18",
+      "Romanos 2:25",
+      "Êxodo 15:26"
+    ],
+    "freq": 12,
+    "forms": [
+      "guardares"
+    ]
+  },
+  "guardaram": {
+    "refs": [
+      "2 Crônicas 34:21",
+      "ATOS 22:2",
+      "Amós 2:4",
+      "Deuteronômio 33:9",
+      "Ezequiel 20:21",
+      "Ezequiel 44:15",
+      "Ezequiel 48:11",
+      "Isaías 15:7",
+      "Jeremias 16:11",
+      "Jeremias 35:16",
+      "João 15:20",
+      "João 17:6",
+      "Judas 1:6",
+      "Juízes 2:22",
+      "Neemias 9:34",
+      "Salmos 78:10",
+      "Salmos 78:56",
+      "Salmos 99:7",
+      "Êxodo 16:24"
+    ],
+    "freq": 19,
+    "forms": [
+      "guardaram"
+    ]
+  },
+  "guardá": {
+    "refs": [
+      "Deuteronômio 5:1",
+      "João 12:25",
+      "Salmos 119:33",
+      "Êxodo 16:32",
+      "Êxodo 16:33"
+    ],
+    "freq": 5,
+    "forms": [
+      "guardá"
+    ]
+  },
+  "guardarde": {
+    "refs": [
+      "1 Reis 8:61",
+      "1 Reis 9:6",
+      "ATOS 15:29",
+      "Deuteronômio 11:22",
+      "Deuteronômio 7:12",
+      "Ezequiel 13:19",
+      "Josué 23:6",
+      "João 15:10",
+      "Levítico 26:3",
+      "Marcos 7:9",
+      "Êxodo 19:5"
+    ],
+    "freq": 11,
+    "forms": [
+      "guardardes"
+    ]
+  },
+  "guardam": {
+    "refs": [
+      "2 Pedro 3:7",
+      "Apocalipse 12:17",
+      "Apocalipse 14:12",
+      "Apocalipse 1:3",
+      "Apocalipse 22:14",
+      "Apocalipse 22:9",
+      "Cânticos 8:12",
+      "Daniel 9:4",
+      "Deuteronômio 5:10",
+      "Deuteronômio 7:9",
+      "Eclesiastes 5:13",
+      "Gálatas 6:13",
+      "Isaías 56:4",
+      "Lucas 11:28",
+      "Neemias 1:5",
+      "Provérbios 11:16",
+      "Provérbios 20:28",
+      "Provérbios 28:4",
+      "Salmos 103:18",
+      "Salmos 106:3",
+      "Salmos 119:136",
+      "Salmos 119:2",
+      "Salmos 119:63",
+      "Salmos 130:6",
+      "Salmos 25:10",
+      "Êxodo 20:6"
+    ],
+    "freq": 26,
+    "forms": [
+      "guardam"
+    ]
+  },
+  "golpe": {
+    "refs": [
+      "1 Reis 20:37",
+      "Deuteronômio 14:1",
+      "Ester 9:5",
+      "Ezequiel 24:16",
+      "Ezequiel 39:3",
+      "Isaías 14:6",
+      "Juízes 9:33",
+      "Levítico 19:28",
+      "Levítico 21:5",
+      "Salmos 39:10",
+      "Êxodo 21:25"
+    ],
+    "freq": 11,
+    "forms": [
+      "golpe",
+      "golpes"
+    ]
+  },
+  "guarde": {
+    "refs": [
+      "1 Reis 21:3",
+      "1 Samuel 24:6",
+      "1 Samuel 26:11",
+      "1 Timóteo 5:21",
+      "1 Timóteo 6:14",
+      "Deuteronômio 10:13",
+      "Deuteronômio 30:16",
+      "Deuteronômio 6:2",
+      "Jó 20:13",
+      "Números 17:10",
+      "Números 6:24",
+      "Oséias 13:10",
+      "Provérbios 3:1",
+      "Provérbios 5:2",
+      "Êxodo 23:20"
+    ],
+    "freq": 15,
+    "forms": [
+      "guarde",
+      "guardes"
+    ]
+  },
+  "garfo": {
+    "refs": [
+      "1 Crônicas 28:17",
+      "1 Samuel 2:13",
+      "1 Samuel 2:14",
+      "2 Crônicas 4:16",
+      "2 Reis 12:13",
+      "Números 4:14",
+      "Êxodo 27:3",
+      "Êxodo 38:3"
+    ],
+    "freq": 8,
+    "forms": [
+      "garfo",
+      "garfos"
+    ]
+  },
+  "gravará": {
+    "refs": [
+      "Êxodo 28:36",
+      "Êxodo 28:9"
+    ],
+    "freq": 2,
+    "forms": [
+      "gravarás"
+    ]
+  },
+  "gravura": {
+    "refs": [
+      "Êxodo 28:36",
+      "Êxodo 39:14",
+      "Êxodo 39:30",
+      "Êxodo 39:6"
+    ],
+    "freq": 4,
+    "forms": [
+      "gravura",
+      "gravuras"
+    ]
+  },
+  "gálbano": {
+    "refs": [
+      "Êxodo 30:34"
+    ],
+    "freq": 1,
+    "forms": [
+      "gálbano"
+    ]
+  },
+  "gravador": {
+    "refs": [
+      "Êxodo 35:35"
+    ],
+    "freq": 1,
+    "forms": [
+      "gravador"
+    ]
+  },
+  "gasto": {
+    "refs": [
+      "ATOS 21:24",
+      "Lucas 14:28",
+      "Êxodo 38:24"
+    ],
+    "freq": 3,
+    "forms": [
+      "gasto",
+      "gastos"
+    ]
+  },
+  "grão": {
+    "refs": [
+      "1 Coríntios 15:37",
+      "1 Coríntios 9:9",
+      "1 Samuel 17:17",
+      "2 Samuel 17:19",
+      "2 Samuel 17:28",
+      "Ageu 2:16",
+      "Amós 8:5",
+      "Amós 9:9",
+      "Deuteronômio 11:14",
+      "Deuteronômio 12:17",
+      "Deuteronômio 14:23",
+      "Deuteronômio 18:4",
+      "Deuteronômio 28:51",
+      "Deuteronômio 33:28",
+      "Deuteronômio 7:13",
+      "Isaías 30:24",
+      "Isaías 48:19",
+      "João 12:24",
+      "Levítico 2:14",
+      "Levítico 2:16",
+      "Lucas 13:19",
+      "Lucas 17:6",
+      "Marcos 4:28",
+      "Marcos 4:31",
+      "Mateus 13:31",
+      "Mateus 17:20",
+      "Neemias 10:31",
+      "Neemias 10:39",
+      "Neemias 13:12",
+      "Neemias 13:5",
+      "Números 18:12",
+      "Números 18:27",
+      "Oséias 2:8",
+      "Oséias 2:9",
+      "Provérbios 27:22",
+      "Rute 3:7"
+    ],
+    "freq": 36,
+    "forms": [
+      "grão",
+      "grãos"
+    ]
+  },
+  "gaivota": {
+    "refs": [
+      "Deuteronômio 14:15",
+      "Levítico 11:16"
+    ],
+    "freq": 2,
+    "forms": [
+      "gaivota"
+    ]
+  },
+  "gavião": {
+    "refs": [
+      "Deuteronômio 14:15",
+      "Jó 39:26",
+      "Levítico 11:16"
+    ],
+    "freq": 3,
+    "forms": [
+      "gavião"
+    ]
+  },
+  "gralha": {
+    "refs": [
+      "Deuteronômio 14:16",
+      "Jó 28:7",
+      "Levítico 11:18"
+    ],
+    "freq": 3,
+    "forms": [
+      "gralha"
+    ]
+  },
+  "garça": {
+    "refs": [
+      "Deuteronômio 14:18",
+      "Levítico 11:19"
+    ],
+    "freq": 2,
+    "forms": [
+      "garça"
+    ]
+  },
+  "grilo": {
+    "refs": [
+      "Levítico 11:22"
+    ],
+    "freq": 1,
+    "forms": [
+      "grilo"
+    ]
+  },
+  "gerada": {
+    "refs": [
+      "Levítico 18:11",
+      "Provérbios 8:24",
+      "Provérbios 8:25"
+    ],
+    "freq": 3,
+    "forms": [
+      "gerada"
+    ]
+  },
+  "ganho": {
+    "refs": [
+      "1 Pedro 3:1",
+      "1 Timóteo 6:5",
+      "1 Timóteo 6:6",
+      "2 João 1:8",
+      "Filipenses 1:21",
+      "Filipenses 3:7",
+      "Isaías 33:15",
+      "Levítico 25:36",
+      "Miquéias 4:13",
+      "Neemias 5:10",
+      "Provérbios 15:6",
+      "Provérbios 3:9",
+      "Provérbios 8:19",
+      "Zacarias 8:10"
+    ],
+    "freq": 14,
+    "forms": [
+      "ganho",
+      "ganhos"
+    ]
+  },
+  "guardada": {
+    "refs": [
+      "1 Pedro 1:4",
+      "2 Timóteo 4:8",
+      "Jeremias 35:14",
+      "Levítico 26:10",
+      "Números 19:9"
+    ],
+    "freq": 5,
+    "forms": [
+      "guardada",
+      "guardadas"
+    ]
+  },
+  "gastará": {
+    "refs": [
+      "Levítico 26:20"
+    ],
+    "freq": 1,
+    "forms": [
+      "gastará"
+    ]
+  },
+  "gamaliel": {
+    "refs": [
+      "ATOS 22:3",
+      "ATOS 5:34",
+      "Números 10:23",
+      "Números 1:10",
+      "Números 2:20",
+      "Números 7:54",
+      "Números 7:59"
+    ],
+    "freq": 7,
+    "forms": [
+      "gamaliel"
+    ]
+  },
+  "gideoni": {
+    "refs": [
+      "Números 10:24",
+      "Números 1:11",
+      "Números 2:22",
+      "Números 7:60",
+      "Números 7:65"
+    ],
+    "freq": 5,
+    "forms": [
+      "gideoni"
+    ]
+  },
+  "gersonita": {
+    "refs": [
+      "1 Crônicas 23:7",
+      "1 Crônicas 26:21",
+      "1 Crônicas 29:8",
+      "2 Crônicas 29:12",
+      "Josué 21:33",
+      "Números 26:57",
+      "Números 3:21",
+      "Números 3:23",
+      "Números 3:24",
+      "Números 4:24",
+      "Números 4:27",
+      "Números 4:28"
+    ],
+    "freq": 12,
+    "forms": [
+      "gersonita",
+      "gersonitas"
+    ]
+  },
+  "gral": {
+    "refs": [
+      "Números 11:8",
+      "Provérbios 27:22"
+    ],
+    "freq": 2,
+    "forms": [
+      "gral"
+    ]
+  },
+  "gadiel": {
+    "refs": [
+      "Números 13:10"
+    ],
+    "freq": 1,
+    "forms": [
+      "gadiel"
+    ]
+  },
+  "gadi": {
+    "refs": [
+      "2 Reis 15:14",
+      "2 Reis 15:17",
+      "Números 13:11"
+    ],
+    "freq": 3,
+    "forms": [
+      "gadi"
+    ]
+  },
+  "gemali": {
+    "refs": [
+      "Números 13:12"
+    ],
+    "freq": 1,
+    "forms": [
+      "gemali"
+    ]
+  },
+  "geuel": {
+    "refs": [
+      "Números 13:15"
+    ],
+    "freq": 1,
+    "forms": [
+      "geuel"
+    ]
+  },
+  "grupo": {
+    "refs": [
+      "1 Samuel 10:10",
+      "1 Samuel 10:5",
+      "Esdras 3:11",
+      "Números 16:11",
+      "Números 16:16",
+      "Números 16:6",
+      "Números 26:10",
+      "Números 26:9",
+      "Números 27:3",
+      "Salmos 106:17",
+      "Salmos 106:18"
+    ],
+    "freq": 11,
+    "forms": [
+      "grupo"
+    ]
+  },
+  "gileadita": {
+    "refs": [
+      "1 Reis 2:7",
+      "2 Reis 15:25",
+      "2 Samuel 17:27",
+      "2 Samuel 19:31",
+      "Esdras 2:61",
+      "Juízes 10:3",
+      "Juízes 11:1",
+      "Juízes 11:40",
+      "Juízes 12:4",
+      "Juízes 12:5",
+      "Juízes 12:7",
+      "Neemias 7:63",
+      "Números 26:29"
+    ],
+    "freq": 13,
+    "forms": [
+      "gileadita",
+      "gileaditas"
+    ]
+  },
+  "gunita": {
+    "refs": [
+      "Números 26:48"
+    ],
+    "freq": 1,
+    "forms": [
+      "gunitas"
+    ]
+  },
+  "geber": {
+    "refs": [
+      "1 Reis 22:49",
+      "1 Reis 4:13",
+      "1 Reis 4:19",
+      "1 Reis 9:26",
+      "2 Crônicas 20:36",
+      "2 Crônicas 8:17",
+      "Deuteronômio 2:8",
+      "Números 33:35",
+      "Números 33:36"
+    ],
+    "freq": 9,
+    "forms": [
+      "geber"
+    ]
+  },
+  "gadita": {
+    "refs": [
+      "1 Crônicas 12:37",
+      "1 Crônicas 12:8",
+      "1 Crônicas 26:32",
+      "1 Crônicas 5:18",
+      "1 Crônicas 5:26",
+      "2 Reis 10:33",
+      "2 Samuel 23:36",
+      "Deuteronômio 29:8",
+      "Deuteronômio 3:12",
+      "Deuteronômio 3:16",
+      "Deuteronômio 4:43",
+      "Josué 12:6",
+      "Josué 13:8",
+      "Josué 1:12",
+      "Josué 22:1",
+      "Números 34:14"
+    ],
+    "freq": 16,
+    "forms": [
+      "gadita",
+      "gaditas"
+    ]
+  },
+  "gesurita": {
+    "refs": [
+      "1 Samuel 27:8",
+      "Deuteronômio 3:14"
+    ],
+    "freq": 2,
+    "forms": [
+      "gesuritas"
+    ]
+  },
+  "guardal": {
+    "refs": [
+      "Deuteronômio 4:2",
+      "Ezequiel 20:18",
+      "Ezequiel 36:27",
+      "Gálatas 4:10",
+      "Josué 22:5",
+      "Salmos 103:20"
+    ],
+    "freq": 6,
+    "forms": [
+      "guardais",
+      "guardeis"
+    ]
+  },
+  "gerarde": {
+    "refs": [
+      "Deuteronômio 4:25"
+    ],
+    "freq": 1,
+    "forms": [
+      "gerardes"
+    ]
+  },
+  "golã": {
+    "refs": [
+      "1 Crônicas 6:71",
+      "Deuteronômio 4:43",
+      "Josué 20:8",
+      "Josué 21:27"
+    ],
+    "freq": 4,
+    "forms": [
+      "golã"
+    ]
+  },
+  "guardasse": {
+    "refs": [
+      "1 Samuel 7:1",
+      "ATOS 16:23",
+      "ATOS 24:23",
+      "Deuteronômio 5:15"
+    ],
+    "freq": 4,
+    "forms": [
+      "guardasse",
+      "guardasses"
+    ]
+  },
+  "guardassem": {
+    "refs": [
+      "1 Samuel 19:11",
+      "ATOS 12:4",
+      "ATOS 15:5",
+      "ATOS 23:35",
+      "ATOS 25:21",
+      "Deuteronômio 5:29",
+      "Ester 9:21",
+      "Mateus 16:12",
+      "Salmos 105:45",
+      "Salmos 78:7"
+    ],
+    "freq": 10,
+    "forms": [
+      "guardassem"
+    ]
+  },
+  "guardaria": {
+    "refs": [
+      "Deuteronômio 8:2"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardarias"
+    ]
+  },
+  "gado": {
+    "refs": [
+      "1 Crônicas 27:29",
+      "1 Crônicas 7:21",
+      "1 Samuel 23:5",
+      "Deuteronômio 8:13",
+      "Eclesiastes 2:7",
+      "Esdras 1:4",
+      "Isaías 65:10",
+      "Jeremias 49:29",
+      "Jeremias 49:32",
+      "Joel 1:18",
+      "Juízes 6:5",
+      "Salmos 148:10"
+    ],
+    "freq": 12,
+    "forms": [
+      "gados"
+    ]
+  },
+  "gudgodá": {
+    "refs": [
+      "Deuteronômio 10:7"
+    ],
+    "freq": 1,
+    "forms": [
+      "gudgodá"
+    ]
+  },
+  "gerizim": {
+    "refs": [
+      "Deuteronômio 11:29",
+      "Deuteronômio 27:12",
+      "Josué 8:33",
+      "Juízes 9:7"
+    ],
+    "freq": 4,
+    "forms": [
+      "gerizim"
+    ]
+  },
+  "gilgal": {
+    "refs": [
+      "1 Samuel 10:8",
+      "1 Samuel 11:14",
+      "1 Samuel 11:15",
+      "1 Samuel 13:12",
+      "1 Samuel 13:15",
+      "1 Samuel 13:4",
+      "1 Samuel 13:7",
+      "1 Samuel 13:8",
+      "1 Samuel 15:12",
+      "1 Samuel 15:21",
+      "1 Samuel 15:33",
+      "1 Samuel 7:16",
+      "2 Reis 2:1",
+      "2 Reis 4:38",
+      "2 Samuel 19:15",
+      "2 Samuel 19:40",
+      "Amós 4:4",
+      "Amós 5:5",
+      "Deuteronômio 11:30",
+      "Josué 10:15",
+      "Josué 10:43",
+      "Josué 10:6",
+      "Josué 10:7",
+      "Josué 10:9",
+      "Josué 12:23",
+      "Josué 14:6",
+      "Josué 15:7",
+      "Josué 4:19",
+      "Josué 4:20",
+      "Josué 5:10",
+      "Josué 5:9",
+      "Josué 9:6",
+      "Juízes 2:1",
+      "Juízes 3:19",
+      "Miquéias 6:5",
+      "Neemias 12:29",
+      "Oséias 12:11",
+      "Oséias 4:15",
+      "Oséias 9:15"
+    ],
+    "freq": 39,
+    "forms": [
+      "gilgal"
+    ]
+  },
+  "gamo": {
+    "refs": [
+      "Cânticos 2:17",
+      "Cânticos 2:9",
+      "Cânticos 8:14",
+      "Deuteronômio 14:5"
+    ],
+    "freq": 4,
+    "forms": [
+      "gamo"
+    ]
+  },
+  "guerrear": {
+    "refs": [
+      "2 Crônicas 32:8",
+      "2 Crônicas 35:20",
+      "Deuteronômio 20:20",
+      "Isaías 2:4",
+      "Neemias 4:8"
+    ],
+    "freq": 5,
+    "forms": [
+      "guerrear"
+    ]
+  },
+  "gritou": {
+    "refs": [
+      "1 Reis 22:32",
+      "1 Samuel 20:37",
+      "1 Samuel 24:8",
+      "1 Samuel 28:12",
+      "1 Samuel 4:13",
+      "1 Samuel 4:5",
+      "2 Samuel 18:25",
+      "2 Samuel 18:26",
+      "2 Samuel 18:28",
+      "2 Samuel 20:16",
+      "2 Samuel 2:26",
+      "Daniel 5:7",
+      "Daniel 8:16",
+      "Deuteronômio 22:24",
+      "Deuteronômio 22:27",
+      "Ezequiel 9:1",
+      "Josué 6:20"
+    ],
+    "freq": 17,
+    "forms": [
+      "gritou"
+    ]
+  },
+  "glorioso": {
+    "refs": [
+      "1 Pedro 1:8",
+      "2 Coríntios 3:9",
+      "ATOS 2:20",
+      "Daniel 11:45",
+      "Deuteronômio 28:58",
+      "Filipenses 3:21",
+      "Isaías 11:10",
+      "Isaías 26:15",
+      "Isaías 28:1",
+      "Isaías 28:4",
+      "Isaías 33:21",
+      "Isaías 42:21",
+      "Isaías 63:1",
+      "Isaías 63:12",
+      "Isaías 63:14",
+      "Neemias 9:5",
+      "Salmos 72:19",
+      "Salmos 76:4"
+    ],
+    "freq": 18,
+    "forms": [
+      "glorioso"
+    ]
+  },
+  "goteje": {
+    "refs": [
+      "Deuteronômio 32:2"
+    ],
+    "freq": 1,
+    "forms": [
+      "goteje"
+    ]
+  },
+  "gota": {
+    "refs": [
+      "Cânticos 5:2",
+      "Deuteronômio 32:2",
+      "Isaías 40:15",
+      "Jó 28:11",
+      "Jó 36:27",
+      "Jó 38:28",
+      "Lucas 22:44"
+    ],
+    "freq": 7,
+    "forms": [
+      "gota",
+      "gotas"
+    ]
+  },
+  "gotejarão": {
+    "refs": [
+      "Deuteronômio 33:28"
+    ],
+    "freq": 1,
+    "forms": [
+      "gotejarão"
+    ]
+  },
+  "gritará": {
+    "refs": [
+      "Isaías 58:9",
+      "Josué 6:5"
+    ],
+    "freq": 2,
+    "forms": [
+      "gritará",
+      "gritarás"
+    ]
+  },
+  "gritaral": {
+    "refs": [
+      "Isaías 65:14",
+      "Josué 6:10"
+    ],
+    "freq": 2,
+    "forms": [
+      "gritareis"
+    ]
+  },
+  "gritai": {
+    "refs": [
+      "Jeremias 48:20",
+      "Jeremias 4:5",
+      "Jeremias 50:15",
+      "Josué 6:10",
+      "Josué 6:16",
+      "Oséias 5:8"
+    ],
+    "freq": 6,
+    "forms": [
+      "gritai"
+    ]
+  },
+  "gibeom": {
+    "refs": [
+      "1 Crônicas 14:16",
+      "1 Crônicas 16:39",
+      "1 Crônicas 21:29",
+      "1 Reis 3:4",
+      "1 Reis 3:5",
+      "1 Reis 9:2",
+      "2 Crônicas 1:13",
+      "2 Crônicas 1:3",
+      "2 Samuel 20:8",
+      "2 Samuel 2:12",
+      "2 Samuel 2:13",
+      "2 Samuel 2:16",
+      "Jeremias 28:1",
+      "Jeremias 41:12",
+      "Jeremias 41:16",
+      "Josué 10:1",
+      "Josué 10:10",
+      "Josué 10:12",
+      "Josué 10:2",
+      "Josué 10:4",
+      "Josué 10:41",
+      "Josué 10:5",
+      "Josué 10:6",
+      "Josué 11:19",
+      "Josué 9:17",
+      "Josué 9:3",
+      "Neemias 3:7",
+      "Neemias 7:25"
+    ],
+    "freq": 28,
+    "forms": [
+      "gibeom"
+    ]
+  },
+  "gezer": {
+    "refs": [
+      "1 Crônicas 14:16",
+      "1 Crônicas 20:4",
+      "1 Crônicas 6:67",
+      "1 Crônicas 7:28",
+      "1 Reis 9:15",
+      "1 Reis 9:16",
+      "1 Reis 9:17",
+      "2 Samuel 5:25",
+      "Josué 10:33",
+      "Josué 16:10",
+      "Josué 16:3",
+      "Josué 21:21",
+      "Juízes 1:29"
+    ],
+    "freq": 13,
+    "forms": [
+      "gezer"
+    ]
+  },
+  "gate": {
+    "refs": [
+      "1 Crônicas 18:1",
+      "1 Crônicas 20:6",
+      "1 Crônicas 20:8",
+      "1 Crônicas 6:69",
+      "1 Crônicas 7:21",
+      "1 Crônicas 8:13",
+      "1 Reis 2:39",
+      "1 Reis 2:40",
+      "1 Reis 2:41",
+      "1 Samuel 17:23",
+      "1 Samuel 17:4",
+      "1 Samuel 17:52",
+      "1 Samuel 21:10",
+      "1 Samuel 21:12",
+      "1 Samuel 27:11",
+      "1 Samuel 27:2",
+      "1 Samuel 27:3",
+      "1 Samuel 27:4",
+      "1 Samuel 5:8",
+      "1 Samuel 6:17",
+      "1 Samuel 7:14",
+      "2 Crônicas 11:8",
+      "2 Crônicas 26:6",
+      "2 Reis 12:17",
+      "2 Reis 14:25",
+      "2 Samuel 15:18",
+      "2 Samuel 1:20",
+      "2 Samuel 21:20",
+      "2 Samuel 21:22",
+      "Amós 6:2",
+      "Josué 11:22",
+      "Josué 19:13",
+      "Josué 19:45",
+      "Josué 21:24",
+      "Josué 21:25",
+      "Miquéias 1:10",
+      "Miquéias 1:14"
+    ],
+    "freq": 37,
+    "forms": [
+      "gate"
+    ]
+  },
+  "gesureu": {
+    "refs": [
+      "Josué 12:5",
+      "Josué 13:11",
+      "Josué 13:13"
+    ],
+    "freq": 3,
+    "forms": [
+      "gesureus"
+    ]
+  },
+  "geser": {
+    "refs": [
+      "Josué 12:12"
+    ],
+    "freq": 1,
+    "forms": [
+      "geser"
+    ]
+  },
+  "geder": {
+    "refs": [
+      "Josué 12:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "geder"
+    ]
+  },
+  "gesur": {
+    "refs": [
+      "1 Crônicas 2:23",
+      "1 Crônicas 3:2",
+      "2 Samuel 13:37",
+      "2 Samuel 13:38",
+      "2 Samuel 14:23",
+      "2 Samuel 14:32",
+      "2 Samuel 15:8",
+      "2 Samuel 3:3",
+      "Josué 13:13",
+      "Josué 13:2"
+    ],
+    "freq": 10,
+    "forms": [
+      "gesur"
+    ]
+  },
+  "gazeu": {
+    "refs": [
+      "Josué 13:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "gazeu"
+    ]
+  },
+  "giteu": {
+    "refs": [
+      "1 Crônicas 13:13",
+      "1 Crônicas 20:5",
+      "2 Samuel 15:18",
+      "2 Samuel 15:19",
+      "2 Samuel 15:22",
+      "2 Samuel 18:2",
+      "2 Samuel 21:19",
+      "2 Samuel 6:10",
+      "2 Samuel 6:11",
+      "Josué 13:3"
+    ],
+    "freq": 10,
+    "forms": [
+      "giteu",
+      "giteus"
+    ]
+  },
+  "gebalita": {
+    "refs": [
+      "Josué 13:5"
+    ],
+    "freq": 1,
+    "forms": [
+      "gebalitas"
+    ]
+  },
+  "gerado": {
+    "refs": [
+      "1 Pedro 1:23",
+      "Josué 15:14"
+    ],
+    "freq": 2,
+    "forms": [
+      "gerados"
+    ]
+  },
+  "gada": {
+    "refs": [
+      "Josué 15:27"
+    ],
+    "freq": 1,
+    "forms": [
+      "gada"
+    ]
+  },
+  "ganim": {
+    "refs": [
+      "Josué 15:34",
+      "Josué 19:21",
+      "Josué 21:29"
+    ],
+    "freq": 3,
+    "forms": [
+      "ganim"
+    ]
+  },
+  "gederá": {
+    "refs": [
+      "Josué 15:36"
+    ],
+    "freq": 1,
+    "forms": [
+      "gederá"
+    ]
+  },
+  "gederotaim": {
+    "refs": [
+      "Josué 15:36"
+    ],
+    "freq": 1,
+    "forms": [
+      "gederotaim"
+    ]
+  },
+  "gederote": {
+    "refs": [
+      "2 Crônicas 28:18",
+      "Josué 15:41"
+    ],
+    "freq": 2,
+    "forms": [
+      "gederote"
+    ]
+  },
+  "giló": {
+    "refs": [
+      "2 Samuel 15:12",
+      "Josué 15:51"
+    ],
+    "freq": 2,
+    "forms": [
+      "giló"
+    ]
+  },
+  "gibeá": {
+    "refs": [
+      "1 Crônicas 2:49",
+      "1 Samuel 10:26",
+      "1 Samuel 11:4",
+      "1 Samuel 13:15",
+      "1 Samuel 13:16",
+      "1 Samuel 13:2",
+      "1 Samuel 13:3",
+      "1 Samuel 14:16",
+      "1 Samuel 14:2",
+      "1 Samuel 14:5",
+      "1 Samuel 15:34",
+      "1 Samuel 22:6",
+      "1 Samuel 23:19",
+      "1 Samuel 26:1",
+      "2 Crônicas 13:2",
+      "2 Samuel 21:6",
+      "2 Samuel 23:29",
+      "2 Samuel 6:3",
+      "2 Samuel 6:4",
+      "Isaías 10:29",
+      "Josué 15:57",
+      "Josué 18:28",
+      "Juízes 19:12",
+      "Juízes 19:13",
+      "Juízes 19:14",
+      "Juízes 19:15",
+      "Juízes 19:16",
+      "Juízes 20:10",
+      "Juízes 20:13",
+      "Juízes 20:14",
+      "Juízes 20:15",
+      "Juízes 20:19",
+      "Juízes 20:20",
+      "Juízes 20:21",
+      "Juízes 20:25",
+      "Juízes 20:29",
+      "Juízes 20:30",
+      "Juízes 20:31",
+      "Juízes 20:33",
+      "Juízes 20:34",
+      "Juízes 20:36",
+      "Juízes 20:37",
+      "Juízes 20:4",
+      "Juízes 20:43",
+      "Juízes 20:5",
+      "Juízes 20:9",
+      "Oséias 10:9",
+      "Oséias 5:8",
+      "Oséias 9:9"
+    ],
+    "freq": 49,
+    "forms": [
+      "gibeá"
+    ]
+  },
+  "gedor": {
+    "refs": [
+      "1 Crônicas 12:7",
+      "1 Crônicas 4:18",
+      "1 Crônicas 4:39",
+      "1 Crônicas 4:4",
+      "1 Crônicas 8:31",
+      "1 Crônicas 9:37",
+      "Josué 15:58"
+    ],
+    "freq": 7,
+    "forms": [
+      "gedor"
+    ]
+  },
+  "gedi": {
+    "refs": [
+      "1 Samuel 23:29",
+      "1 Samuel 24:1",
+      "2 Crônicas 20:2",
+      "Cânticos 1:14",
+      "Ezequiel 47:10",
+      "Josué 15:62"
+    ],
+    "freq": 6,
+    "forms": [
+      "gedi"
+    ]
+  },
+  "gelilote": {
+    "refs": [
+      "Josué 18:17"
+    ],
+    "freq": 1,
+    "forms": [
+      "gelilote"
+    ]
+  },
+  "gaba": {
+    "refs": [
+      "Josué 18:24",
+      "Provérbios 25:14"
+    ],
+    "freq": 2,
+    "forms": [
+      "gaba"
+    ]
+  },
+  "gibeão": {
+    "refs": [
+      "1 Crônicas 8:29",
+      "1 Crônicas 9:35",
+      "2 Samuel 2:24",
+      "2 Samuel 3:30",
+      "Isaías 28:21",
+      "Josué 18:25",
+      "Josué 21:17"
+    ],
+    "freq": 7,
+    "forms": [
+      "gibeão"
+    ]
+  },
+  "gibetom": {
+    "refs": [
+      "1 Reis 15:27",
+      "1 Reis 16:15",
+      "1 Reis 16:17",
+      "Josué 19:44",
+      "Josué 21:23"
+    ],
+    "freq": 5,
+    "forms": [
+      "gibetom"
+    ]
+  },
+  "galiléia": {
+    "refs": [
+      "1 Crônicas 6:76",
+      "1 Reis 9:11",
+      "2 Reis 15:29",
+      "ATOS 10:37",
+      "ATOS 13:31",
+      "ATOS 9:31",
+      "Isaías 9:1",
+      "Josué 20:7",
+      "Josué 21:32",
+      "João 12:21",
+      "João 1:43",
+      "João 21:2",
+      "João 2:1",
+      "João 2:11",
+      "João 4:3",
+      "João 4:43",
+      "João 4:45",
+      "João 4:46",
+      "João 4:47",
+      "João 4:54",
+      "João 6:1",
+      "João 7:1",
+      "João 7:41",
+      "João 7:52",
+      "João 7:9",
+      "Lucas 17:11",
+      "Lucas 1:26",
+      "Lucas 23:49",
+      "Lucas 23:5",
+      "Lucas 23:55",
+      "Lucas 23:6",
+      "Lucas 24:6",
+      "Lucas 2:39",
+      "Lucas 2:4",
+      "Lucas 3:1",
+      "Lucas 4:14",
+      "Lucas 4:31",
+      "Lucas 4:44",
+      "Lucas 5:17",
+      "Lucas 8:26",
+      "Marcos 14:28",
+      "Marcos 15:41",
+      "Marcos 16:7",
+      "Marcos 1:14",
+      "Marcos 1:16",
+      "Marcos 1:28",
+      "Marcos 1:39",
+      "Marcos 1:9",
+      "Marcos 3:7",
+      "Marcos 6:21",
+      "Marcos 7:31",
+      "Marcos 9:30",
+      "Mateus 15:29",
+      "Mateus 17:22",
+      "Mateus 19:1",
+      "Mateus 21:11",
+      "Mateus 26:32",
+      "Mateus 27:55",
+      "Mateus 28:10",
+      "Mateus 28:16",
+      "Mateus 28:7",
+      "Mateus 2:22",
+      "Mateus 3:13",
+      "Mateus 4:12",
+      "Mateus 4:15",
+      "Mateus 4:18",
+      "Mateus 4:23",
+      "Mateus 4:25"
+    ],
+    "freq": 68,
+    "forms": [
+      "galiléia"
+    ]
+  },
+  "geba": {
+    "refs": [
+      "1 Crônicas 6:60",
+      "1 Crônicas 8:6",
+      "1 Reis 15:22",
+      "2 Crônicas 16:6",
+      "2 Reis 23:8",
+      "2 Samuel 5:25",
+      "Esdras 2:26",
+      "Isaías 10:29",
+      "Josué 21:17",
+      "Neemias 11:31",
+      "Neemias 12:29",
+      "Neemias 7:30",
+      "Zacarias 14:10"
+    ],
+    "freq": 13,
+    "forms": [
+      "geba"
+    ]
+  },
+  "guardaste": {
+    "refs": [
+      "1 Reis 11:11",
+      "1 Reis 13:21",
+      "1 Reis 2:43",
+      "1 Reis 3:6",
+      "1 Reis 8:24",
+      "1 Samuel 13:13",
+      "1 Samuel 13:14",
+      "1 Samuel 26:15",
+      "1 Samuel 26:16",
+      "2 Crônicas 6:15",
+      "2 Samuel 22:44",
+      "ATOS 7:53",
+      "Apocalipse 3:10",
+      "Apocalipse 3:8",
+      "Ezequiel 35:5",
+      "Ezequiel 44:8",
+      "Ezequiel 5:7",
+      "Jeremias 35:18",
+      "Josué 22:2",
+      "João 2:10",
+      "Malaquias 2:9",
+      "Malaquias 3:7",
+      "Salmos 31:19"
+    ],
+    "freq": 23,
+    "forms": [
+      "guardaste",
+      "guardastes"
+    ]
+  },
+  "gaá": {
+    "refs": [
+      "1 Crônicas 11:32",
+      "2 Samuel 23:30",
+      "Josué 24:30",
+      "Juízes 2:9"
+    ],
+    "freq": 4,
+    "forms": [
+      "gaás"
+    ]
+  },
+  "gotejaram": {
+    "refs": [
+      "Juízes 5:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "gotejaram"
+    ]
+  },
+  "galopar": {
+    "refs": [
+      "Juízes 5:22"
+    ],
+    "freq": 1,
+    "forms": [
+      "galopar"
+    ]
+  },
+  "grade": {
+    "refs": [
+      "2 Reis 1:2",
+      "Cânticos 2:9",
+      "Juízes 5:28"
+    ],
+    "freq": 3,
+    "forms": [
+      "grade",
+      "grades"
+    ]
+  },
+  "gideão": {
+    "refs": [
+      "Hebreus 11:32",
+      "Juízes 6:11",
+      "Juízes 6:13",
+      "Juízes 6:19",
+      "Juízes 6:22",
+      "Juízes 6:24",
+      "Juízes 6:27",
+      "Juízes 6:29",
+      "Juízes 6:34",
+      "Juízes 6:36",
+      "Juízes 6:39",
+      "Juízes 7:1",
+      "Juízes 7:13",
+      "Juízes 7:14",
+      "Juízes 7:15",
+      "Juízes 7:18",
+      "Juízes 7:19",
+      "Juízes 7:2",
+      "Juízes 7:20",
+      "Juízes 7:24",
+      "Juízes 7:25",
+      "Juízes 7:4",
+      "Juízes 7:5",
+      "Juízes 7:7",
+      "Juízes 8:11",
+      "Juízes 8:13",
+      "Juízes 8:21",
+      "Juízes 8:22",
+      "Juízes 8:23",
+      "Juízes 8:24",
+      "Juízes 8:27",
+      "Juízes 8:28",
+      "Juízes 8:30",
+      "Juízes 8:32",
+      "Juízes 8:33",
+      "Juízes 8:35",
+      "Juízes 8:4",
+      "Juízes 8:7"
+    ],
+    "freq": 38,
+    "forms": [
+      "gideão"
+    ]
+  },
+  "glorie": {
+    "refs": [
+      "1 Coríntios 1:29",
+      "1 Coríntios 1:31",
+      "1 Coríntios 3:21",
+      "2 Coríntios 10:17",
+      "2 Coríntios 10:8",
+      "2 Coríntios 11:16",
+      "Efésios 2:9",
+      "Jeremias 9:23",
+      "Jeremias 9:24",
+      "Juízes 7:2",
+      "Provérbios 25:6",
+      "Romanos 11:18",
+      "Salmos 106:5",
+      "Tiago 1:9"
+    ],
+    "freq": 14,
+    "forms": [
+      "glorie",
+      "glories"
+    ]
+  },
+  "gaal": {
+    "refs": [
+      "Juízes 9:26",
+      "Juízes 9:28",
+      "Juízes 9:30",
+      "Juízes 9:31",
+      "Juízes 9:35",
+      "Juízes 9:36",
+      "Juízes 9:37",
+      "Juízes 9:39",
+      "Juízes 9:41"
+    ],
+    "freq": 9,
+    "forms": [
+      "gaal"
+    ]
+  },
+  "gerara": {
+    "refs": [
+      "Juízes 11:1"
+    ],
+    "freq": 1,
+    "forms": [
+      "gerara"
+    ]
+  },
+  "gazita": {
+    "refs": [
+      "Juízes 16:2"
+    ],
+    "freq": 1,
+    "forms": [
+      "gazitas"
+    ]
+  },
+  "girava": {
+    "refs": [
+      "Juízes 16:21"
+    ],
+    "freq": 1,
+    "forms": [
+      "girava"
+    ]
+  },
+  "gidom": {
+    "refs": [
+      "Juízes 20:45"
+    ],
+    "freq": 1,
+    "forms": [
+      "gidom"
+    ]
+  },
+  "gavela": {
+    "refs": [
+      "Jeremias 9:22",
+      "Miquéias 4:12",
+      "Rute 2:15",
+      "Rute 2:7",
+      "Zacarias 12:6"
+    ],
+    "freq": 5,
+    "forms": [
+      "gavela",
+      "gavelas"
+    ]
+  },
+  "grandioso": {
+    "refs": [
+      "1 Samuel 4:8",
+      "2 Samuel 7:22",
+      "Isaías 55:7"
+    ],
+    "freq": 3,
+    "forms": [
+      "grandioso",
+      "grandiosos"
+    ]
+  },
+  "grito": {
+    "refs": [
+      "1 Samuel 17:20",
+      "1 Samuel 4:14",
+      "Isaías 26:17",
+      "Isaías 30:17",
+      "Isaías 42:14",
+      "Jeremias 20:8",
+      "Jeremias 25:30",
+      "Jeremias 25:36",
+      "Jeremias 48:34",
+      "Jeremias 48:5",
+      "Jeremias 49:21",
+      "Jeremias 50:46",
+      "Jó 19:7",
+      "Jó 39:7",
+      "Lamentações 2:7",
+      "Lamentações 3:8",
+      "Lucas 23:23",
+      "Marcos 15:8",
+      "Marcos 6:49",
+      "Salmos 144:14",
+      "Salmos 59:7",
+      "Salmos 74:23"
+    ],
+    "freq": 22,
+    "forms": [
+      "grito",
+      "gritos"
+    ]
+  },
+  "guarnição": {
+    "refs": [
+      "1 Crônicas 18:13",
+      "1 Crônicas 18:6",
+      "1 Reis 4:19",
+      "1 Samuel 10:5",
+      "1 Samuel 13:23",
+      "1 Samuel 13:3",
+      "1 Samuel 13:4",
+      "1 Samuel 14:1",
+      "1 Samuel 14:11",
+      "1 Samuel 14:12",
+      "1 Samuel 14:15",
+      "1 Samuel 14:4",
+      "1 Samuel 14:6",
+      "2 Crônicas 17:2",
+      "2 Samuel 23:14",
+      "2 Samuel 8:14",
+      "2 Samuel 8:6"
+    ],
+    "freq": 17,
+    "forms": [
+      "guarnição",
+      "guarnições"
+    ]
+  },
+  "grandiosa": {
+    "refs": [
+      "1 Samuel 12:24",
+      "Isaías 12:5"
+    ],
+    "freq": 2,
+    "forms": [
+      "grandiosas"
+    ]
+  },
+  "gentil": {
+    "refs": [
+      "1 Samuel 16:18",
+      "1 Samuel 17:42"
+    ],
+    "freq": 2,
+    "forms": [
+      "gentil"
+    ]
+  },
+  "guerreiro": {
+    "refs": [
+      "1 Samuel 17:23",
+      "1 Samuel 17:4",
+      "2 Crônicas 13:3",
+      "2 Crônicas 26:13",
+      "Isaías 9:5"
+    ],
+    "freq": 5,
+    "forms": [
+      "guerreiro",
+      "guerreiros"
+    ]
+  },
+  "golia": {
+    "refs": [
+      "1 Crônicas 20:5",
+      "1 Samuel 17:23",
+      "1 Samuel 17:4",
+      "1 Samuel 21:9",
+      "1 Samuel 22:10",
+      "2 Samuel 21:19"
+    ],
+    "freq": 6,
+    "forms": [
+      "golias"
+    ]
+  },
+  "greva": {
+    "refs": [
+      "1 Samuel 17:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "grevas"
+    ]
+  },
+  "garra": {
+    "refs": [
+      "1 Samuel 17:37",
+      "Salmos 10:10"
+    ],
+    "freq": 2,
+    "forms": [
+      "garras"
+    ]
+  },
+  "guerreia": {
+    "refs": [
+      "1 Samuel 18:17",
+      "1 Samuel 25:28",
+      "Jeremias 21:2"
+    ],
+    "freq": 3,
+    "forms": [
+      "guerreia"
+    ]
+  },
+  "guisada": {
+    "refs": [
+      "1 Samuel 25:18"
+    ],
+    "freq": 1,
+    "forms": [
+      "guisadas"
+    ]
+  },
+  "galim": {
+    "refs": [
+      "1 Samuel 25:44",
+      "Isaías 10:30"
+    ],
+    "freq": 2,
+    "forms": [
+      "galim"
+    ]
+  },
+  "gersita": {
+    "refs": [
+      "1 Samuel 27:8"
+    ],
+    "freq": 1,
+    "forms": [
+      "gersitas"
+    ]
+  },
+  "gilboa": {
+    "refs": [
+      "1 Crônicas 10:1",
+      "1 Crônicas 10:8",
+      "1 Samuel 28:4",
+      "1 Samuel 31:1",
+      "1 Samuel 31:8",
+      "2 Samuel 1:21",
+      "2 Samuel 1:6",
+      "2 Samuel 21:12"
+    ],
+    "freq": 8,
+    "forms": [
+      "gilboa"
+    ]
+  },
+  "guerreiam": {
+    "refs": [
+      "1 Samuel 28:15",
+      "Tiago 4:1"
+    ],
+    "freq": 2,
+    "forms": [
+      "guerreiam"
+    ]
+  },
+  "guiarei": {
+    "refs": [
+      "1 Samuel 30:15",
+      "Isaías 42:16",
+      "Isaías 57:18"
+    ],
+    "freq": 3,
+    "forms": [
+      "guiarei"
+    ]
+  },
+  "gia": {
+    "refs": [
+      "2 Samuel 2:24"
+    ],
+    "freq": 1,
+    "forms": [
+      "gia"
+    ]
+  },
+  "grilhão": {
+    "refs": [
+      "2 Samuel 3:34",
+      "Isaías 28:22",
+      "Isaías 45:14",
+      "Jeremias 27:2",
+      "Jeremias 30:8",
+      "Jó 36:8",
+      "Lamentações 3:7",
+      "Lucas 8:29",
+      "Marcos 5:4",
+      "Naum 3:10",
+      "Salmos 105:18",
+      "Salmos 149:8",
+      "Salmos 68:6"
+    ],
+    "freq": 13,
+    "forms": [
+      "grilhões"
+    ]
+  },
+  "gitaim": {
+    "refs": [
+      "2 Samuel 4:3",
+      "Neemias 11:33"
+    ],
+    "freq": 2,
+    "forms": [
+      "gitaim"
+    ]
+  },
+  "guiavam": {
+    "refs": [
+      "1 Crônicas 13:7",
+      "2 Samuel 6:3"
+    ],
+    "freq": 2,
+    "forms": [
+      "guiavam"
+    ]
+  },
+  "ganhou": {
+    "refs": [
+      "1 Crônicas 11:5",
+      "2 Samuel 8:13"
+    ],
+    "freq": 2,
+    "forms": [
+      "ganhou"
+    ]
+  },
+  "gravemente": {
+    "refs": [
+      "1 Crônicas 21:8",
+      "1 Reis 22:34",
+      "2 Crônicas 18:33",
+      "2 Crônicas 24:25",
+      "2 Crônicas 35:23",
+      "2 Samuel 12:15",
+      "Ezequiel 14:13",
+      "Ezequiel 22:29",
+      "Jeremias 14:17",
+      "Lamentações 1:20",
+      "Lamentações 1:8",
+      "Salmos 68:21"
+    ],
+    "freq": 12,
+    "forms": [
+      "gravemente"
+    ]
+  },
+  "gilonita": {
+    "refs": [
+      "2 Samuel 15:12",
+      "2 Samuel 23:34"
+    ],
+    "freq": 2,
+    "forms": [
+      "gilonita"
+    ]
+  },
+  "guardarem": {
+    "refs": [
+      "1 Reis 2:4",
+      "2 Reis 23:3",
+      "2 Samuel 15:16",
+      "2 Samuel 16:21",
+      "2 Samuel 20:3",
+      "Isaías 56:6",
+      "Provérbios 6:24",
+      "Provérbios 8:32",
+      "Salmos 132:12",
+      "Salmos 89:31",
+      "Salmos 91:11"
+    ],
+    "freq": 11,
+    "forms": [
+      "guardarem"
+    ]
+  },
+  "gibeonita": {
+    "refs": [
+      "1 Crônicas 12:4",
+      "2 Samuel 21:1",
+      "2 Samuel 21:2",
+      "2 Samuel 21:3",
+      "2 Samuel 21:4",
+      "2 Samuel 21:9",
+      "Neemias 3:7"
+    ],
+    "freq": 7,
+    "forms": [
+      "gibeonita",
+      "gibeonitas"
+    ]
+  },
+  "gobe": {
+    "refs": [
+      "2 Samuel 21:18",
+      "2 Samuel 21:19"
+    ],
+    "freq": 2,
+    "forms": [
+      "gobe"
+    ]
+  },
+  "guardei": {
+    "refs": [
+      "2 Coríntios 11:9",
+      "2 Samuel 22:22",
+      "2 Samuel 22:24",
+      "2 Timóteo 4:7",
+      "Cânticos 1:6",
+      "Cânticos 7:13",
+      "Daniel 7:28",
+      "Jó 23:11",
+      "Jó 23:12",
+      "Lucas 19:20",
+      "Marcos 10:20",
+      "Salmos 119:22",
+      "Salmos 119:56",
+      "Salmos 17:4",
+      "Salmos 18:21",
+      "Salmos 18:23",
+      "Salmos 32:3"
+    ],
+    "freq": 17,
+    "forms": [
+      "guardei"
+    ]
+  },
+  "garebe": {
+    "refs": [
+      "1 Crônicas 11:40",
+      "2 Samuel 23:38",
+      "Jeremias 31:39"
+    ],
+    "freq": 3,
+    "forms": [
+      "garebe"
+    ]
+  },
+  "gaita": {
+    "refs": [
+      "1 Reis 1:40",
+      "Daniel 3:10",
+      "Daniel 3:15",
+      "Daniel 3:5",
+      "Isaías 5:12"
+    ],
+    "freq": 5,
+    "forms": [
+      "gaita",
+      "gaitas"
+    ]
+  },
+  "ginete": {
+    "refs": [
+      "1 Reis 4:28",
+      "Ester 8:10",
+      "Ester 8:14"
+    ],
+    "freq": 3,
+    "forms": [
+      "ginetes"
+    ]
+  },
+  "giblita": {
+    "refs": [
+      "1 Reis 5:18"
+    ],
+    "freq": 1,
+    "forms": [
+      "giblitas"
+    ]
+  },
+  "gelósia": {
+    "refs": [
+      "1 Reis 6:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "gelósias"
+    ]
+  },
+  "grossa": {
+    "refs": [
+      "1 Reis 7:6",
+      "Ezequiel 41:25",
+      "Ezequiel 41:26",
+      "Jó 37:11",
+      "Jó 37:16"
+    ],
+    "freq": 5,
+    "forms": [
+      "grossa",
+      "grossas"
+    ]
+  },
+  "globular": {
+    "refs": [
+      "1 Reis 7:20"
+    ],
+    "freq": 1,
+    "forms": [
+      "globular"
+    ]
+  },
+  "grossura": {
+    "refs": [
+      "1 Reis 7:26",
+      "2 Crônicas 4:5",
+      "Ezequiel 41:9"
+    ],
+    "freq": 3,
+    "forms": [
+      "grossura"
+    ]
+  },
+  "globo": {
+    "refs": [
+      "1 Reis 7:41",
+      "1 Reis 7:42",
+      "2 Crônicas 4:12",
+      "2 Crônicas 4:13"
+    ],
+    "freq": 4,
+    "forms": [
+      "globos"
+    ]
+  },
+  "generosidade": {
+    "refs": [
+      "1 Reis 10:13",
+      "2 Coríntios 8:2",
+      "Ester 1:7",
+      "Ester 2:18"
+    ],
+    "freq": 4,
+    "forms": [
+      "generosidade"
+    ]
+  },
+  "genubate": {
+    "refs": [
+      "1 Reis 11:20"
+    ],
+    "freq": 1,
+    "forms": [
+      "genubate"
+    ]
+  },
+  "grosso": {
+    "refs": [
+      "1 Reis 12:10",
+      "2 Crônicas 10:10",
+      "Jó 15:26"
+    ],
+    "freq": 3,
+    "forms": [
+      "grosso",
+      "grossos"
+    ]
+  },
+  "guerreou": {
+    "refs": [
+      "1 Reis 14:19",
+      "1 Reis 22:46",
+      "2 Crônicas 26:6",
+      "2 Crônicas 27:5",
+      "Isaías 20:1"
+    ],
+    "freq": 5,
+    "forms": [
+      "guerreou"
+    ]
+  },
+  "guardavam": {
+    "refs": [
+      "1 Reis 14:27",
+      "2 Crônicas 12:10",
+      "2 Crônicas 34:9",
+      "2 Reis 12:9",
+      "ATOS 12:6",
+      "ATOS 9:24",
+      "Esdras 6:1",
+      "Lucas 2:8",
+      "Lucas 8:34",
+      "Mateus 27:36",
+      "Mateus 27:54"
+    ],
+    "freq": 11,
+    "forms": [
+      "guardavam"
+    ]
+  },
+  "ginate": {
+    "refs": [
+      "1 Reis 16:21",
+      "1 Reis 16:22"
+    ],
+    "freq": 2,
+    "forms": [
+      "ginate"
+    ]
+  },
+  "gabe": {
+    "refs": [
+      "1 Reis 20:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "gabe"
+    ]
+  },
+  "governa": {
+    "refs": [
+      "1 Reis 21:7",
+      "Lucas 22:26",
+      "Tiago 3:4"
+    ],
+    "freq": 3,
+    "forms": [
+      "governa",
+      "governas"
+    ]
+  },
+  "geazi": {
+    "refs": [
+      "2 Reis 4:12",
+      "2 Reis 4:13",
+      "2 Reis 4:14",
+      "2 Reis 4:25",
+      "2 Reis 4:27",
+      "2 Reis 4:29",
+      "2 Reis 4:31",
+      "2 Reis 4:36",
+      "2 Reis 5:20",
+      "2 Reis 5:21",
+      "2 Reis 5:25",
+      "2 Reis 8:4",
+      "2 Reis 8:5"
+    ],
+    "freq": 13,
+    "forms": [
+      "geazi"
+    ]
+  },
+  "grávida": {
+    "refs": [
+      "2 Reis 15:16",
+      "2 Reis 8:12",
+      "Amós 1:13",
+      "Jeremias 31:8",
+      "Lucas 21:23",
+      "Marcos 13:17",
+      "Mateus 24:19",
+      "Oséias 13:16"
+    ],
+    "freq": 8,
+    "forms": [
+      "grávidas"
+    ]
+  },
+  "gur": {
+    "refs": [
+      "2 Crônicas 26:7",
+      "2 Reis 9:27"
+    ],
+    "freq": 2,
+    "forms": [
+      "gur"
+    ]
+  },
+  "gloria": {
+    "refs": [
+      "1 Coríntios 1:31",
+      "1 Coríntios 4:7",
+      "2 Coríntios 10:17",
+      "2 Reis 14:10",
+      "Jeremias 49:4",
+      "Romanos 2:17",
+      "Romanos 2:23",
+      "Salmos 10:3",
+      "Salmos 52:1",
+      "Tiago 3:5"
+    ],
+    "freq": 10,
+    "forms": [
+      "gloria",
+      "glorias"
+    ]
+  },
+  "gozã": {
+    "refs": [
+      "1 Crônicas 5:26",
+      "2 Reis 17:6",
+      "2 Reis 18:11",
+      "2 Reis 19:12",
+      "Isaías 37:12"
+    ],
+    "freq": 5,
+    "forms": [
+      "gozã"
+    ]
+  },
+  "grau": {
+    "refs": [
+      "2 Reis 20:10",
+      "2 Reis 20:11",
+      "2 Reis 20:9",
+      "Isaías 38:8"
+    ],
+    "freq": 4,
+    "forms": [
+      "graus"
+    ]
+  },
+  "gerare": {
+    "refs": [
+      "2 Reis 20:18",
+      "Isaías 39:7"
+    ],
+    "freq": 2,
+    "forms": [
+      "gerares"
+    ]
+  },
+  "gedalia": {
+    "refs": [
+      "1 Crônicas 25:3",
+      "1 Crônicas 25:9",
+      "2 Reis 25:22",
+      "2 Reis 25:23",
+      "2 Reis 25:24",
+      "2 Reis 25:25",
+      "Esdras 10:18",
+      "Jeremias 38:1",
+      "Jeremias 39:14",
+      "Jeremias 40:11",
+      "Jeremias 40:12",
+      "Jeremias 40:13",
+      "Jeremias 40:14",
+      "Jeremias 40:15",
+      "Jeremias 40:16",
+      "Jeremias 40:5",
+      "Jeremias 40:6",
+      "Jeremias 40:7",
+      "Jeremias 40:8",
+      "Jeremias 40:9",
+      "Jeremias 41:1",
+      "Jeremias 41:10",
+      "Jeremias 41:16",
+      "Jeremias 41:18",
+      "Jeremias 41:2",
+      "Jeremias 41:3",
+      "Jeremias 41:4",
+      "Jeremias 41:6",
+      "Jeremias 41:9",
+      "Jeremias 43:6",
+      "Sofonias 1:1"
+    ],
+    "freq": 31,
+    "forms": [
+      "gedalias"
+    ]
+  },
+  "gazez": {
+    "refs": [
+      "1 Crônicas 2:46"
+    ],
+    "freq": 1,
+    "forms": [
+      "gazez"
+    ]
+  },
+  "gesã": {
+    "refs": [
+      "1 Crônicas 2:47"
+    ],
+    "freq": 1,
+    "forms": [
+      "gesã"
+    ]
+  },
+  "gader": {
+    "refs": [
+      "1 Crônicas 2:51"
+    ],
+    "freq": 1,
+    "forms": [
+      "gader"
+    ]
+  },
+  "garmita": {
+    "refs": [
+      "1 Crônicas 4:19"
+    ],
+    "freq": 1,
+    "forms": [
+      "garmita"
+    ]
+  },
+  "genealogia": {
+    "refs": [
+      "1 Crônicas 4:33",
+      "1 Crônicas 5:1",
+      "1 Crônicas 5:17",
+      "1 Crônicas 5:7",
+      "1 Crônicas 7:40",
+      "1 Crônicas 7:5",
+      "1 Crônicas 7:7",
+      "1 Crônicas 7:9",
+      "1 Crônicas 9:1",
+      "1 Crônicas 9:22",
+      "1 Timóteo 1:4",
+      "2 Crônicas 12:15",
+      "2 Crônicas 31:16",
+      "2 Crônicas 31:18",
+      "Esdras 2:62",
+      "Esdras 8:1",
+      "Esdras 8:3",
+      "Hebreus 7:3",
+      "Hebreus 7:6",
+      "Neemias 7:5",
+      "Tito 3:9"
+    ],
+    "freq": 21,
+    "forms": [
+      "genealogia",
+      "genealogias"
+    ]
+  },
+  "gogue": {
+    "refs": [
+      "1 Crônicas 5:4",
+      "Apocalipse 20:8",
+      "Ezequiel 38:14",
+      "Ezequiel 38:16",
+      "Ezequiel 38:18",
+      "Ezequiel 38:2",
+      "Ezequiel 38:3",
+      "Ezequiel 39:1",
+      "Ezequiel 39:11",
+      "Ezequiel 39:15"
+    ],
+    "freq": 10,
+    "forms": [
+      "gogue"
+    ]
+  },
+  "galal": {
+    "refs": [
+      "1 Crônicas 9:15",
+      "1 Crônicas 9:16",
+      "Neemias 11:17"
+    ],
+    "freq": 3,
+    "forms": [
+      "galal"
+    ]
+  },
+  "gizonita": {
+    "refs": [
+      "1 Crônicas 11:34"
+    ],
+    "freq": 1,
+    "forms": [
+      "gizonita"
+    ]
+  },
+  "gibeatita": {
+    "refs": [
+      "1 Crônicas 12:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "gibeatita"
+    ]
+  },
+  "gederatita": {
+    "refs": [
+      "1 Crônicas 12:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "gederatita"
+    ]
+  },
+  "gloriai": {
+    "refs": [
+      "1 Crônicas 16:10",
+      "Salmos 105:3"
+    ],
+    "freq": 2,
+    "forms": [
+      "gloriai"
+    ]
+  },
+  "gloriemo": {
+    "refs": [
+      "1 Crônicas 16:35",
+      "Salmos 106:47"
+    ],
+    "freq": 2,
+    "forms": [
+      "gloriemos"
+    ]
+  },
+  "gamul": {
+    "refs": [
+      "1 Crônicas 24:17",
+      "Jeremias 48:23"
+    ],
+    "freq": 2,
+    "forms": [
+      "gamul"
+    ]
+  },
+  "gidalti": {
+    "refs": [
+      "1 Crônicas 25:29",
+      "1 Crônicas 25:4"
+    ],
+    "freq": 2,
+    "forms": [
+      "gidalti"
+    ]
+  },
+  "gederita": {
+    "refs": [
+      "1 Crônicas 27:28"
+    ],
+    "freq": 1,
+    "forms": [
+      "gederita"
+    ]
+  },
+  "general": {
+    "refs": [
+      "1 Crônicas 27:34"
+    ],
+    "freq": 1,
+    "forms": [
+      "general"
+    ]
+  },
+  "gozo": {
+    "refs": [
+      "1 Crônicas 29:22",
+      "1 João 1:4",
+      "1 Pedro 1:8",
+      "1 Tessalonicenses 1:6",
+      "1 Tessalonicenses 2:19",
+      "1 Tessalonicenses 2:20",
+      "1 Tessalonicenses 3:9",
+      "2 Coríntios 1:24",
+      "2 Coríntios 7:4",
+      "2 Coríntios 8:2",
+      "2 João 1:12",
+      "2 Timóteo 1:4",
+      "3 João 1:4",
+      "ATOS 12:14",
+      "Colossenses 1:11",
+      "Ester 8:16",
+      "Ester 8:17",
+      "Filemom 1:7",
+      "Filipenses 1:25",
+      "Filipenses 2:2",
+      "Filipenses 2:29",
+      "Gálatas 5:22",
+      "Hebreus 11:25",
+      "Hebreus 12:11",
+      "Hebreus 12:2",
+      "Isaías 22:13",
+      "Isaías 24:11",
+      "Isaías 29:19",
+      "Isaías 35:10",
+      "Isaías 51:11",
+      "Isaías 51:3",
+      "Isaías 60:15",
+      "Isaías 61:3",
+      "Isaías 65:18",
+      "Jeremias 15:16",
+      "Jeremias 16:9",
+      "Jeremias 25:10",
+      "Jeremias 33:11",
+      "Jeremias 33:9",
+      "Jeremias 7:34",
+      "João 15:11",
+      "João 16:24",
+      "João 3:29",
+      "Jó 20:18",
+      "Lamentações 2:15",
+      "Lamentações 5:15",
+      "Mateus 13:44",
+      "Mateus 25:21",
+      "Mateus 25:23",
+      "Oséias 2:11",
+      "Romanos 15:13",
+      "Salmos 119:111",
+      "Salmos 21:6",
+      "Tiago 1:2",
+      "Tiago 4:9",
+      "Zacarias 8:19"
+    ],
+    "freq": 56,
+    "forms": [
+      "gozo"
+    ]
+  },
+  "gritaram": {
+    "refs": [
+      "2 Crônicas 13:15",
+      "ATOS 7:57",
+      "Mateus 14:26"
+    ],
+    "freq": 3,
+    "forms": [
+      "gritaram"
+    ]
+  },
+  "guerrearam": {
+    "refs": [
+      "2 Crônicas 17:10",
+      "Zacarias 14:12"
+    ],
+    "freq": 2,
+    "forms": [
+      "guerrearam"
+    ]
+  },
+  "gloriare": {
+    "refs": [
+      "2 Crônicas 25:19",
+      "Romanos 11:18"
+    ],
+    "freq": 2,
+    "forms": [
+      "gloriares"
+    ]
+  },
+  "ginzo": {
+    "refs": [
+      "2 Crônicas 28:18"
+    ],
+    "freq": 1,
+    "forms": [
+      "ginzo"
+    ]
+  },
+  "gancho": {
+    "refs": [
+      "2 Crônicas 33:11",
+      "Amós 4:2",
+      "Ezequiel 40:43",
+      "Jó 41:2",
+      "Jó 41:7"
+    ],
+    "freq": 5,
+    "forms": [
+      "gancho",
+      "ganchos"
+    ]
+  },
+  "gibar": {
+    "refs": [
+      "Esdras 2:20"
+    ],
+    "freq": 1,
+    "forms": [
+      "gibar"
+    ]
+  },
+  "gidel": {
+    "refs": [
+      "Esdras 2:47",
+      "Esdras 2:56",
+      "Neemias 7:49",
+      "Neemias 7:58"
+    ],
+    "freq": 4,
+    "forms": [
+      "gidel"
+    ]
+  },
+  "gaar": {
+    "refs": [
+      "Esdras 2:47",
+      "Neemias 7:49"
+    ],
+    "freq": 2,
+    "forms": [
+      "gaar"
+    ]
+  },
+  "gazão": {
+    "refs": [
+      "Esdras 2:48",
+      "Neemias 7:51"
+    ],
+    "freq": 2,
+    "forms": [
+      "gazão"
+    ]
+  },
+  "guardamo": {
+    "refs": [
+      "1 João 3:22",
+      "1 João 5:2",
+      "Neemias 1:7"
+    ],
+    "freq": 3,
+    "forms": [
+      "guardamos"
+    ]
+  },
+  "gesém": {
+    "refs": [
+      "Neemias 2:19",
+      "Neemias 6:1",
+      "Neemias 6:2"
+    ],
+    "freq": 3,
+    "forms": [
+      "gesém"
+    ]
+  },
+  "gasmu": {
+    "refs": [
+      "Neemias 6:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "gasmu"
+    ]
+  },
+  "genealógico": {
+    "refs": [
+      "Neemias 7:64"
+    ],
+    "freq": 1,
+    "forms": [
+      "genealógicos"
+    ]
+  },
+  "ginetom": {
+    "refs": [
+      "Neemias 10:6",
+      "Neemias 12:16"
+    ],
+    "freq": 2,
+    "forms": [
+      "ginetom"
+    ]
+  },
+  "guardariam": {
+    "refs": [
+      "Neemias 10:29"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardariam"
+    ]
+  },
+  "gabai": {
+    "refs": [
+      "Neemias 11:8"
+    ],
+    "freq": 1,
+    "forms": [
+      "gabai"
+    ]
+  },
+  "gedolim": {
+    "refs": [
+      "Neemias 11:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gedolim"
+    ]
+  },
+  "gispa": {
+    "refs": [
+      "Neemias 11:21"
+    ],
+    "freq": 1,
+    "forms": [
+      "gispa"
+    ]
+  },
+  "ginetoi": {
+    "refs": [
+      "Neemias 12:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "ginetoi"
+    ]
+  },
+  "gilalai": {
+    "refs": [
+      "Neemias 12:36"
+    ],
+    "freq": 1,
+    "forms": [
+      "gilalai"
+    ]
+  },
+  "guardado": {
+    "refs": [
+      "1 Pedro 1:5",
+      "Ester 9:28",
+      "Gálatas 3:23"
+    ],
+    "freq": 3,
+    "forms": [
+      "guardados"
+    ]
+  },
+  "gemido": {
+    "refs": [
+      "ATOS 7:34",
+      "Amós 8:3",
+      "Jó 3:24",
+      "Malaquias 2:13",
+      "Romanos 8:26"
+    ],
+    "freq": 5,
+    "forms": [
+      "gemidos"
+    ]
+  },
+  "gretada": {
+    "refs": [
+      "Jó 7:5"
+    ],
+    "freq": 1,
+    "forms": [
+      "gretada"
+    ]
+  },
+  "gastam": {
+    "refs": [
+      "Isaías 46:6",
+      "Jó 14:19",
+      "Jó 21:13"
+    ],
+    "freq": 3,
+    "forms": [
+      "gastam"
+    ]
+  },
+  "gravada": {
+    "refs": [
+      "Jeremias 2:22",
+      "Jó 19:23"
+    ],
+    "freq": 2,
+    "forms": [
+      "gravada",
+      "gravadas"
+    ]
+  },
+  "gemem": {
+    "refs": [
+      "Ezequiel 9:4",
+      "Jó 24:12"
+    ],
+    "freq": 2,
+    "forms": [
+      "gemem"
+    ]
+  },
+  "gostosamente": {
+    "refs": [
+      "Jó 24:20"
+    ],
+    "freq": 1,
+    "forms": [
+      "gostosamente"
+    ]
+  },
+  "gritavam": {
+    "refs": [
+      "Jó 30:5",
+      "Lamentações 4:15"
+    ],
+    "freq": 2,
+    "forms": [
+      "gritavam"
+    ]
+  },
+  "gola": {
+    "refs": [
+      "Jó 30:18"
+    ],
+    "freq": 1,
+    "forms": [
+      "gola"
+    ]
+  },
+  "gloriosa": {
+    "refs": [
+      "Daniel 11:16",
+      "Daniel 11:41",
+      "Efésios 5:27",
+      "Isaías 28:5",
+      "Isaías 63:15",
+      "Isaías 64:11",
+      "Jó 31:26",
+      "Lucas 13:17",
+      "Salmos 145:5",
+      "Salmos 87:3"
+    ],
+    "freq": 10,
+    "forms": [
+      "gloriosa",
+      "gloriosas"
+    ]
+  },
+  "gotejam": {
+    "refs": [
+      "Jó 36:28"
+    ],
+    "freq": 1,
+    "forms": [
+      "gotejam"
+    ]
+  },
+  "garoa": {
+    "refs": [
+      "Jó 37:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "garoa"
+    ]
+  },
+  "gelo": {
+    "refs": [
+      "Jó 38:29",
+      "Salmos 147:17"
+    ],
+    "freq": 2,
+    "forms": [
+      "gelo"
+    ]
+  },
+  "gritam": {
+    "refs": [
+      "Isaías 21:11",
+      "Jeremias 48:39",
+      "Jó 38:41"
+    ],
+    "freq": 3,
+    "forms": [
+      "gritam"
+    ]
+  },
+  "gerei": {
+    "refs": [
+      "1 Coríntios 4:15",
+      "ATOS 13:33",
+      "Filemom 1:10",
+      "Hebreus 1:5",
+      "Hebreus 5:5",
+      "Salmos 2:7"
+    ],
+    "freq": 6,
+    "forms": [
+      "gerei"
+    ]
+  },
+  "garganta": {
+    "refs": [
+      "Jeremias 2:25",
+      "Provérbios 23:2",
+      "Romanos 3:13",
+      "Salmos 115:7",
+      "Salmos 149:6",
+      "Salmos 5:9",
+      "Salmos 69:3"
+    ],
+    "freq": 7,
+    "forms": [
+      "garganta"
+    ]
+  },
+  "gloriem": {
+    "refs": [
+      "Salmos 5:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "gloriem"
+    ]
+  },
+  "glorificai": {
+    "refs": [
+      "1 Coríntios 6:20",
+      "Isaías 24:15",
+      "Salmos 22:23"
+    ],
+    "freq": 3,
+    "forms": [
+      "glorificai"
+    ]
+  },
+  "guiará": {
+    "refs": [
+      "Isaías 11:6",
+      "Isaías 40:11",
+      "Isaías 49:10",
+      "Isaías 58:11",
+      "João 16:13",
+      "Provérbios 11:3",
+      "Provérbios 6:22",
+      "Salmos 108:10",
+      "Salmos 139:10",
+      "Salmos 25:9",
+      "Salmos 60:9"
+    ],
+    "freq": 11,
+    "forms": [
+      "guiará"
+    ]
+  },
+  "gasta": {
+    "refs": [
+      "Eclesiastes 6:12",
+      "Salmos 31:10"
+    ],
+    "freq": 2,
+    "forms": [
+      "gasta"
+    ]
+  },
+  "gloriará": {
+    "refs": [
+      "Isaías 41:16",
+      "Isaías 45:25",
+      "Salmos 34:2",
+      "Salmos 63:11"
+    ],
+    "freq": 4,
+    "forms": [
+      "gloriará",
+      "gloriarás"
+    ]
+  },
+  "guiem": {
+    "refs": [
+      "Salmos 43:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "guiem"
+    ]
+  },
+  "gloriamo": {
+    "refs": [
+      "2 Tessalonicenses 1:4",
+      "Filipenses 3:3",
+      "Romanos 5:11",
+      "Romanos 5:2",
+      "Romanos 5:3",
+      "Salmos 44:8"
+    ],
+    "freq": 6,
+    "forms": [
+      "gloriamos"
+    ]
+  },
+  "gloriam": {
+    "refs": [
+      "2 Coríntios 11:12",
+      "2 Coríntios 11:18",
+      "2 Coríntios 5:12",
+      "Salmos 49:6",
+      "Salmos 97:7"
+    ],
+    "freq": 5,
+    "forms": [
+      "gloriam"
+    ]
+  },
+  "glorificará": {
+    "refs": [
+      "Isaías 25:3",
+      "Isaías 38:18",
+      "João 13:32",
+      "João 16:14",
+      "Salmos 50:15",
+      "Salmos 50:23"
+    ],
+    "freq": 6,
+    "forms": [
+      "glorificará",
+      "glorificarás"
+    ]
+  },
+  "gozem": {
+    "refs": [
+      "Salmos 51:8"
+    ],
+    "freq": 1,
+    "forms": [
+      "gozem"
+    ]
+  },
+  "ganido": {
+    "refs": [
+      "Salmos 59:14",
+      "Salmos 59:6"
+    ],
+    "freq": 2,
+    "forms": [
+      "ganidos"
+    ]
+  },
+  "gloriarão": {
+    "refs": [
+      "Jeremias 4:2",
+      "Salmos 64:10",
+      "Salmos 94:4"
+    ],
+    "freq": 3,
+    "forms": [
+      "gloriarão"
+    ]
+  },
+  "gorduroso": {
+    "refs": [
+      "Salmos 66:15"
+    ],
+    "freq": 1,
+    "forms": [
+      "gordurosos"
+    ]
+  },
+  "glorificamo": {
+    "refs": [
+      "Salmos 75:1"
+    ],
+    "freq": 1,
+    "forms": [
+      "glorificamos"
+    ]
+  },
+  "gebal": {
+    "refs": [
+      "Ezequiel 27:9",
+      "Salmos 83:7"
+    ],
+    "freq": 2,
+    "forms": [
+      "gebal"
+    ]
+  },
+  "glorificarão": {
+    "refs": [
+      "Salmos 86:9"
+    ],
+    "freq": 1,
+    "forms": [
+      "glorificarão"
+    ]
+  },
+  "glorificarei": {
+    "refs": [
+      "Isaías 60:13",
+      "Isaías 60:7",
+      "João 12:28",
+      "Salmos 86:12",
+      "Salmos 91:15"
+    ],
+    "freq": 5,
+    "forms": [
+      "glorificarei"
+    ]
+  },
+  "gratidão": {
+    "refs": [
+      "Salmos 100:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "gratidão"
+    ]
+  },
+  "glorifiquem": {
+    "refs": [
+      "1 Pedro 2:12",
+      "Mateus 5:16",
+      "Romanos 15:9",
+      "Salmos 107:32"
+    ],
+    "freq": 4,
+    "forms": [
+      "glorifiquem"
+    ]
+  },
+  "guardo": {
+    "refs": [
+      "Isaías 27:3",
+      "João 8:55",
+      "Salmos 119:100"
+    ],
+    "freq": 3,
+    "forms": [
+      "guardo"
+    ]
+  },
+  "guie": {
+    "refs": [
+      "Isaías 51:18",
+      "Salmos 143:10"
+    ],
+    "freq": 2,
+    "forms": [
+      "guie"
+    ]
+  },
+  "gracioso": {
+    "refs": [
+      "Provérbios 1:9"
+    ],
+    "freq": 1,
+    "forms": [
+      "gracioso"
+    ]
+  },
+  "gume": {
+    "refs": [
+      "Hebreus 4:12",
+      "Provérbios 5:4"
+    ],
+    "freq": 2,
+    "forms": [
+      "gumes"
+    ]
+  },
+  "gemer": {
+    "refs": [
+      "Ezequiel 7:16",
+      "Hebreus 13:17",
+      "Lamentações 2:8",
+      "Naum 2:7",
+      "Provérbios 5:11"
+    ],
+    "freq": 5,
+    "forms": [
+      "gemendo",
+      "gemer"
+    ]
+  },
+  "graciosa": {
+    "refs": [
+      "Cânticos 2:14",
+      "Naum 3:4",
+      "Provérbios 11:16",
+      "Provérbios 5:19"
+    ],
+    "freq": 4,
+    "forms": [
+      "graciosa"
+    ]
+  },
+  "governam": {
+    "refs": [
+      "1 Timóteo 5:17",
+      "Provérbios 8:16"
+    ],
+    "freq": 2,
+    "forms": [
+      "governam"
+    ]
+  },
+  "generosa": {
+    "refs": [
+      "Provérbios 11:25"
+    ],
+    "freq": 1,
+    "forms": [
+      "generosa"
+    ]
+  },
+  "ganha": {
+    "refs": [
+      "Provérbios 11:30"
+    ],
+    "freq": 1,
+    "forms": [
+      "ganha"
+    ]
+  },
+  "galardoar": {
+    "refs": [
+      "Provérbios 13:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "galardoado"
+    ]
+  },
+  "galardoado": {
+    "refs": [
+      "Provérbios 13:21"
+    ],
+    "freq": 1,
+    "forms": [
+      "galardoados"
+    ]
+  },
+  "granjeiam": {
+    "refs": [
+      "Provérbios 19:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "granjeiam"
+    ]
+  },
+  "gozar": {
+    "refs": [
+      "2 Timóteo 2:6",
+      "Eclesiastes 2:25",
+      "Eclesiastes 5:18",
+      "Eclesiastes 5:19",
+      "Provérbios 19:10",
+      "Romanos 15:24"
+    ],
+    "freq": 6,
+    "forms": [
+      "gozado",
+      "gozar"
+    ]
+  },
+  "gotejar": {
+    "refs": [
+      "Cânticos 5:13",
+      "Provérbios 19:13",
+      "Provérbios 27:15"
+    ],
+    "freq": 3,
+    "forms": [
+      "gotejando",
+      "gotejar"
+    ]
+  },
+  "gabará": {
+    "refs": [
+      "Provérbios 20:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gabará"
+    ]
+  },
+  "gostosa": {
+    "refs": [
+      "Apocalipse 18:14",
+      "Provérbios 23:6"
+    ],
+    "freq": 2,
+    "forms": [
+      "gostosas"
+    ]
+  },
+  "gargantilha": {
+    "refs": [
+      "Provérbios 25:12"
+    ],
+    "freq": 1,
+    "forms": [
+      "gargantilhas"
+    ]
+  },
+  "gira": {
+    "refs": [
+      "Provérbios 26:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gira"
+    ]
+  },
+  "gonzo": {
+    "refs": [
+      "Provérbios 26:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gonzos"
+    ]
+  },
+  "ganância": {
+    "refs": [
+      "1 Pedro 5:2",
+      "1 Timóteo 3:3",
+      "1 Timóteo 3:8",
+      "Isaías 23:17",
+      "Isaías 23:18",
+      "Isaías 56:11",
+      "Provérbios 28:8",
+      "Tito 1:11",
+      "Tito 1:7"
+    ],
+    "freq": 9,
+    "forms": [
+      "ganância"
+    ]
+  },
+  "gozará": {
+    "refs": [
+      "Provérbios 28:23"
+    ],
+    "freq": 1,
+    "forms": [
+      "gozará"
+    ]
+  },
+  "geme": {
+    "refs": [
+      "Ezequiel 21:12",
+      "Ezequiel 24:17",
+      "Ezequiel 30:24",
+      "Isaías 33:9",
+      "Joel 1:18",
+      "Provérbios 29:2",
+      "Romanos 8:22",
+      "Zacarias 11:2"
+    ],
+    "freq": 8,
+    "forms": [
+      "geme"
+    ]
+  },
+  "galgo": {
+    "refs": [
+      "Provérbios 30:31"
+    ],
+    "freq": 1,
+    "forms": [
+      "galgo"
+    ]
+  },
+  "giro": {
+    "refs": [
+      "Eclesiastes 1:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "giro"
+    ]
+  },
+  "girar": {
+    "refs": [
+      "Eclesiastes 1:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "girando"
+    ]
+  },
+  "goza": {
+    "refs": [
+      "Eclesiastes 2:1",
+      "Eclesiastes 7:14",
+      "Eclesiastes 9:9"
+    ],
+    "freq": 3,
+    "forms": [
+      "goza"
+    ]
+  },
+  "goze": {
+    "refs": [
+      "Eclesiastes 2:24",
+      "Eclesiastes 3:13"
+    ],
+    "freq": 2,
+    "forms": [
+      "goze"
+    ]
+  },
+  "gozasse": {
+    "refs": [
+      "Eclesiastes 6:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "gozasse"
+    ]
+  },
+  "goteja": {
+    "refs": [
+      "Eclesiastes 10:18"
+    ],
+    "freq": 1,
+    "forms": [
+      "goteja"
+    ]
+  },
+  "gotejavam": {
+    "refs": [
+      "Cânticos 5:5"
+    ],
+    "freq": 1,
+    "forms": [
+      "gotejavam"
+    ]
+  },
+  "galeria": {
+    "refs": [
+      "Cânticos 7:5",
+      "Ezequiel 41:15",
+      "Ezequiel 41:16",
+      "Ezequiel 42:3",
+      "Ezequiel 42:5"
+    ],
+    "freq": 5,
+    "forms": [
+      "galeria",
+      "galerias"
+    ]
+  },
+  "gênero": {
+    "refs": [
+      "Cânticos 7:13",
+      "Jeremias 15:3",
+      "Naum 2:9"
+    ],
+    "freq": 3,
+    "forms": [
+      "gênero",
+      "gêneros"
+    ]
+  },
+  "governarão": {
+    "refs": [
+      "Isaías 3:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "governarão"
+    ]
+  },
+  "guiam": {
+    "refs": [
+      "Isaías 3:12"
+    ],
+    "freq": 1,
+    "forms": [
+      "guiam"
+    ]
+  },
+  "gorro": {
+    "refs": [
+      "Ezequiel 44:18",
+      "Isaías 3:20"
+    ],
+    "freq": 2,
+    "forms": [
+      "gorros"
+    ]
+  },
+  "gemerão": {
+    "refs": [
+      "Isaías 19:8",
+      "Isaías 3:26",
+      "Jeremias 51:52"
+    ],
+    "freq": 3,
+    "forms": [
+      "gemerão"
+    ]
+  },
+  "guiado": {
+    "refs": [
+      "1 Coríntios 12:2",
+      "Gálatas 5:18",
+      "Isaías 55:12",
+      "Isaías 9:16",
+      "Romanos 8:14"
+    ],
+    "freq": 5,
+    "forms": [
+      "guiados"
+    ]
+  },
+  "gloriar": {
+    "refs": [
+      "1 Coríntios 15:31",
+      "1 Coríntios 9:16",
+      "2 Coríntios 10:15",
+      "2 Coríntios 11:17",
+      "2 Coríntios 11:30",
+      "2 Coríntios 12:1",
+      "2 Coríntios 12:11",
+      "2 Coríntios 12:6",
+      "Filipenses 2:16",
+      "Gálatas 6:14",
+      "Isaías 10:15",
+      "Jeremias 9:24",
+      "Romanos 4:2"
+    ],
+    "freq": 13,
+    "forms": [
+      "gloriando",
+      "gloriar"
+    ]
+  },
+  "gebim": {
+    "refs": [
+      "Isaías 10:31"
+    ],
+    "freq": 1,
+    "forms": [
+      "gebim"
+    ]
+  },
+  "gritaria": {
+    "refs": [
+      "Efésios 4:31",
+      "Ezequiel 27:28",
+      "Isaías 13:4",
+      "Jeremias 51:14"
+    ],
+    "freq": 4,
+    "forms": [
+      "gritaria"
+    ]
+  },
+  "grita": {
+    "refs": [
+      "Ezequiel 21:12",
+      "Isaías 14:31",
+      "Jeremias 30:15"
+    ],
+    "freq": 3,
+    "forms": [
+      "grita",
+      "gritas"
+    ]
+  },
+  "gemeral": {
+    "refs": [
+      "Ezequiel 24:23",
+      "Isaías 16:7"
+    ],
+    "freq": 2,
+    "forms": [
+      "gemereis"
+    ]
+  },
+  "gozaremo": {
+    "refs": [
+      "Isaías 25:9"
+    ],
+    "freq": 1,
+    "forms": [
+      "gozaremos"
+    ]
+  },
+  "gaguejante": {
+    "refs": [
+      "Isaías 28:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "gaguejantes"
+    ]
+  },
+  "gago": {
+    "refs": [
+      "Isaías 32:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "gagos"
+    ]
+  },
+  "generoso": {
+    "refs": [
+      "Isaías 32:5",
+      "Mateus 18:26",
+      "Mateus 18:29"
+    ],
+    "freq": 3,
+    "forms": [
+      "generoso"
+    ]
+  },
+  "grou": {
+    "refs": [
+      "Isaías 38:14",
+      "Jeremias 8:7"
+    ],
+    "freq": 2,
+    "forms": [
+      "grou"
+    ]
+  },
+  "gemia": {
+    "refs": [
+      "Isaías 38:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gemia"
+    ]
+  },
+  "gravar": {
+    "refs": [
+      "2 Coríntios 3:7",
+      "Isaías 40:20",
+      "Jeremias 17:1",
+      "Zacarias 14:20"
+    ],
+    "freq": 4,
+    "forms": [
+      "gravado",
+      "gravar"
+    ]
+  },
+  "guerrearem": {
+    "refs": [
+      "Isaías 41:12"
+    ],
+    "freq": 1,
+    "forms": [
+      "guerrearem"
+    ]
+  },
+  "glorificou": {
+    "refs": [
+      "ATOS 3:13",
+      "Apocalipse 18:7",
+      "Hebreus 5:5",
+      "Isaías 44:23",
+      "Isaías 55:5",
+      "Isaías 60:9",
+      "Mateus 9:8",
+      "Romanos 8:30"
+    ],
+    "freq": 8,
+    "forms": [
+      "glorificou"
+    ]
+  },
+  "gastei": {
+    "refs": [
+      "Isaías 49:4"
+    ],
+    "freq": 1,
+    "forms": [
+      "gastei"
+    ]
+  },
+  "gravei": {
+    "refs": [
+      "Isaías 49:16"
+    ],
+    "freq": 1,
+    "forms": [
+      "gravei"
+    ]
+  },
+  "gastal": {
+    "refs": [
+      "Isaías 55:2"
+    ],
+    "freq": 1,
+    "forms": [
+      "gastais"
+    ]
+  },
+  "gostam": {
+    "refs": [
+      "Isaías 56:10",
+      "Jeremias 6:10",
+      "Marcos 12:38"
+    ],
+    "freq": 3,
+    "forms": [
+      "gostam"
+    ]
+  },
+  "guloso": {
+    "refs": [
+      "Isaías 56:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "gulosos"
+    ]
+  },
+  "gememo": {
+    "refs": [
+      "2 Coríntios 5:2",
+      "2 Coríntios 5:4",
+      "Isaías 59:11",
+      "Romanos 8:23"
+    ],
+    "freq": 4,
+    "forms": [
+      "gememos"
+    ]
+  },
+  "gloriaral": {
+    "refs": [
+      "Isaías 61:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "gloriareis"
+    ]
+  },
+  "gozarão": {
+    "refs": [
+      "Isaías 65:22"
+    ],
+    "freq": 1,
+    "forms": [
+      "gozarão"
+    ]
+  },
+  "geraria": {
+    "refs": [
+      "Isaías 66:9"
+    ],
+    "freq": 1,
+    "forms": [
+      "geraria"
+    ]
+  },
+  "guiava": {
+    "refs": [
+      "Jeremias 2:17"
+    ],
+    "freq": 1,
+    "forms": [
+      "guiava"
+    ]
+  },
+  "geraste": {
+    "refs": [
+      "Jeremias 2:27"
+    ],
+    "freq": 1,
+    "forms": [
+      "geraste"
+    ]
+  },
+  "gaiola": {
+    "refs": [
+      "Jeremias 5:27"
+    ],
+    "freq": 1,
+    "forms": [
+      "gaiola"
+    ]
+  },
+  "gostaram": {
+    "refs": [
+      "Jeremias 14:10"
+    ],
+    "freq": 1,
+    "forms": [
+      "gostaram"
+    ]
+  },
+  "gerarem": {
+    "refs": [
+      "Jeremias 16:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "gerarem"
+    ]
+  },
+  "gemaria": {
+    "refs": [
+      "Jeremias 29:3",
+      "Jeremias 36:10",
+      "Jeremias 36:11",
+      "Jeremias 36:12",
+      "Jeremias 36:25"
+    ],
+    "freq": 5,
+    "forms": [
+      "gemarias"
+    ]
+  },
+  "gerai": {
+    "refs": [
+      "Jeremias 29:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "gerai"
+    ]
+  },
+  "glorificá": {
+    "refs": [
+      "Jeremias 30:19"
+    ],
+    "freq": 1,
+    "forms": [
+      "glorificá"
+    ]
+  },
+  "gritarão": {
+    "refs": [
+      "Ezequiel 27:30",
+      "Jeremias 31:6"
+    ],
+    "freq": 2,
+    "forms": [
+      "gritarão"
+    ]
+  },
+  "guiá": {
+    "refs": [
+      "Jeremias 31:9"
+    ],
+    "freq": 1,
+    "forms": [
+      "guiá"
+    ]
+  },
+  "goa": {
+    "refs": [
+      "Jeremias 31:39"
+    ],
+    "freq": 1,
+    "forms": [
+      "goa"
+    ]
+  },
+  "ganharal": {
+    "refs": [
+      "Jeremias 32:5"
+    ],
+    "freq": 1,
+    "forms": [
+      "ganhareis"
+    ]
+  },
+  "gerute": {
+    "refs": [
+      "Jeremias 41:17"
+    ],
+    "freq": 1,
+    "forms": [
+      "gerute"
+    ]
+  },
+  "gemerei": {
+    "refs": [
+      "Jeremias 48:31",
+      "Miquéias 1:8"
+    ],
+    "freq": 2,
+    "forms": [
+      "gemerei"
+    ]
+  },
+  "gritarei": {
+    "refs": [
+      "Jeremias 48:31"
+    ],
+    "freq": 1,
+    "forms": [
+      "gritarei"
+    ]
+  },
+  "geral": {
+    "refs": [
+      "Jeremias 48:38"
+    ],
+    "freq": 1,
+    "forms": [
+      "geral"
+    ]
+  },
+  "grar": {
+    "refs": [
+      "ATOS 17:11",
+      "ATOS 2:41",
+      "Lamentações 3:33",
+      "Mateus 13:15"
+    ],
+    "freq": 4,
+    "forms": [
+      "grado"
+    ]
+  },
+  "grava": {
+    "refs": [
+      "Ezequiel 4:1"
+    ],
+    "freq": 1,
+    "forms": [
+      "grava"
+    ]
+  },
+  "gritem": {
+    "refs": [
+      "Ezequiel 8:18"
+    ],
+    "freq": 1,
+    "forms": [
+      "gritem"
+    ]
+  },
+  "grandíssima": {
+    "refs": [
+      "2 Pedro 1:4",
+      "Ezequiel 9:9"
+    ],
+    "freq": 2,
+    "forms": [
+      "grandíssima",
+      "grandíssimas"
+    ]
+  },
+  "golpeará": {
+    "refs": [
+      "Ezequiel 23:47"
+    ],
+    "freq": 1,
+    "forms": [
+      "golpeará"
+    ]
+  },
+  "gemerem": {
+    "refs": [
+      "Ezequiel 26:15"
+    ],
+    "freq": 1,
+    "forms": [
+      "gemerem"
+    ]
+  },
+  "gamadita": {
+    "refs": [
+      "Ezequiel 27:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "gamaditas"
+    ]
+  },
+  "glorificaste": {
+    "refs": [
+      "Daniel 5:23",
+      "Ezequiel 27:25"
+    ],
+    "freq": 2,
+    "forms": [
+      "glorificaste"
+    ]
+  },
+  "gemei": {
+    "refs": [
+      "Ezequiel 30:2",
+      "Joel 1:11",
+      "Joel 1:13",
+      "Joel 1:5",
+      "Zacarias 11:2"
+    ],
+    "freq": 5,
+    "forms": [
+      "gemei"
+    ]
+  },
+  "gemerá": {
+    "refs": [
+      "Ezequiel 30:24"
+    ],
+    "freq": 1,
+    "forms": [
+      "gemerá"
+    ]
+  },
+  "geravam": {
+    "refs": [
+      "Ezequiel 31:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "geravam"
+    ]
+  },
+  "gômer": {
+    "refs": [
+      "Ezequiel 38:6",
+      "Oséias 1:3"
+    ],
+    "freq": 2,
+    "forms": [
+      "gômer"
+    ]
+  },
+  "gerarão": {
+    "refs": [
+      "Ezequiel 47:22"
+    ],
+    "freq": 1,
+    "forms": [
+      "gerarão"
+    ]
+  },
+  "ganhar": {
+    "refs": [
+      "1 Coríntios 9:19",
+      "1 Coríntios 9:20",
+      "1 Coríntios 9:21",
+      "1 Coríntios 9:22",
+      "ATOS 27:16",
+      "Daniel 2:8",
+      "Filipenses 3:8",
+      "Lucas 19:15",
+      "Marcos 8:36",
+      "Mateus 16:26"
+    ],
+    "freq": 10,
+    "forms": [
+      "ganhado",
+      "ganhar"
+    ]
+  },
+  "glorifiquei": {
+    "refs": [
+      "Daniel 4:34",
+      "João 17:4"
+    ],
+    "freq": 2,
+    "forms": [
+      "glorifiquei"
+    ]
+  },
+  "glorifico": {
+    "refs": [
+      "Daniel 4:37",
+      "João 8:54"
+    ],
+    "freq": 2,
+    "forms": [
+      "glorifico"
+    ]
+  },
+  "governante": {
+    "refs": [
+      "Daniel 5:16",
+      "Daniel 5:7"
+    ],
+    "freq": 2,
+    "forms": [
+      "governante"
+    ]
+  },
+  "gabriel": {
+    "refs": [
+      "Daniel 8:16",
+      "Daniel 9:21",
+      "Lucas 1:19",
+      "Lucas 1:26"
+    ],
+    "freq": 4,
+    "forms": [
+      "gabriel"
+    ]
+  },
+  "grécia": {
+    "refs": [
+      "ATOS 20:2",
+      "Daniel 10:20",
+      "Daniel 11:2",
+      "Daniel 8:21",
+      "Zacarias 9:13"
+    ],
+    "freq": 5,
+    "forms": [
+      "grécia"
+    ]
+  },
+  "ganhaste": {
+    "refs": [
+      "Daniel 9:15",
+      "Mateus 18:15"
+    ],
+    "freq": 2,
+    "forms": [
+      "ganhaste"
+    ]
+  },
+  "gestação": {
+    "refs": [
+      "Oséias 9:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "gestação"
+    ]
+  },
+  "gerem": {
+    "refs": [
+      "1 Timóteo 5:14",
+      "Oséias 9:16"
+    ],
+    "freq": 2,
+    "forms": [
+      "gerem"
+    ]
+  },
+  "galho": {
+    "refs": [
+      "Oséias 14:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "galhos"
+    ]
+  },
+  "grego": {
+    "refs": [
+      "1 Coríntios 10:32",
+      "1 Coríntios 12:13",
+      "1 Coríntios 1:22",
+      "1 Coríntios 1:23",
+      "1 Coríntios 1:24",
+      "ATOS 11:20",
+      "ATOS 14:1",
+      "ATOS 16:1",
+      "ATOS 16:3",
+      "ATOS 17:4",
+      "ATOS 18:17",
+      "ATOS 18:4",
+      "ATOS 19:10",
+      "ATOS 19:17",
+      "ATOS 20:21",
+      "ATOS 21:28",
+      "ATOS 21:37",
+      "ATOS 6:1",
+      "ATOS 9:29",
+      "Apocalipse 9:11",
+      "Colossenses 3:11",
+      "Gálatas 2:3",
+      "Gálatas 3:28",
+      "Joel 3:6",
+      "João 12:20",
+      "João 19:20",
+      "João 7:35",
+      "Romanos 10:12",
+      "Romanos 1:14",
+      "Romanos 1:16",
+      "Romanos 2:10",
+      "Romanos 2:9",
+      "Romanos 3:9"
+    ],
+    "freq": 33,
+    "forms": [
+      "grego",
+      "gregos"
+    ]
+  },
+  "guiei": {
+    "refs": [
+      "Amós 2:10"
+    ],
+    "freq": 1,
+    "forms": [
+      "guiei"
+    ]
+  },
+  "gostal": {
+    "refs": [
+      "Amós 4:5"
+    ],
+    "freq": 1,
+    "forms": [
+      "gostais"
+    ]
+  },
+  "gozam": {
+    "refs": [
+      "Obadias 1:7"
+    ],
+    "freq": 1,
+    "forms": [
+      "gozam"
+    ]
+  },
+  "governe": {
+    "refs": [
+      "1 Timóteo 3:4",
+      "Habacuque 1:14"
+    ],
+    "freq": 2,
+    "forms": [
+      "governe"
+    ]
+  },
+  "glorificado": {
+    "refs": [
+      "Mateus 6:2",
+      "Romanos 8:17"
+    ],
+    "freq": 2,
+    "forms": [
+      "glorificados"
+    ]
+  },
+  "gergeseno": {
+    "refs": [
+      "Mateus 8:28"
+    ],
+    "freq": 1,
+    "forms": [
+      "gergesenos"
+    ]
+  },
+  "genesaré": {
+    "refs": [
+      "Lucas 5:1",
+      "Marcos 6:53",
+      "Mateus 14:34"
+    ],
+    "freq": 3,
+    "forms": [
+      "genesaré"
+    ]
+  },
+  "glorificava": {
+    "refs": [
+      "Lucas 13:13",
+      "Mateus 15:31"
+    ],
+    "freq": 2,
+    "forms": [
+      "glorificava"
+    ]
+  },
+  "guardással": {
+    "refs": [
+      "Mateus 16:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardásseis"
+    ]
+  },
+  "galinha": {
+    "refs": [
+      "Lucas 13:34",
+      "Mateus 23:37"
+    ],
+    "freq": 2,
+    "forms": [
+      "galinha"
+    ]
+  },
+  "granjeou": {
+    "refs": [
+      "Mateus 25:16",
+      "Mateus 25:17"
+    ],
+    "freq": 2,
+    "forms": [
+      "granjeou"
+    ]
+  },
+  "granjeei": {
+    "refs": [
+      "Mateus 25:20",
+      "Mateus 25:22"
+    ],
+    "freq": 2,
+    "forms": [
+      "granjeei"
+    ]
+  },
+  "galo": {
+    "refs": [
+      "João 13:38",
+      "João 18:27",
+      "Lucas 22:34",
+      "Lucas 22:60",
+      "Lucas 22:61",
+      "Marcos 13:35",
+      "Marcos 14:30",
+      "Marcos 14:68",
+      "Marcos 14:72",
+      "Mateus 26:34",
+      "Mateus 26:74",
+      "Mateus 26:75"
+    ],
+    "freq": 12,
+    "forms": [
+      "galo"
+    ]
+  },
+  "getsêmani": {
+    "refs": [
+      "Marcos 14:32",
+      "Mateus 26:36"
+    ],
+    "freq": 2,
+    "forms": [
+      "getsêmani"
+    ]
+  },
+  "galileu": {
+    "refs": [
+      "ATOS 1:11",
+      "ATOS 2:7",
+      "ATOS 5:37",
+      "João 4:45",
+      "Lucas 13:1",
+      "Lucas 13:2",
+      "Lucas 22:59",
+      "Lucas 23:6",
+      "Marcos 14:70",
+      "Mateus 26:69"
+    ],
+    "freq": 10,
+    "forms": [
+      "galileu",
+      "galileus"
+    ]
+  },
+  "gólgota": {
+    "refs": [
+      "João 19:17",
+      "Mateus 27:33"
+    ],
+    "freq": 2,
+    "forms": [
+      "gólgota"
+    ]
+  },
+  "glorificaram": {
+    "refs": [
+      "ATOS 11:18",
+      "ATOS 21:20",
+      "Lucas 5:26",
+      "Marcos 2:12",
+      "Romanos 1:21"
+    ],
+    "freq": 5,
+    "forms": [
+      "glorificaram"
+    ]
+  },
+  "gadareno": {
+    "refs": [
+      "Lucas 8:26",
+      "Lucas 8:37",
+      "Marcos 5:1"
+    ],
+    "freq": 3,
+    "forms": [
+      "gadarenos"
+    ]
+  },
+  "grega": {
+    "refs": [
+      "ATOS 17:12",
+      "Lucas 23:38",
+      "Marcos 7:26"
+    ],
+    "freq": 3,
+    "forms": [
+      "grega",
+      "gregas"
+    ]
+  },
+  "glorificavam": {
+    "refs": [
+      "ATOS 13:48",
+      "ATOS 4:21",
+      "Gálatas 1:24",
+      "Lucas 7:16"
+    ],
+    "freq": 4,
+    "forms": [
+      "glorificavam"
+    ]
+  },
+  "guardavamno": {
+    "refs": [
+      "Lucas 8:29"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardavamno"
+    ]
+  },
+  "gastara": {
+    "refs": [
+      "Lucas 8:43"
+    ],
+    "freq": 1,
+    "forms": [
+      "gastara"
+    ]
+  },
+  "granjear": {
+    "refs": [
+      "Lucas 9:25"
+    ],
+    "freq": 1,
+    "forms": [
+      "granjear"
+    ]
+  },
+  "gastare": {
+    "refs": [
+      "Lucas 10:35"
+    ],
+    "freq": 1,
+    "forms": [
+      "gastares"
+    ]
+  },
+  "gabinete": {
+    "refs": [
+      "Lucas 12:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "gabinete"
+    ]
+  },
+  "gastar": {
+    "refs": [
+      "2 Coríntios 12:15",
+      "ATOS 20:16",
+      "Lucas 15:14"
+    ],
+    "freq": 3,
+    "forms": [
+      "gastado",
+      "gastar"
+    ]
+  },
+  "granjeai": {
+    "refs": [
+      "Lucas 16:9"
+    ],
+    "freq": 1,
+    "forms": [
+      "granjeai"
+    ]
+  },
+  "glutonaria": {
+    "refs": [
+      "1 Pedro 4:3",
+      "Gálatas 5:21",
+      "Lucas 21:34",
+      "Romanos 13:13"
+    ],
+    "freq": 4,
+    "forms": [
+      "glutonaria",
+      "glutonarias"
+    ]
+  },
+  "glorifica": {
+    "refs": [
+      "João 12:28",
+      "João 17:1",
+      "João 17:5",
+      "João 8:54"
+    ],
+    "freq": 4,
+    "forms": [
+      "glorifica"
+    ]
+  },
+  "glorifique": {
+    "refs": [
+      "1 Pedro 4:16",
+      "João 17:1"
+    ],
+    "freq": 2,
+    "forms": [
+      "glorifique"
+    ]
+  },
+  "gabatá": {
+    "refs": [
+      "João 19:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "gabatá"
+    ]
+  },
+  "guiasse": {
+    "refs": [
+      "ATOS 13:11"
+    ],
+    "freq": 1,
+    "forms": [
+      "guiasse"
+    ]
+  },
+  "grinalda": {
+    "refs": [
+      "ATOS 14:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "grinaldas"
+    ]
+  },
+  "galácia": {
+    "refs": [
+      "1 Coríntios 16:1",
+      "1 Pedro 1:1",
+      "2 Timóteo 4:10",
+      "ATOS 16:6",
+      "ATOS 18:23",
+      "Gálatas 1:2"
+    ],
+    "freq": 6,
+    "forms": [
+      "galácia"
+    ]
+  },
+  "gálio": {
+    "refs": [
+      "ATOS 18:12",
+      "ATOS 18:14",
+      "ATOS 18:17"
+    ],
+    "freq": 3,
+    "forms": [
+      "gálio"
+    ]
+  },
+  "gaio": {
+    "refs": [
+      "1 Coríntios 1:14",
+      "3 João 1:1",
+      "ATOS 19:29",
+      "ATOS 20:4",
+      "Romanos 16:23"
+    ],
+    "freq": 5,
+    "forms": [
+      "gaio"
+    ]
+  },
+  "guardadora": {
+    "refs": [
+      "ATOS 19:35"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardadora"
+    ]
+  },
+  "gratuitamente": {
+    "refs": [
+      "1 Coríntios 2:12",
+      "Gálatas 3:18",
+      "Romanos 3:24"
+    ],
+    "freq": 3,
+    "forms": [
+      "gratuitamente"
+    ]
+  },
+  "gratuito": {
+    "refs": [
+      "Romanos 5:15",
+      "Romanos 5:16",
+      "Romanos 6:23"
+    ],
+    "freq": 3,
+    "forms": [
+      "gratuito"
+    ]
+  },
+  "glorifiqual": {
+    "refs": [
+      "Romanos 15:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "glorifiqueis"
+    ]
+  },
+  "geralmente": {
+    "refs": [
+      "1 Coríntios 5:1"
+    ],
+    "freq": 1,
+    "forms": [
+      "geralmente"
+    ]
+  },
+  "gloriarde": {
+    "refs": [
+      "2 Coríntios 5:12"
+    ],
+    "freq": 1,
+    "forms": [
+      "gloriardes"
+    ]
+  },
+  "gloriei": {
+    "refs": [
+      "2 Coríntios 7:14"
+    ],
+    "freq": 1,
+    "forms": [
+      "gloriei"
+    ]
+  },
+  "glorio": {
+    "refs": [
+      "2 Coríntios 9:2"
+    ],
+    "freq": 1,
+    "forms": [
+      "glorio"
+    ]
+  },
+  "glorificam": {
+    "refs": [
+      "2 Coríntios 9:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "glorificam"
+    ]
+  },
+  "gloriaremo": {
+    "refs": [
+      "2 Coríntios 10:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "gloriaremos"
+    ]
+  },
+  "gloriarmo": {
+    "refs": [
+      "2 Coríntios 10:16"
+    ],
+    "freq": 1,
+    "forms": [
+      "gloriarmos"
+    ]
+  },
+  "gloriarei": {
+    "refs": [
+      "2 Coríntios 11:18",
+      "2 Coríntios 12:5",
+      "2 Coríntios 12:9"
+    ],
+    "freq": 3,
+    "forms": [
+      "gloriarei"
+    ]
+  },
+  "governava": {
+    "refs": [
+      "2 Coríntios 11:32"
+    ],
+    "freq": 1,
+    "forms": [
+      "governava"
+    ]
+  },
+  "gastarei": {
+    "refs": [
+      "2 Coríntios 12:15"
+    ],
+    "freq": 1,
+    "forms": [
+      "gastarei"
+    ]
+  },
+  "gálata": {
+    "refs": [
+      "Gálatas 3:1"
+    ],
+    "freq": 1,
+    "forms": [
+      "gálatas"
+    ]
+  },
+  "gloriarem": {
+    "refs": [
+      "Gálatas 6:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "gloriarem"
+    ]
+  },
+  "glorificada": {
+    "refs": [
+      "2 Tessalonicenses 3:1"
+    ],
+    "freq": 1,
+    "forms": [
+      "glorificada"
+    ]
+  },
+  "governem": {
+    "refs": [
+      "1 Timóteo 3:12",
+      "1 Timóteo 5:14"
+    ],
+    "freq": 2,
+    "forms": [
+      "governem"
+    ]
+  },
+  "gozarmo": {
+    "refs": [
+      "1 Timóteo 6:17"
+    ],
+    "freq": 1,
+    "forms": [
+      "gozarmos"
+    ]
+  },
+  "gangrena": {
+    "refs": [
+      "2 Timóteo 2:17"
+    ],
+    "freq": 1,
+    "forms": [
+      "gangrena"
+    ]
+  },
+  "gravidade": {
+    "refs": [
+      "Tito 2:7"
+    ],
+    "freq": 1,
+    "forms": [
+      "gravidade"
+    ]
+  },
+  "galardoador": {
+    "refs": [
+      "Hebreus 11:6"
+    ],
+    "freq": 1,
+    "forms": [
+      "galardoador"
+    ]
+  },
+  "glorial": {
+    "refs": [
+      "Tiago 3:14",
+      "Tiago 4:16"
+    ],
+    "freq": 2,
+    "forms": [
+      "gloriais",
+      "glorieis"
+    ]
+  },
+  "guerreal": {
+    "refs": [
+      "Tiago 4:2"
+    ],
+    "freq": 1,
+    "forms": [
+      "guerreais"
+    ]
+  },
+  "gastarde": {
+    "refs": [
+      "Tiago 4:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "gastardes"
+    ]
+  },
+  "ganharemo": {
+    "refs": [
+      "Tiago 4:13"
+    ],
+    "freq": 1,
+    "forms": [
+      "ganharemos"
+    ]
+  },
+  "guardarmo": {
+    "refs": [
+      "1 João 2:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardarmos"
+    ]
+  },
+  "guardemo": {
+    "refs": [
+      "1 João 5:3"
+    ],
+    "freq": 1,
+    "forms": [
+      "guardemos"
+    ]
+  }
+}
