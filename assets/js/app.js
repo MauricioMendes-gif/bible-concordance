@@ -66,7 +66,7 @@
 
   async function loadStats() {
     if (statsPanel?.classList.contains('d-none')) statsPanel.classList.remove('d-none');
-    const fetchMeta = async (v) => { try { const r = await fetch(`${DATA_BASE}${v.toLowerCase()}/meta.json`); return r.ok ? await r.json() : null; } catch { return null; } };
+    const fetchMeta = async (v) => { try { const r = await fetch(`${DATA_BASE}${v.toLowerCase()}/meta.json`); return r.ok ? await res.json() : null; } catch { return null; } };
     const acf = await fetchMeta('ACF'), arc = await fetchMeta('ARC');
     if (document.getElementById('stat-acf-verses')) {
       document.getElementById('stat-acf-verses').textContent = acf?.total_verses?.toLocaleString('pt-BR') || '–';
@@ -77,13 +77,13 @@
   }
   async function loadStrongs() {
     if (strongsData) return;
-    try { const r = await fetch(`${DATA_BASE}strongs.json`); strongsData = r.ok ? await r.json() : {}; } catch { strongsData = {}; }
+    try { const r = await fetch(`${DATA_BASE}strongs.json`); strongsData = r.ok ? await res.json() : {}; } catch { strongsData = {}; }
   }
   function getStrongsInfo(lemma) { return strongsData?.[normalize(lemma)] || null; }
   async function getVerseText(ref) {
     const vPath = currentVersion.toLowerCase();
     if (!versesCache[vPath]) {
-      try { const res = await fetch(`${DATA_BASE}${vPath}/verses.json`); versesCache[vPath] = res.ok ? await r.json() : {}; }
+      try { const res = await fetch(`${DATA_BASE}${vPath}/verses.json`); versesCache[vPath] = res.ok ? await res.json() : {}; }
       catch { versesCache[vPath] = {}; }
     }
     return versesCache[vPath][ref] || 'Texto não disponível.';
